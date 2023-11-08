@@ -1,0 +1,6 @@
+.idea
+venv
+./combined-dataset
+./test-dataset
+./train-dataset
+*.h5
