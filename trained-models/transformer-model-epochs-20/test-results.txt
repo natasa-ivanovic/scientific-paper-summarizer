@@ -1,0 +1,550 @@
+INPUT
+u radu je prikazana primena različitih alata za upravljanje projektima, kao i njihov uticaj na uspešnost projekta na primeru kompanije global pack hungary. analiza faktora koji utiču na uspešnost projekata je izvršena na osnovu teorijskih prilaza koji opisuju značaj i uticaj datih faktora na projekte i omogućavaju formiranje i primenu određenih alata sa ciljem povećanja uspešnosti projekta. u praktičnom delu rada prikazan je primer datih alata na projektu širenja poslovanja firme na nemačko tržište.
+PREDICTION
+<extra_id_0> PROCESA PROCESA PROCESA
+TARGET
+analiza faktora uspešnosti projekata
+rouge1: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+rouge2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+rougeL: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+--------------
+
+INPUT
+tema rada jeste analiza i izbor fasad-nog sistema za arheološki centar. urađen je projekat za dva fasadna sistema sa detaljima i sa uporednom analizom, prema evrokodu.
+PREDICTION
+<extra_id_0> SISTEMA ZA SISTEMA ZA SISTEMA ZA SISTEMA ZA SISTE
+TARGET
+analiza i izbor fasadnog sistema za arheološki centar u mainzu
+rouge1: Score(precision=0.16666666666666666, recall=0.18181818181818182, fmeasure=0.17391304347826086)
+rouge2: Score(precision=0.09090909090909091, recall=0.1, fmeasure=0.09523809523809525)
+rougeL: Score(precision=0.16666666666666666, recall=0.18181818181818182, fmeasure=0.17391304347826086)
+--------------
+
+INPUT
+katastrofalni događaji svake godine izazovu veliki broj materijalnih šteta, kao posledicu imaju veliki broj ljudskih žrtava i veoma negativno utiču na ekonomiju država. da bi se neki događaj klasifikovao u osiguranju kao katastrofalan, potrebno je da određeni parametri dostignu određene vrednosti. parametri koji se uzimaju u obzir prilikom ocene da li je neki događaj katastrofalan jesu suma osiguranja, ukupni gubici i broj žrtava.
+PREDICTION
+<extra_id_0> SISTEMA SISTEMA SISTEMA SISTEMA SISTEMA SISTEMA
+TARGET
+analiza katastrofalnih događaja u 2017. godini i njihov uticaj na osiguranje
+rouge1: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+rouge2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+rougeL: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+--------------
+
+INPUT
+cilj rada i sprovedenog istraživanja bio je sticanje uvida u motivatore koji pokreću publiku da gleda esport, kanale putem kojih publika prati esport, kao i komunikaciju na društvenim mrežama koju publika ostvaruje sa ostalim članovima esport ekosistema.
+PREDICTION
+<extra_id_0> SISTEMA SISTEMA SISTEMA SISTEMA SISTEMA SISTEMA
+TARGET
+analiza motivacije gledalaca i komunikacije na društvenim medijima na primeru esporta
+rouge1: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+rouge2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+rougeL: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+--------------
+
+INPUT
+savremeni trendovi gradnje mašina alatki ogledaju se u razvoju višefunkcionalnih mašina alatki, kao što su obradni centri za struganje-glodanje, koji imaju mogućnost izvođenja više pomoćnih kretanja alata u odnosu na obradak. u radu su opisani karakteristični postupci obrade na obradnim centrima za struganje-glodanje kroz tri grupe zahvata. verifikacija postupaka programiranja kao i analiza karakteristika tehnoloških zahvata su izvršeni na obradnom centru za struganje-glodanje sa četiri numerički upravljane ose.
+PREDICTION
+<extra_id_0> SISTEMA SISTEMA SISTEMA SISTEMA SISTEMA SISTEMA
+TARGET
+analiza postupka programiranja obradnih centara za struganje-glodanje
+rouge1: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+rouge2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+rougeL: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+--------------
+
+INPUT
+u današnjem svetu poslovanja ritam promena se ubrzava, a strateški menadžment predstavlja kontinuirani proces stalnog prilagođavanja preduzeća neprekidnim promenama koje se događaju u okruženju. takođe, ključni element poslovne strategije je i zadovoljstvo kupca, a misija preduzeća se vezuje za razumevanje potreba, želja, navika i mogućnosti potrošača. u ovom radu je primenjena analiza potrošača na praktičnom primeru kompanije dijamant ad, a koja je sprovedena primenom upitnika.
+PREDICTION
+<extra_id_0> PROCESA PROCESA PROCESA PROCESA PROCESA PROCESA
+TARGET
+analiza potrošača u procesu strateškog planiranja
+rouge1: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+rouge2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+rougeL: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+--------------
+
+INPUT
+tema ovog rada je procena rizika za radno mesto vatrogasac-spasilac prema kinney metodi, koja je rađena na osnovu podataka iz mup-a, centra za vanredne situacije u novom sadu i na osnovu statističkih podataka koji prate ovo radno mesto. analizirane su potencijalne opasnosti i štetnosti sa kojima se jedan vatrogasac-spasilac (vatrogasac vođa spasilačke grupe) susreće svakog dana na svom radnom mestu, kao i kako one utiču na njegov život i zdravlje, i koje su to mere koje treba sprovesti da bi se sprečio i umanjio rizik kojem je svakodnevno izložen.
+PREDICTION
+<extra_id_0> - SISTEM ZA SISTEMNIH SISTEMA
+TARGET
+analiza procene rizika za radno mesto vatrogasac-spasilac i mere za poboljšanje uslova procesa rada
+rouge1: Score(precision=0.14285714285714285, recall=0.0625, fmeasure=0.08695652173913043)
+rouge2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+rougeL: Score(precision=0.14285714285714285, recall=0.0625, fmeasure=0.08695652173913043)
+--------------
+
+INPUT
+motivatori su prisutni i neophodni u svakodnevnom životu. govori se o radnim motivatorima, čije postojanje i pravilna primena dovode do ostvarenja željenih ciljeva. na početku rada obrađene su osnovne definicije motivatora rada i motivacije. zatim, analizirane su stimulacije kao motivatori, njihova primena i načini rešavanja problema demotivisanosti i nezadovoljstva.. u praktičnom delu rada sprovedeno je istraživanje na više organizacija različitog tipa, o motivacionom dejstvu određenih motivatora za rad, njihovoj privlačnosti od strane zaposlenih, ponašanje pojedinca i menadžera u situacijama prisutne demotivisanosti, kao i analiza potencijalnih rešenja neželjene situacije.
+PREDICTION
+<extra_id_0> SISTEMA SISTEMA SISTEMA SISTEMA
+TARGET
+analiza radnih motivatora u organizaciji
+rouge1: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+rouge2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+rougeL: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+--------------
+
+INPUT
+u ovom radu sprovedena je analiza zastupljenosti različitih veb tehnologija u izradi pedeset veb sajtova u oblasti školstva na teritoriji republike srbije. nakon toga, izvršena je analiza performansi najzastupljenijih cms sistema uočenih u sprovedenom istraživanju. kao krajnji rezultat, doneta je odluka o odabiru tehnologije za unapređenje sajta škole „milan petrović“ u novom sadu.
+PREDICTION
+<extra_id_0> u sprovedena SISTEMA SISTEMA SISTEMA SISTEMA
+TARGET
+analiza zastupljenosti i procena performansi veb tehnologija u oblasti školstva republike srbije
+rouge1: Score(precision=0.1111111111111111, recall=0.08333333333333333, fmeasure=0.09523809523809525)
+rouge2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+rougeL: Score(precision=0.1111111111111111, recall=0.08333333333333333, fmeasure=0.09523809523809525)
+--------------
+
+INPUT
+rad se bavi istraživanjem strategija i modela zajedničkog funkcionisanja tradicionalnih i savremenih prostora za prodaju u urbanim sredinama. kao poseban model razmatra se postupak nadgradnje tradicionalnih otvorenih prostora gradskih pijaca, zbog formiranja ekonomski isplativijih i funkcionalno korisnijih parcela. ovaj postupak unapređuje procese socijalizacije, nudeći korisnicima tradicionalne pijace da imaju bezbedan prostor, uz očivanje njegovog identiteta.
+PREDICTION
+<extra_id_0> SISTEMA SISTEMA SISTEMA SISTEMA
+TARGET
+arhitektonska studija izgradnje savremenog trgovinskog centra iznad najlon pijace u novom sadu
+rouge1: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+rouge2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+rougeL: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+--------------
+
+INPUT
+program rada bavi se projektovanjem multifunkcionalnog objekta na klisi  u novom sadu. projekat se bazira na istraživanju nekoliko projekata multifunkcionalnih objekata. na osnovu sprovedenih istraživanja, rad će se baviti problematikom povezivanja nekoliko namena objekta.
+PREDICTION
+<extra_id_0> SISTEMA PROJEKTIVNIH PROJETA NA PROJEKTIVNIH PROJETA
+TARGET
+arhitektonska studija multifunkcionalnog objekta na klisi
+rouge1: Score(precision=0.1111111111111111, recall=0.16666666666666666, fmeasure=0.13333333333333333)
+rouge2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+rougeL: Score(precision=0.1111111111111111, recall=0.16666666666666666, fmeasure=0.13333333333333333)
+--------------
+
+INPUT
+obala palićkog jezera je poznata turistička destinacija u prirodnom okruženju sa prepoznatljivom arhitekturom. osnovna ideja projekta je stvoriti prostor za oćuvanje fizičkog i duhovnog zdravlja gde postoje prirodni kontekst kao spoljna i udobnost korisnika kao unutrašnja odrednica kreiranja. analize i potencijali konkretne lokacije su rezultovali velnes-spa centar koja pokazuje univerzalnost i vremenske kvalitete arhitekture od koje je potekla. objekat čuva tradiciju ali ide u korak sa vremenom u kom je nastao.
+PREDICTION
+<extra_id_0> i KULTURA
+TARGET
+arhitektonska studija velnes-spa centra na jezeru palić
+rouge1: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+rouge2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+rougeL: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+--------------
+
+INPUT
+arhitektonski hibrid – centar gradskih hitnih službi, proistekao je iz ideje, da se u novom naselju (novi sad) formira programski hibrid koji će svojom formom i programima komunicirati sa stanovništvom ove lokalne zajednice i na pravi način odgovoriti na senzi-bilitet mesta. da bi se postiglo navedeno, bilo je potrebno projektovati objekat, koji će preko sistema javnih otvo-renih prostora i sadržaja na nivou prizemlja ostvariti primarni kontakt sa korisnicima i okruženjem, a na os-novu čega se formira koncept vertikalnog razvijanja programa povezanih komunikacionim koridorima (hori-zontalnim i vertikalnim).
+PREDICTION
+<extra_id_0> SISTEMA SISTEMA SISTEMA SISTEMA SISTEMA SISTEMA
+TARGET
+arhitektonski hibrid – centar gradskih hitnih službi
+rouge1: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+rouge2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+rougeL: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+--------------
+
+INPUT
+rad se bavi istraživanjem zadate lokacije i progama osnovne škole u novom sadu. finalno arhitektonsko rešenje nastalo je detaljnom analizom programa objekta, konteksta i lokacije na kojoj se objekat nalazi.
+PREDICTION
+<extra_id_0> OBJEKTIVNIH PROJEKTA
+TARGET
+arhitektonski projekat osnovne škole u novom sadu
+rouge1: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+rouge2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+rougeL: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+--------------
+
+INPUT
+u ovom radu je opisan jest alat za automatizovano restful api testiranje veb aplikacije. na studiji slučaja aplikacije za manipulaciju korisnika je ilustrovano korišćenje ovog alata za automatizovano testiranje realnih veb aplikacija. objašnjeni i implemen-tirani su api testovi za svaku funkcionalnost aplikacije.
+PREDICTION
+<extra_id_0> PROCESIJE ZA PROCESIJE ZA PROCESIJE
+TARGET
+automatizovano testiranje korisnosti veb aplikacija pomoću jest okvira
+rouge1: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+rouge2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+rougeL: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+--------------
+
+INPUT
+ovaj rad bavi se analizom performansi lda modela kreiranog sa ciljem određivanja tema koje se pojavljuju u nekom korpusu knjiga. opisan je skup podataka sa kojim se radi kao i svi problemi koji se javljaju prilikom implementacije ovakvog modela. detaljno su analizirana četiri glavna koraka kreiranja modela, pretpocesiranje podataka, ner metoda, određivanje optimalnog broja tema i izbor konkretnog algoritma za implementaciju. za svaki od koraka su demonstrirani različiti pristupi rešavanju problema koji se javljaju. izvršena je evaluacija rezultata za svaki od ovih pristupa nakon čega je odabran optimalan pristup sa ciljem da čini sastavni deo krajnjeg modela.
+PREDICTION
+<extra_id_0> PROCESA MODELA PROCESA SISTEMA SISTEMA SISTEMA 
+TARGET
+automatsko određivanje tema knjiga pomoću tehnika za procesiranje prirodnog jezika
+rouge1: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+rouge2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+rougeL: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+--------------
+
+INPUT
+u okviru rada prikazane su osnovne karakteristike kružnih raskrsnica kao i osnove za planiranje i projektovanje istih. cilj rada je da se prikažu prohodnosti vozila za različite tipove kružnih raskrsnica. prilikom izbora učestvovale su četiri kružne raskrsnice sa različitim dijametrima, krakovima i trakama. za svaku raskrsnicu prikazan je tehnički izveštaj i odgovarajući grafički prilozi. raskrsnice su projektovane u računarskom programu auto cad civil 3d 2019, a prohodnost vozila je urađena primenom dodatka autopath (cgs labs).
+PREDICTION
+<extra_id_0> SISTEMA TRANSPORTA SISTEMA TRANSPORTA SISTEMA
+TARGET
+analiza prohodnosti vozila kroz kružnu raskrsnicu
+rouge1: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+rouge2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+rougeL: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+--------------
+
+INPUT
+kako bi se sprečile deformacije hoda u kasnijem dobu, u ovome radu predstavljen je „biomedicinski uređaj za cipele za korekciju hoda kod dece“ kako bi se popravila statika čitavog tela i smanjio  pritisak u svim zglobovima iznad stopala (skočni, koleno i kukovi). u prvom delu rada predstavljena je ideja kako obezbediti uređaj koji će dete usmeravati da pravilno hoda, dok se drugi deo rada sastoji od proof – of - concepta samog uređaja.
+PREDICTION
+<extra_id_0> - SISTEMA SISTEMA SISTEMA SISTEMA SISTEMA 
+TARGET
+biomedicinski uložak za cipele za korekciju hoda kod dece
+rouge1: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+rouge2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+rougeL: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+--------------
+
+INPUT
+digitalni potpis postao je jedan od najvažnijih kriptografskih alata koji je danas u širokoj upotrebi. njegova osnovna uloga je da potvrdi identitet pošiljaoca poruke, kao i da obezbedi dokaz da je originalni sadržaj poruke ostao nepromenjen. u ovom radu dat je opis nastanka i funkcionisanja digitalnih potpisa, kao i njihova primena u blockchain tehnologiji.
+PREDICTION
+<extra_id_0> PROCESA SISTEMA PROCESIJE
+TARGET
+digitalni potpisi i njihova uloga u blockchain tehnologiji
+rouge1: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+rouge2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+rougeL: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+--------------
+
+INPUT
+u ovom radu predstavljeni su domen specifičan jezik za podršku digitalizacije naftnih polja koji obuhvata definisanje podataka, podršku za višejezički korisnički interfejs, sistem za konverziju veličina u različite jedinice i generator osnove projekta u skladu sa takvom definicijom. jezik je implementiran uz oslonac na microsoft dsl tools alate i t4 template za generisanje izlaza.
+PREDICTION
+<extra_id_0> SISTEMA ZA DIGITALALIZACIJA
+TARGET
+dsl i generator koda za podršku digitalizacije naftnih polja
+rouge1: Score(precision=0.16666666666666666, recall=0.1, fmeasure=0.125)
+rouge2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+rougeL: Score(precision=0.16666666666666666, recall=0.1, fmeasure=0.125)
+--------------
+
+INPUT
+džentrifikacija (urbana džentrifikacija) je proces u kome se fizički degradirani stambeni fond ili čitavi kvartovi, najčešće naselja sa stanovništvom nižeg društveno-ekonomskog sloja, pretvaraju u zone sa stanovanjem za dobrostojeće pripadnike srednje klase, koji se doseljavaju umesto originalnog stanovništva koje sebi ne može da priušti povećanje dažbina i troškova života. predstavlja formiranje stambenih naselja namenjenih dobrovoljcima, ali delimično i izmiče preciznom defini-sanju. promovisana je kao način dopunjavanja identiteta izborom životnog stila, kritikovana kao instrument neolibe-ralne urbane politike namenjene klasnoj segregaciji. rad analizira džentrifikaciju kao socio-ekonomskio fenomen i kao fenomen urbanizma.
+PREDICTION
+<extra_id_0> SISTEMA URBANIJE SISTEMA SISTEMA
+TARGET
+džentrifikacija kao fenomen društveno-ekonomske i prostorne transformacije
+rouge1: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+rouge2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+rougeL: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+--------------
+
+INPUT
+ekološki uticaj mangana na grafičko okruženje utvrđen je kroz određivanje sadržaja mangana u štampanim ofset uzorcima i migracije mangana iz uzoraka u deponijsko tlo, kiseo i neutralan rastvor. takođe, izvršena je i procena rizika migracije mangana određivanjem doze koja je dospela u medij životne sredine.
+PREDICTION
+<extra_id_0> TRANSPORTA SISTEMA TRANSPORTA SISTEMA TRANSPORTA SISTEMA
+TARGET
+ekološki uticaj mangana na grafičko okruženje
+rouge1: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+rouge2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+rougeL: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+--------------
+
+INPUT
+u ovom radu su definisani standardi kvaliteta, tendencije i pravci budućeg razvoja elektronskih finansijskih usluga. takođe, napravljen je presjek stanja ovih usluga i analizirane su alternative kao prijedlozi  za unapređenje istih.
+PREDICTION
+<extra_id_0> SISTEMA SISTEMA SISTEMA SISTEMA SISTEMA SISTEMA
+TARGET
+elektronske finansijske usluge u pošti
+rouge1: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+rouge2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+rougeL: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+--------------
+
+INPUT
+predmet istraživanja rada obuhvata pri-menu „mono-strand“ i „multi-strand“ sistema u naknad-no prednapregnutim pločama zgrada, uporednu analizu stvarnih i teorijskih vrednosti elongacija kablova, i oprav-danost redukcije elonagcije kablova sa pasivnom kotvom. statističkom obradom podataka izvedeni su empirijski izrazi za izračunavanje elongacija kablova (sa glatkim cevima) u funkciji promene dužine (5-55 m). usvojena je prosečna elongacija po metru dužnom kabla i formiran je grafik elongacija u funkciji promene dužine kabla sa donjom, gornjom i aritmetičkom vrednošću elongacije u skladu sa tolerancijom od ±7%. izvršena je uporedna analiza kriterijuma tolerancija elongacija prema aci, bs en i pti standardima.
+PREDICTION
+<extra_id_0> SISTEMA SISTEMA SISTEMA SISTEMA SISTEMA SISTEMA
+TARGET
+elongacija kablova u naknadno prednapregnutim pločama
+rouge1: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+rouge2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+rougeL: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+--------------
+
+INPUT
+predmet ovog rada jeste istraživanje različitih uticaja koji redefinišu polje dizajna enterijera u savremenom svetu. osnovni teorijski problemi usmereni su na spektakl, modu, brendiranje, društene mreže i umetnost, i njihove korelacije sa enterijerom, pretvarajući ga u otvoren sistem relacija (asamblaž). istraživanje je ispraćeno sa dva primera koji prikazuju dva različita pristupa dizajnu enterijera.
+PREDICTION
+<extra_id_0> SISTEMA SISTEMA SISTEMA SISTEMA SISTEMA
+TARGET
+enterijer prodavnice satova: prikaz dva različita pristupa
+rouge1: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+rouge2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+rougeL: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+--------------
+
+INPUT
+u prvom delu rada se razmatraju teorijska stanovišta faza životnog ciklusa projekta. pojasniće se sve što te faze obuhvataju i objasniti neke od metoda i tehnika koje se koriste radi lakšeg upravljanja projektom. u drugom delu se na primeru projekta sanacije i adaptacije objekta kbc “dr dragiša mišović” u beogradu prikazuju faze životnog ciklusa sa stanovišta izvođača radova, od iniciranja projekta i ciljeva koji će se ostvariti, detaljnog planiranja kako će se ostvariti, realizacije projekta, te nadzora i kontrolisanja u svim fazama projekta.
+PREDICTION
+<extra_id_0> PROCESA PROJECIJE PROCESA PROJECIJE PROCESA PROJECIJE
+TARGET
+faze životnog ciklusa projekta
+rouge1: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+rouge2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+rougeL: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+--------------
+
+INPUT
+cilj rada jeste da predstavi okruženje i testove korišćene za funkcionalno testiranje wi-fi halow™ softver steka koristeći alat pod nazivom virtual system platform (vsp).
+PREDICTION
+<extra_id_0> SISTEMA SISTEMA SISTEMA SISTEMA SISTEMA SISTEMA
+TARGET
+funkcionalno testiranje wifi halow™ mac softver steka koristeći virtual system platform
+rouge1: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+rouge2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+rougeL: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+--------------
+
+INPUT
+u ovom radu predstavljena je imple-mentacija rešenja mobilnog uređaja za slanje podataka o temperaturi i vlažnosti vazduha na cloud. sistem se sastoji od razvojnog sistema fusion for arm v8 koji na sebi sadrzi mcu card for stm32, koji služi za komuniciranje sa click-ovima i upravljanje istim. za konekciju s network-om je korišćen  g2c 3g click, koji na sebi sadrži gsm modul i mcu sa instaliranim firmware-om koji komunicira sa modulom i upravlja njime. za merenje temperature i vlažnosti vazduha je korišćen je temp&hum 11 click [1].
+PREDICTION
+<extra_id_0> i SISTEMA SISTEMA SISTEMA SISTEMA SISTEMA 
+TARGET
+g2c 3g click iot termalna stanica
+rouge1: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+rouge2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+rougeL: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+--------------
+
+INPUT
+predmet istraživanja ovog rada jeste generisanje oštećenja zida u arhitektonskoj vizualizaciji iz potrebe da se što realnije prikažu rustični enterijeri koji se sve češće susreću u savremenom dizajnu. rad se bazira na prikazu oštećenja poput prslina i pukotina, ljuspanja i ljušćenja sloja farbe i otpadanja malterskog sloja. rezul-tati pokazuju da se primenom različitih metoda mogu do-bijati varijacije rešenja koje se mogu primenjivati u skla-du sa zahtevima scene na kojoj se radi.
+PREDICTION
+<extra_id_0> PROCESA SISTEMA PROCESA SISTEMA PROCESA SISTEMA
+TARGET
+generisanje oštećenja zida u arhitektonskoj vizualizaciji
+rouge1: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+rouge2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+rougeL: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+--------------
+
+INPUT
+u ovom radu je opisana važnost kontinualnog obezbeđivanja bezbednosti u kontejnerima i smanjenju rizika od neželjenih napada aplikacije. akcenat je dat na skener grype, koji ispituje ranjivost u kontejnerima.
+PREDICTION
+<extra_id_0> SISTEMA SISTEMA SISTEMA SISTEMA SISTEMA SISTEMA
+TARGET
+grype skener za testiranje ranjivosti u kontejnerima
+rouge1: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+rouge2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+rougeL: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+--------------
+
+INPUT
+u radu je obrađen problem hibridne estimacije stanja, koja uključuje kako konvencionalna merenja, tako i sinhronizovana merenja fazora. metod minimuma sume otežanih kvadrata reziduala merenja (wls metod) uvažava strujna merenja u pravougaonim koordinatama.
+PREDICTION
+<extra_id_0> PROCESA SISTEMA SISTEMA SISTEMA SISTEMA SISTEMA
+TARGET
+hibridni estimator stanja sa strujama u pravougaonim koordinatama za uključivanje fazorskih merenja
+rouge1: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+rouge2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+rougeL: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+--------------
+
+INPUT
+ovaj rad bavi se fenomenom radnih prostora i analizom coworking-coliving tipologije kao aktuelne teme savremene arhitekture.
+PREDICTION
+<extra_id_0> i SISTEMA URBAN STRUKTURA
+TARGET
+idejno arhitektonsko rešenje objekta mešovite namene po principima coworking-coliving tipologije
+rouge1: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+rouge2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+rougeL: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+--------------
+
+INPUT
+cilj rada jeste projektovanje idejnog rešenja adaptivne fasade na primeru zgrade radničkog univerziteta u novom sadu. fasada pored ispunjenja estetskih kriterijuma treba biti u potpunosti podređena korisniku i njegovim potrebama, a jedan od glavnih problema koji je potrebno rešiti jeste mogućnost automatizovanog otvaranja velikog broja konfigurisanih panela u skladu sa intenzitetom prirodnog osvetljenja.
+PREDICTION
+<extra_id_0> SISTEMA PROCESIJE SISTEMA PROCESIJE
+TARGET
+idejno rešenje adaptivne fasade radničkog univerziteta u novom sadu
+rouge1: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+rouge2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+rougeL: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+--------------
+
+INPUT
+u radu su izložene metode koje se koriste za projektovanje odvodnje atmosferskih padavina kako zatvorenih tako i otvorenih kanala. za dimenzio-nisanje mreže korišćena je racionalna metoda, kao i softverski paket epaswmm. na osnovu analiziranja i upoređivanja rezultata dobijamo slične ali ne identične rezultate.
+PREDICTION
+<extra_id_0> SISTEMA SISTEMA SISTEMA SISTEMA SISTEMA SISTEMA
+TARGET
+idejno rešenje odvođenja atmosferskih voda naselja opovo sistemom otvorenih i zatvorenih kanala
+rouge1: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+rouge2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+rougeL: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+--------------
+
+INPUT
+u radu su izrađeni modeli vodovodne i atmosferske kanalizacione mreže u naselju sefkerin. na osnovu potreba korisnika, hidrauličke analize formirana je vodovodna mreža. proračun i hidraulička analiza su sprovedeni u okviru programskog paketa epanet. kanalizaciona mreža je trasirana u zavisnosti od topografskih uslova, dok je dimenzionisanje izvršeno na osnovu padavina dvogodišnjeg povratnog perioda. hidraučilčki proračun je proveren pomoću programskog paketa epa swmm. na kraju je sistem proveren za povratni period dvadesetogodišnje padavina pomoću koga su dobijene nepovoljne tačke sistema, odnosno mogućnost pojave izlivanja.
+PREDICTION
+<extra_id_0> PROCESA SISTEMA SISTEMA
+TARGET
+idejno rešenje vodosnabdevanja i odvođenja atmosferskih voda u naselju sefkerin
+rouge1: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+rouge2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+rougeL: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+--------------
+
+INPUT
+bisfenol a (bpa) predstavlja široko primenjivanu supstancu koja se koristi u proizvodnji polikarbonatne plastike i epoksidnih smola. postao je sveprisutan u životnoj sredini kao rezultat velike proizvodnje i potrošnje proizvoda koji sadrže ovu supstancu. jedan od potencijalnih izvora su procedne vode sa deponije otpada čime se obezbeđuje migracija bisfenola a do površinskih i podzemnih vodenih tokova. u okviru rada realizovano je ispitivanje prisustva bisfenola a u procednoj vodi na nesanitarnoj kontrolisanoj deponiji u novom sadu. uzorci su analizirani na hplc sistemu za kvantifikaciju, pri čemu su dobijeni rezultati upoređeni sa rezultatima drugih studija o sadržaju bisfenola a u procednoj vodi.
+PREDICTION
+<extra_id_0> u PROCESNIH SISTEMNIH VODNIH VODNIH VODNIH
+TARGET
+identifikacija i procena izvora emisije bisfenola a u procednim vodama deponije komunalnog otpada
+rouge1: Score(precision=0.1111111111111111, recall=0.07692307692307693, fmeasure=0.09090909090909093)
+rouge2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+rougeL: Score(precision=0.1111111111111111, recall=0.07692307692307693, fmeasure=0.09090909090909093)
+--------------
+
+INPUT
+u ovom radu je razmatrana lokacija kvara kao jedna od najznačajnijih komponenti upravlja-nja kvarom u distributivnim mrežama. detaljno su objašnjene impedantne metode za jednopolni kvar kao najčešći i najkomplikovaniji za lociranje. takođe je obrađen uticaj uzemljenja zvjezdišta na proračun struja kvara, a samim tim i na lokaciju kvara. svi proračuni su realizovani pomoću programa koji je za potrebe ovog rada razvijen u programskom jeziku fortran. dobijeni rezultati su predstavljeni tabelarno i kroz dijagrame i izvršena je njihova analiza.
+PREDICTION
+<extra_id_0> PROCESA SISTEMA SISTEMA SISTEMA SISTEMA SISTEMA
+TARGET
+impedantna metoda za određivanje lokacije jednopolnog kvara u distributivnim mrežama
+rouge1: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+rouge2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+rougeL: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+--------------
+
+INPUT
+u ovom radu predstavljeno je potencijalno rešenje za decentralizovanu aplikaciju za sportsku kladionicu u okviru ethereum blockchain mreže. objašnjenje su teorijske osnove i navedeni izazovi koji se susreću u ovom domenu. opisane su terminologije vezane za ovu decentralizovanu aplikaciju kao što su blockchain tehnologija, ethereum blockchain, koncept pametnih ugovora, oracle entiteti i solidity jezik. na kraju je prikazan model i opis implementacije sistema, kao i završna zaključena zapažanja.
+PREDICTION
+<extra_id_0> SISTEMA SISTEMA SISTEMA SISTEMA
+TARGET
+implementacija aplikacije za sportska klađenja primenom ethereum platforme
+rouge1: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+rouge2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+rougeL: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+--------------
+
+INPUT
+tokom letnjih meseci u gradskim sredinama javljaju se ekstremno visoke temperature. je-dan od razloga za to jeste i zagrevanje partera unutarblo-kovskih prostora usled izloženosti sunčevom zračenju. efektivan način za umanjenje ove izloženosti jeste zasen-čenje upotrebom geometrije građene sredine. shodno tome, cilj ovog rada jeste formiranje i ispitivanje metode koja implementira genetski algoritam, solarne simulacije, 3d i proceduralno modelovanje sa namerom da se umanji osunčanost partera unutarblokovskih prostora. istraživanje je sprovedeno nad blokom lociranim u vršcu. kao granični faktori koriste se visina objekata, indeks izgrađenosti i procenat zauzetosti parcele.
+PREDICTION
+<extra_id_0> PROCESA SISTEMA SISTEMA SISTEMA SISTEMA SISTEMA
+TARGET
+implementacija genetskog algoritama u cilju smanjenja osunčanosti partera unutarblokovskih prostora
+rouge1: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+rouge2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+rougeL: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+--------------
+
+INPUT
+u radu je predstavljen sistem za dobavljanje podataka o new york times člancima preko graphql api-ija (eng. application programming interface). prvenstveno je implementiran rest api koji dobavlja podatke o new york times člancima u sistem i koji su korisnicima dostupni preko graphql api-ija. u ovom radu može se videti razlika u implementaciji rest i graphql api-ija kao i njihove prednosti i mane. diskutovane su koristi graphql api-ija i analizirane određene studije slučaja.
+PREDICTION
+<extra_id_0> i SISTEMA PROCESA SISTEMA
+TARGET
+implementacija graphql api-ija za dobavljanje podataka o new york times člancima
+rouge1: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+rouge2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+rougeL: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+--------------
+
+INPUT
+u ovom radu dat je kratak osvrt na me-nadžment kvalitetom, a jedan od segmenata menadžmenta kvalitetom jeste upravo planiranje kvaliteta. potrebno je izvršiti implementaciju plana kvaliteta u skladu sa zahtjevima standarda iso 10005 na konkretnom primjeru gumeno crijevo u preduzeću „huthcinson“. počevši od opšteg o kompaniji, preko svakog sektora i procesa, potrebno je razviti plan kvaliteta kroz zahtjevane tačke.
+PREDICTION
+<extra_id_0> PROCESA PROCESA PROCESA PROCESA
+TARGET
+implementacija plana kvaliteta u skladu sa zahtjevima iso 10005 na primjeru proizvoda gumeno crijevo u preduzeću hutchinson, ruma
+rouge1: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+rouge2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+rougeL: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+--------------
+
+INPUT
+u ovom radu predstavljena je biblioteka otovrenog koda react-tableql, koja služi da se podaci pribave i prikažu u formi tabele. biblioteka sadrži dve komponente koje uz određenu konfiguraciju dodaju ili modifikuju različite funkcionalnosti tabele. podaci se nabavljaju pomoću graphql upita koji se prosledi apollo client-u. za prikaz tabele i obradu podataka korišten je programski jezik javascript i biblioteka react.
+PREDICTION
+<extra_id_0> PROCESA PROCESA PROCESA PROCESA PROCESA PROCESA
+TARGET
+implementacija react-tableql biblioteke otvorenog koda za tabelarni prikaz podataka
+rouge1: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+rouge2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+rougeL: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+--------------
+
+INPUT
+ovaj rad se bavi industrijom 4.0, njenim uticajem na lanac snabdevanja i kako doprinosi njegovoj digitalizaciji.
+PREDICTION
+<extra_id_0> i SISTEMALIZACIJA
+TARGET
+industrija 4.0 i njen uticaj na lanac snabdevanja
+rouge1: Score(precision=0.4, recall=0.2222222222222222, fmeasure=0.2857142857142857)
+rouge2: Score(precision=0.25, recall=0.125, fmeasure=0.16666666666666666)
+rougeL: Score(precision=0.4, recall=0.2222222222222222, fmeasure=0.2857142857142857)
+--------------
+
+INPUT
+u radu je analiziran problem inter-aktivne arhitektonske vizualizacije pomoću koje je prika-zan primer pametnog stana sa određenim funkcijama. kako pametni stanovi podrazumevaju prilagođavanje ambijenta željama korisnika, obično postoji problem kako to predočiti korisniku, a da bude efikasno, uverljivo i eko-nomično. ono što je najznačajnija funkcija sistema kućne automatike u pametnim stanovima su programski scena-riji, te su kroz ovaj rad, koji podrazumeva tri takva scenarija, u programu unreal engine, prikazane funkcije adekvatne za svaki od njih. cilj rada jeste istražiti moguć-nosti što realističnijeg simuliranja funkcija koje ovakvi stanovi poseduju.
+PREDICTION
+<extra_id_0> SISTEMA SISTEMA SISTEMA SISTEMA SISTEMA SISTEMA
+TARGET
+interaktivna vizualizacija pametnog stana korišćenjem unreal engine-a
+rouge1: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+rouge2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+rougeL: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+--------------
+
+INPUT
+u ovom radu razmatra se uticaj obnov-ljivih izvora električne energije na ieee 13-bus test mrežu. mreža je modifikovana tako što je u nju priključen distribuirani generator – vetroelektrana. cilj ovog rada je da se utvrdi uticaj priključenog distribuiranog generatora na napone kratkog spoja i samu mrežu. modelovanje je rađeno u programskom paketu digsilent power factory.
+PREDICTION
+<extra_id_0> SISTEMA SISTEMA SISTEMA SISTEMA
+TARGET
+ispitivanje uticaja obnovljivih izvora primenom test mreže
+rouge1: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+rouge2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+rougeL: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+--------------
+
+INPUT
+ovaj rad se bavi analizom komunici-ranja i donošenja odluka u savremenom poslovanju. cilj istraživanja je da se utvrdi na koji način ispitanici komuniciraju u organizaciji, koje teškoće postoje prilikom komuniciranja i na koji način zaposleni razmišljaju u toku procesa donošenja odluka.
+PREDICTION
+<extra_id_0> PROCESA SISTEMA SISTEMA SISTEMA
+TARGET
+istraživanje komuniciranja i donošenja odluka u organizaciji „beogradske elektrane“, beograd
+rouge1: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+rouge2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+rougeL: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+--------------
+
+INPUT
+flekso tehnika štampe beleži najveću inovativno-tehnološku ekspanziju i imajući na umu njen značaj za grafičku industriju i s druge strane tehnologiju 3d štampanja, koja trenutno cveta, javila se potreba za testiranjem mogućnosti kreiranja fleksografske štamparske ploče 3d tehnologijom štampanja. u okviru ovog rada ispitivana je mogućnost izrade flekso štamparske forme, odgovarajućih debljina, sa zadovoljavajućom reproduk-cijom štampajućih elemenata u vidu linija i tačaka odgova-rajućih širina, odnosno prečnika, postupkom dlp (direct light processing) 3d tehonologije štampe. na osnovu mikroskopskuh snimaka reprodukovanih štampajućih elemenata forme a potom merenja prečnika, odnosno širina štampajućih elemenata u odgovarajućem softveru i analize njihove tačnosti reprodukcije, ukazano je na potencijalne mogućnosti izrade kao i nedostatke.
+PREDICTION
+<extra_id_0> PROCESA SISTEMA SISTEMA SISTEMA SISTEMA SISTEMA
+TARGET
+istraživanje mogućnosti izrade štampajućih elemenata flekso štamparske forme pomoću dlp 3d tehnologije
+rouge1: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+rouge2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+rougeL: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+--------------
+
+INPUT
+predmet rada jeste strujanje jonske tečnosti n-butil n,n,n trimetilamonijum bis(trihlormetilsulfonil)imid, skraćeno [n4111][ntf2], kroz pravu cev. cilj rada jeste istraživanje prinudne konvekcije i hidrauličkih karakteristika pri strujanju jonske tečnosti kroz pravu cevnu deonicu. istraživanje je urađeno primenom računarske dinamike fluida pomoću program-skog paketa starccm+. pri analizi termičkih i hidrauličkih karakteristika zaključeno je da predmetna jonska tečnost ne predstavlja najbolje rešenje kao medijum za prenos toplote za date uslove.
+PREDICTION
+<extra_id_0> PROCESA SISTEMNIH PROCESNIH PROCESA SISTEMNIH 
+TARGET
+istraživanje strujanja jonske tečnosti primenom računarske dinamike fluida
+rouge1: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+rouge2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+rougeL: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+--------------
+
+INPUT
+ovaj rad bavi se značajem organiza-cione posvećenost  na  motivaciju zaposlenih u preduzeću. ljudski resurs je nešto što se konstantno mora razvijati i čuvati. u vreme kad je konkurencija velika, menadžment mora biti svestan da su ljudi koji čine preduzeće, odnosno koji će učiniti da to preduzeće bude konkuretno ili ne. ljudski potencijal se mora negovati da bi se osnovala takva organizaciona klima u kojoj bi zaposleni bili posvećeni organizaciji u kojoj rade.
+PREDICTION
+<extra_id_0> u SISTEMA SISTEMA SISTEMA SISTEMA SISTEMA 
+TARGET
+istraživanje uticaja organizacione posvećenosti i interne komunikacije na motivaciju zaposlenih
+rouge1: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+rouge2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+rougeL: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+--------------
+
+INPUT
+u ovom radu izvršeno je istraživanje zadovoljstva korisnika post express usluga. cilj istraži-vanja je bio da se anketiranjem korisnika proceni pos-tojeći kvalitet usluge i da se dobiju odgovarajuće smer-nice za poboljšanje poslovanja post express-a. na osno-vu ovog istraživanja dati su predlozi za rešavanje problema prekoračenja vremenskih rokova prenosa ekspres pošiljaka i za smanjenje broja pokušaja dostave.
+PREDICTION
+<extra_id_0> SISTEMA SISTEMA SISTEMA SISTEMA SISTEMA SISTEMA
+TARGET
+istraživanje zadovoljstva korisnika
+rouge1: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+rouge2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+rougeL: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+--------------
+

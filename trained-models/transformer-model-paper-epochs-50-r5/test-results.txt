@@ -1,0 +1,1140 @@
+INPUT
+automatizacijom primarnih i sekundarnih toplotnih pod-stanica kod krajnjih korisnika omogućuje se fina regulacija, plasman toplotne energije ka potrošačima i smanjenje konkretne proizvodnje u izvorima u periodima kada spoljna temperatura raste.kako je neminovno korišćenje tradicionalnih energenata, intenzivno se radi na usavršavanju tehnologija za eksploa-taciju i dalju manipulaciju istih, što se jednako odnosi na sve vrste energenata, izmedju ostalih i prirodni gas.4) imaju odgovarajuće rešenje o odobrenju tipa merila, slika 1 tehnološka šema primarnog dela automatizovane toplotne podstanice slika 2 tehnološka šema primarnog dela automatizovane toplotne podstanice 31 uređaji za regulaciju pritiska slika 3 uređaj za regulaciju pritiska - osnovne karakteristike: - dimenzije: dn 15-50, - maksimalni protok pri padu pritiska od 1 bar do koje ne dolazi do kavitacije unutar uređaja: kvs 4,0-25m3h, - nazivni pritisak: pn 25, - opsezi radnih pritisaka: 1-52-83-12 bar, radna temperatura: do 150 c 32 uređaji za regulaciju pritiska slika 4 izgled uređaja za održavanje pritiska 33 uređaji za regulaciju protoka slika 5 uređaj za regulaciju protoka 33 uređaji za ultrazvučno merenje potrošnje toplotne energije slika 6 uređaji za ultrazvučno merenje potrošnje toplotne energije ultrazvučno merilo isporučene toplotne energije bazira se na merenju protoka i razlike temperatura nosioca toplote sekundarne podstanice.tendencija sprovo-đenja definisane strategije i planom automatizacije i povezivanja na sistem daljinskog nadzora i upravljanja svih primarnih podstanica, što je kao distributer toplotne energije u obavezi prema članu 51 zakona o efikasnom korišćenju energije (službeni glasnik rs 552013).kako dnevni gradijent temperature tokom grejne sezone varira, potreban je sistem koji će odgovoriti zahtevima potrošača a naročito povećati efikasnost transformacije, plasmana i isporuke energije.
+PREDICTION
+u ovom radu je opisana analiza i analiza u ovom 
+TARGET
+ovaj rad prikazuje kompatibilan izbor opreme za automatizaciju i prilikom ugovaranja radova po sistemu „ključ u ruke“. ugovaranje, projektovanje, nezaobilazno korišćenje zakonskih okvira, adekvatan izbor i instalaciju automatizovane opreme, za toplotno područje grada novog sada, odnosno toplotnih podstanica kod svake grupe potrošača, optimalan izbor i način rada kompletne opreme.
+rouge1: Score(precision=0.3, recall=0.05555555555555555, fmeasure=0.09375000000000001)
+--------------
+
+rouge2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+--------------
+
+rougeL: Score(precision=0.3, recall=0.05555555555555555, fmeasure=0.09375000000000001)
+--------------
+
+INPUT
+najveća prednost bim-a jeste pouzdaniji prenos informacija između različitih projektnih timova, ali i projektanata i izvođača, odnosno, po završetku projekta, pristup pouzdanim informacijama za one koji održavaju objekat .idejno rešenje izrađeno je upotrebom programskog paketa cgs plateia, a dalja analiza u vidu izrade 4d modela pomoću navisworks-a.na taj način je moguće ispratiti napredak radova kroz vreme i u svakom momentu videti u kojoj fazi je neka od aktivnosti- procentualno na nivou celog objekta ili na nivou posmatrane aktivnosti.barijere koje ometaju bolju implementaciju bim pristupa su :  cena: primena bim pristupa dovodi do smanjenja sveobuhvatnih troškova, ali pre toga je neophodno uložiti određena sredstva za tehničko osposobljavanje, kao i na edukaciju stručnog kadra,  nedostatak potražnje: još uvek je izražen opšte prihvaćeni stav klijent nam nije tražio bim.kao osnovni ulazni parametar za efikasnu primenu bim pristupa izdvojila bih inženjersko iskustvo pre svega, a potom i dovoljni nivo poznavanja softverskih paketa koji su bim pogodni.
+PREDICTION
+u ovom radu je opisana upotreba bim pristupa.
+TARGET
+u radu su prikazane osnove bim pristupa u građevinarstvu, kroz faze projektovanja, izgradnje i održavanja objekta. prikazan je i projekat saobraćajnice spreman za dalju bim analizu, sa primerom 4d analize.
+rouge1: Score(precision=0.625, recall=0.15151515151515152, fmeasure=0.24390243902439024)
+--------------
+
+rouge2: Score(precision=0.14285714285714285, recall=0.03125, fmeasure=0.05128205128205128)
+--------------
+
+rougeL: Score(precision=0.5, recall=0.12121212121212122, fmeasure=0.1951219512195122)
+--------------
+
+INPUT
+na osnovu toga, istraživanje se zasniva na sledećim pitanjima:  koja su znanja potrebna za planiranje događaja  kako događaj utiče na okruženje (stejkholdere)  da li se embok model može primeniti na organizaciju sportskog događaja u cilju boljeg razumevanja tematike ovog rada, opisane su teorijske podloge o organizaciji događaja, pre svega planiranja, gde je prikazana šira slika i osnovni pojmovi o događajima i profesiji menadžmenta događaja.cilj rada jeste pružanje smernica za uspešno organizova-nje događaja velikog obima.može se zaključiti da je osnovni cilj međunarodnog embok modela da stvori znanja i procese koji se koriste u upravljanju događajima i koji mogu da zadovolje različite potrebe zainteresovanih aktera.jednostavno, pokazalo se da struktura modela omogućava vrlo značajnu detaljnost i dobar pregled potrebnih aktivnosti koje su neophodne za uspeh projekata.prednosti ovog modela su što je sveobuhvatni okvir, koji pruža veliki prostor za dalje usavršavanje i izučavanje, daje smernice i ideje, sagledava proces menadžmenta događaja iz različitih uglova i dimenzija, pa se omogućava njegovo bolje razumevanje i obavljanje za organizovanje bilo kog događaja, pa i fudbalske utakmice, embok može biti korisno pomoćno sredstvo.kao i kod svakog događaja, uvek se javljaju neplanirani problemi, koji se u hodu rešavaju i upravo zbog toga je potrebno na vreme početi sa kompletnom organizacijom.
+PREDICTION
+u ovom radu je opisana osnovna analiza i analiza predmeta
+TARGET
+u radu je analiziran embok model i mogućnost njegove priene u organizovanju sprtskog događaja. date susugestije, prikazana ograničenja modela iz čega su dobijene i prikazane smernice za prilagođavanje  modela ovoj vrsti događaja.
+rouge1: Score(precision=0.4, recall=0.10810810810810811, fmeasure=0.1702127659574468)
+--------------
+
+rouge2: Score(precision=0.1111111111111111, recall=0.027777777777777776, fmeasure=0.04444444444444444)
+--------------
+
+rougeL: Score(precision=0.4, recall=0.10810810810810811, fmeasure=0.1702127659574468)
+--------------
+
+INPUT
+ove sposobnosti imaju moguć-nosti da prekriju više slojeva, što je prikazano na slici 1 slika 1 referentni model iot-a prednosti iot-a su kvalitetna kumunikacija, automatiza-cija i kontrola, informativnost, ušteda vremena i novca, efikasnost i kvalitetniji život.oko jama se takođe nalaze brda sa strmim ivicama, i potrebno je nadgledati ovakve površine i detektovati i najmanji pomeraj ovog zemljišta, jer svaki može da izazove katastrofu i ugrozi živote ljudi koji se nalaze u jamama.šema koja sumira okvir formata može se videti na slici 3 slika 3 format lora okvira 33 lorawan da bi se implementirala lorawan mreža, potrebne su sledeće komponente:  krajnji uređaj (eng end device): uglavnom senzori male potrošnje koji komuniciraju sa gateway-om koristeći lora modulaciju.isto tako, korisno je saznanje koja parking mesta su zauzeta više nego ostala, koliko dugo se ljudi zadržavaju na određenim parking mestima, a takođe i koja mesta nikad nisu zauzeta jer ih ljudi nikad ne pronađu.još jedna loša strana toga jeste konstantno zračenje živog sveta, koliko god sada ti signali koji se emituju izgledali beznačajno  kada potpuno okruže čoveka i živi svet uopšte, sigurno će imati nekog lošeg uticaja po zdravlje.
+PREDICTION
+u ovom radu je opisana i opisana je i 
+TARGET
+cilj ovog rada jeste analiza upotrebe internet stvari (eng. internet of things – iot)  u različitim životnim okruženjima. objašnjeno je šta pojam iot označava. pomenute su tehnologije koje su dobar izbor pri kreiranju iot sistema. predstavljena je upotreba iota u rudama, gradovima i kućama.
+rouge1: Score(precision=0.4444444444444444, recall=0.08333333333333333, fmeasure=0.14035087719298245)
+--------------
+
+rouge2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+--------------
+
+rougeL: Score(precision=0.4444444444444444, recall=0.08333333333333333, fmeasure=0.14035087719298245)
+--------------
+
+INPUT
+prvenstveno je potrebno jasno definisati pojedinačno pozicije za izvršavanje svake od radnji kako bi se najkvalitetnije sagledali svi eventualni nedostaci koji kao posledicu imaju stvaranje gubitaka.dakle, lean construction predstavlja kontinuirani proces koji teži idealnom, ali se ne završava jer prethodno poboljšanje teži narednom i sve u svrsi istog, iznalaženju najoptimalnijeg procesa rada za svaku od operacija.konstatovano je da će se sa planiranom dinamikom ugradnje elemenata na samom gradilištu, svi prefabri-kovani elementi proizvesti i transportovati na vreme kada bude trebalo da se ugrade.u ovaj vremenski period ne računamo prethodne pripremne radove u vidu zemljanih radova, konktetno za pomenute radove je bila angažovana specijalizovana firma koja je elaboratima o ispitivanju zbijenosti tla dokazala da su pripremni radovi izvedeni po projektu i montaža prefabrikovane armirano betonske konstrukcije je mogla da počne.na predmetnom lokalitetu je prvobitno bila izgrađena hala koja se u toku eksploatacije objekta ispostavila kao nedovoljna za potrebe investitora i stoga se stupilo u realizaciju nadogradnje.
+PREDICTION
+u ovom radu je opisana analiza i analiza u ovom 
+TARGET
+u okviru ovog rada predstavljen je princip optimizacije resursa sa aspekta gubitaka koji se javljaju u toku izvođenja radova. kao osnova za izradu rada korišćen je „lean construction“ princip, a konkretno na primeru procesa od proizvodnje armirano betonskih elemenata montažne hale, preko procesa transporta elemenata montažne konstrukcije od proizvodnog pogona do gradilišta, do ugradnje elemenata na gradilištu. svaki od navedenih kriterijuma gubitaka u osnovnom dokumentu „lean construction“ obrađen je u svakoj od faza izvršavanja radnji i na taj način predstavljeni su načini optimizacije svakog od procesa u izvođenju radova.
+rouge1: Score(precision=0.4, recall=0.04, fmeasure=0.07272727272727272)
+--------------
+
+rouge2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+--------------
+
+rougeL: Score(precision=0.4, recall=0.04, fmeasure=0.07272727272727272)
+--------------
+
+INPUT
+24 total productive maintenance (tpm) opšte je poznato da na tržištu opstaju samo oni koji imaju sposobnost da se stalno i brzo prilagođavaju uslovima koji se stalno menjaju  ukratko, na tržištu opstaju samo najbolji, a ne najjači.da bi proizvodna kompanija ostala konkurentna, potrebno joj je više od jednog koncepta za postizanje i održavanje maksimalne efikasnosti svojih proizvodnih kapaciteta i opreme.ovaj zahtev ne ispunjava tradicionalno održavanje, koje se zasniva na načinu razmišljanja po meri, jer se koncentriše na tehnički stepen iskorišćenosti proizvodnih objekata i opreme .tpm je tako jedinstven koncept.koristeći poka-yoke principe metodologija slučaja kompanije ima za cilj da snizi nivo kvaliteta kvarova putem eliminišući mogućnost pravljenja ljudskih grešaka.umesto toga koncentrišući se na detaljne karakteristike fizičkih uređaja za prikaz, pojašnjenje glavnih teza iza ove metodologije su u srži obim ovog rada.efikasne tehnike ispravljanja grešaka dele sledeće atribu-te, bez obzira na cilj implementacije:  oni su kao kontrolne liste koje potvrđuju ispravnu proceduru ili uslove  zasnivaju se na 100 inspekciji, pošto greške ne mogu biti otkrivene bilo koje drugo sredstvo  metode inspekcije moraju biti pouzdane  inspekcije su autonomne  za kontrolu retkih događaja, uređaji moraju biti jeftini za dizajn, implementaciju i operišu  inspekcijski proces treba da bude u potpunosti poznat trgovinski lanac x svakog dana poručuje robu celokupnog asortimana iz svog lagera.kako se mogu pojaviti svi nedostaci u složenoj proizvodnji kao i u svakodnevnom životu aktivnosti treba sprečiti kada je većina njih, na nekom nivou, izazvana ljudska greška ovo pitanje je bilo centralno tokom ove studije.
+PREDICTION
+u ovom radu je opisana analiza i implementacija i implementacija
+TARGET
+ovaj rad demonstrira primenu elemenata lean filozofije na projektovanje modela proizvodnog sistema. primena poka  yoke alata pri sprečavanju najastajanje grešaka pri porudžini u nekom od trgovinskih lanaca.
+rouge1: Score(precision=0.1, recall=0.03333333333333333, fmeasure=0.05)
+--------------
+
+rouge2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+--------------
+
+rougeL: Score(precision=0.1, recall=0.03333333333333333, fmeasure=0.05)
+--------------
+
+INPUT
+potrebno je bilo prvo detektovati izazove i ciljeve u poslovanju, a nakon toga, upotrebom lin kanvas modela definisati jasnu viziju startupa i korake u daljem razvoju.u cilju toga, lin kanvas model je primenjen na komuna market startup, a kao rezultat ovog rada biće dati konkretni predlozi za dalje usavršavanje komuna marketa kako bi došli do što većeg udela na tržištu.mauria se fokusira na problem umesto da predstavi predloženu vrednost o kojoj govori osterwalder jer tvrdi da je od vitalnog značaja definisanje problema da bi se saznalo ako preduzetnik pravi proizvod koji ga može rešiti.ova verzija mvp-a sadrži:  prodavci mogu da naprave oglas sa fotografijom, kratkim opisom, dugim opisom, dodatnim seo opcijama, povežu sa srodnim proizvodima, da odrede snižene cene  sistem upravljanja narudžbinama  komunikacija putem e-pošte, lista želja, poređenje, pregled prodavaca i proizvoda, jednostavno filtriranje i sortiranje  jednostavno pretraživanje, checkout bez mogućnosti online plaćanja  kontrolna tabla prodavca sa osnovnim alatima za upravljanje prodavnicom  blog sa više od 25 objavljenih originalnih postova čitav sistem je posebno napravljen imajući u vidu tehnološku pismenost prosečnog korisnika i potrebe tržišne niše.komuna market startup ima veliki potencijal i ovim radom je otkriven samo jedan njegov deo.
+PREDICTION
+u ovom radu je opisana upotreba lin kanves modela
+TARGET
+u ovom radu, kao prvi korak, opisane su neke od najrelevantnijih teorija za pokretanje i analizu strartup projekata. nakon teorijskog pregleda, analiziran je startup, koji je u momentu pisanja rada u procesu razvoja.  cilj ovog rada je primeniti lin kanvas model u kreiranju preciznije vizije smera razvoja obrađenog startup projekta.
+rouge1: Score(precision=0.5555555555555556, recall=0.09803921568627451, fmeasure=0.16666666666666669)
+--------------
+
+rouge2: Score(precision=0.25, recall=0.04, fmeasure=0.06896551724137932)
+--------------
+
+rougeL: Score(precision=0.5555555555555556, recall=0.09803921568627451, fmeasure=0.16666666666666669)
+--------------
+
+INPUT
+sve je veći broj senzora koji generišu terabajte podataka, i potreba za brzim i pouzdanim obradama ovih podataka motivisala je uobičajenu iot arhitekturu na edge computing (računarstvo na ivici) uređaje koje komuniciraju sa iot cloud (oblak) platformama.edge computing se obično primenjuje kada organizacije zahtevaju skladištenje i računarsku snagu za izvršavanje određenih aplikacija i procesa i za vizuelizaciju telemetrijskih podataka bilo gde.edge computing je s druge strane, pravi izbor u slučajevima kada je potrebno malo kašnjenje, lokalnim autonomnim radnjama, smanjenim povratnim podacima i kada su u pitanju poverljivi podaci.najveći proizvođači plc-a imaju slične prilaze kada je u pitanju edge computing, ali se isto tako i svaki od njih u ne;emu razlikuje, što se moze videti u radu, sa tim da svi imaju isti cilj, poboljšavanje rada samih sistema, sa prethodno navedenim prednostima korišćenja edge computing-a.ključne prednosti edge computing-a su:  kraće vreme prenosa podataka,  pristup podacima u realnom vremenu,  korišcenje uzeg propusnog opsega,  smanjenje resursa servera i povezanih troškova,  privatnost, izbegavanje slanja svih neobrađenih podataka na čuvanje i obradu na cloud serverima,  pouzdanost, sistem je sposoban da radi čak i kada nije povezan sa cloud server,  brže predviđanje, otkrivanje i sprečavanje katastrofa.
+PREDICTION
+u radu je opisana u radu u radu.
+TARGET
+okviru ovog rada dat je opis računarstva na ivici (edge computing) kod programabilno logičkih kontrolera. urađeno je poređenje računarstva na ivici sa računarstvom u oblaku (cloud computing) u različitim industrijskim primenama. izvršena je analiza praćenja rada pneumatskog cilindra u cilju predviđanja njegovog otkaza u radu.
+rouge1: Score(precision=0.625, recall=0.09090909090909091, fmeasure=0.15873015873015875)
+--------------
+
+rouge2: Score(precision=0.14285714285714285, recall=0.018518518518518517, fmeasure=0.03278688524590164)
+--------------
+
+rougeL: Score(precision=0.625, recall=0.09090909090909091, fmeasure=0.15873015873015875)
+--------------
+
+INPUT
+najčešće prednosti informacionih sistema su da komunikacija postaje brža i efikasnija, moguće je čuvanje velikog broja podataka na malom prostoru, povećava se produktivnost zaposlenih, mogućnost analize velikog broja podataka, a zatim i zaključivanje na osnovu njih.uzimajući u obzir osnovu problema, predmeta i ciljeva istraživanja, kao i metodološki pristup u ovom istraži-vanju, postavljena je osnovna hipoteza: h0 - ne postoji značajna razlika između subuzoraka po posmatranim tematskim celinama.ukoliko se ne dokažu postupci o postojanju sličnosti subuzoraka, time se ukazuje na postojanje razlika i prihvata se alternativna hipoteza: a0 - postoje značajne razlike između subuzoraka po nekim posmatranim tematskim celinama.nije dokazana veza između profitabilnosti firme, vrste industrije i korišćenja softvera, uzorak po industrijama nije bio dovoljan da bi se pokazala veza.u preduzećima gde je profitabilnost niža, veliku ulogu imaju softveri za rad sa tabelama, email, kako oni predstavljaju najjeftinije softvere za pomoć prilikom rada, nije čudno zašto se preduzeća u početku svog rada ili kada nisu u tolikoj finansijskom mogućnosti, odlučuju za njih.
+PREDICTION
+u ovom istraživanju, u ovom istraživanju, 
+TARGET
+predmet istraživanja u okviru rada obuhvata primenu softverskih rešenja u proizvodnim preduzećima na teritoriji republike srbije, istraživanjem su obuhvaćena 74 preduzeća iz proizvodnog sektora, od konditorske, preko tekstilne i hemijske industrije do industrije metala. da bi se mogla sprovesti statistička analiza, uzorak je podeljen na 4 subuzorka na osnovu kriterijumskog obeležja povrat od prodaje preduzeća, i to: negativan i od 0 do 2%; od 2 do 5%; od 5 do 10%, i preko 10%.
+rouge1: Score(precision=0.5, recall=0.04819277108433735, fmeasure=0.0879120879120879)
+--------------
+
+rouge2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+--------------
+
+rougeL: Score(precision=0.375, recall=0.03614457831325301, fmeasure=0.06593406593406592)
+--------------
+
+INPUT
+takođe za razliku od rada u kojem je dobavljanje slika ekrana video igre i slanje akcija za upravljanje igrom vršeno direktno preko atari emulatora, a u ovom radu je to izvedeno indirektno preko odvojene softverske komponente napravljene sepcijalno za tu svrhu.dva reprezentativna rada na ovu temu su 1, 4 u radu autori su predstavili implementaciju agenta za igranje video igre dota 2 agent je implementiran kao duboka neuronska mreža koja na osnovu podataka sa bot api-ja video igre donose odluke o akcijama koje treba da sprovede u igri.prikaz ekrana video igre pre i posle uklanjanja ovih elemenata dat je na slici 1 slika 1 a) izgled video igre pre uklanjanja ukrasnih elemenata, b) izgled video igre nakon uklanjanja ukrasnih elemeanta 32 arhitektura i implementacija neuronske mreže cilj ovog rada bilo je obučavanje agenta koji bi na osnovu tri uzastopne slike ekrana video igre donosio odluke o akcijama koje treba da sprovede.iako rezultat ostvaren nasumičnim izborom deluje prilično blizu rezultatu ostvarenom nakon 3000 epizoda obučavanja, prava razlika između ova dva rezultata ogleda se u tome što agent nakon 3000 epizoda počinje da ciljano izbegava silaženje sa puta.metoda primenjena za obučavanje agenta predstavlja modifi-kovane metode iz radova 1, 9 rezultati postignuti ovom metodom, iako lošiji od rezultata koje ostvaruje prosečan ljudski igrač, pokazuju da je motda primenljiva ali da zahteva velike količine hardverskih resursa i vremena za obučavanje.
+PREDICTION
+u ovom radu je implementacija neuronske mreže. u ovom
+TARGET
+u ovom radu dat je primer primene učenja uslovljavanjem agenta za igranje video igre road fighter. agent je implementiran kao duboka qmreža i obučavan metodom dubokog qučenja. obučavanje je vršeno samo na osnovu slika ekrana video igre. rezultati postignuti nakon 10000 epizoda obučavanja bili su slični rezultatima postignutim u srodnim radovima pod uslovom sličnih hardverskih ograničenja.
+rouge1: Score(precision=0.5, recall=0.07575757575757576, fmeasure=0.13157894736842105)
+--------------
+
+rouge2: Score(precision=0.2222222222222222, recall=0.03076923076923077, fmeasure=0.05405405405405406)
+--------------
+
+rougeL: Score(precision=0.5, recall=0.07575757575757576, fmeasure=0.13157894736842105)
+--------------
+
+INPUT
+model je pojednostavljeni prikaz realnoga sistema napravljen kako da bi poslužio boljem razumevanju iili daljnjem proučavanju tog sistema i eksperimentisanja sa njim, a modelovanje predstavlja proces izrade modela koji mogu biti na osnovu strukture fizički ili simbolički .kada primeti da postoji objektivna mogućnost da se neki artikal proda i time ne ostane ni jedan drugi na policiu rafu, iste vrste, on dolazi kod šefa objekta i predaje mu ,,porudžbinu.kaizen - kaizen je filozofija koja je označava proces stalnog ili kontinualnog postepenog unapređenja stan-dardnog načina rada , koji se primenjuje na nivou celog preduzeća i u kojem učestvuju svi zaposleni, gde se svi u sistemu podstiču da predlažu moguća unapređenja načina rada.trenutno, proces reklamacija izgleda ovako:  razgovorom sa radnicima ustanovljeno je da ni jedna reklamacija nije ista, te da ne postoji pravilo niti šablon za njihovo određivanje i predviđanje.potrebno je naglasiti da je lean koncept kontinuiran proces i da se cela filozofija preduzeća mora prilagoditi konstantnom unapređenju procesa i eliminisanju gubitaka da bi poboljšanja koja su uvedena imala dugoročan efe-kat.
+PREDICTION
+u ovom radu opisan je opisan proces u radu u 
+TARGET
+ovaj rad demonstrira primenu elemenata lean filozofije na na snimanje i analizu gubitaka u procesu reklamacije proizvoda i otklanjanja kvara, primenom vsm metodologije. data je mapa tok vrednosti za trenutno i željeno stanje u procesu prijema reklamacija.
+rouge1: Score(precision=0.3, recall=0.08108108108108109, fmeasure=0.12765957446808512)
+--------------
+
+rouge2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+--------------
+
+rougeL: Score(precision=0.3, recall=0.08108108108108109, fmeasure=0.12765957446808512)
+--------------
+
+INPUT
+motivi koji pokreću čoveka na neku akciju ili ponašanje nisu generalni za sve, ukoliko jedan motiv pokreće pojedinca, ne znači da će imati isti uticaj i na celu grupu ljudi.u svakodnevnom životu, čoveka pokreće niz različitih motiva, bilo to na radnom mestu ili van tokova poslovanja.motivacija se, kao ni druge psihološke varijable, ne može meriti.naravno, svest o pripadnosti organizaciji i promovisanje zajedničkog, a ne ličnih interesa, podrazumeva postojanje adekvatnog sistema motivacije zaposlenih i njegovu efikasnu primenu.nedovoljna motivacija zaposlenih predstavlja jedan od glavnih problema poslovanja jedne organizacije, ukoliko nisu zastupljeni i primenjivani motivatori za rad.
+PREDICTION
+u ovom radu, u ovom radu, u ovom 
+TARGET
+motivatori su prisutni i neophodni u svakodnevnom životu. govori se o radnim motivatorima, čije postojanje i pravilna primena dovode do ostvarenja željenih ciljeva. na početku rada obrađene su osnovne definicije motivatora rada i motivacije. zatim, analizirane su stimulacije kao motivatori, njihova primena i načini rešavanja problema demotivisanosti i nezadovoljstva.. u praktičnom delu rada sprovedeno je istraživanje na više organizacija različitog tipa, o motivacionom dejstvu određenih motivatora za rad, njihovoj privlačnosti od strane zaposlenih, ponašanje pojedinca i menadžera u situacijama prisutne demotivisanosti, kao i analiza potencijalnih rešenja neželjene situacije.
+rouge1: Score(precision=0.375, recall=0.029411764705882353, fmeasure=0.05454545454545454)
+--------------
+
+rouge2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+--------------
+
+rougeL: Score(precision=0.375, recall=0.029411764705882353, fmeasure=0.05454545454545454)
+--------------
+
+INPUT
+međutim, otpad koji potiče direktno od odbačenih elektronskih i električnih proizvoda (ee otpad) predstavlja materijal čija je prerada danas prioritetan zadatak globalog sistema upravljanja otpadom.plastika- najčešće korišćena plastika u elektronskim uređajma, u prosečnom računaru je ima oko 7kg prilikom sagorevanja dolazi do stvaranja dioksina koji može izazvati hormonske poremedaje, oštećenje fetusa, reproduktivnih organa i oštećenja imunog sistema.uzimajući u obzir dobijenu,prosečnu vrednost olova, 09 kg, za svaki, pojedinačno uređaj, dobija se krajnji rezultat, sadržaj olova iznosi 3,6 kg kao i u prethodnom proračunu koji se odnosi konkretno na anketu, primenićemo podatak i za slučaj celog grada novog sada, da uređaj sadrži 09 kg olova.najznačajnija i sve veća upotreba olova u elektronskoj opremi je u displejima i monitorima katodne cevi (crt).takođe, jedno od rešenja može se predstaviti u vidu primene odgova-rajućih mera, kako bi se što manje količine elektronskog i električnog otpada, odlagale na deponije zajedno sa ko-munalnim otpadom i kako bi se postigao visok procenat odvojenog sakupljanja, sto podrazumeva bolju kontrolu nadležnih institucija i sektora.
+PREDICTION
+u ovom radu je opisana analiza otpada u elektronskoj 
+TARGET
+postupak rada podrazumeva  procenu količine olova, koji je sadržan u otpadnim televizorima sa crt monitorima, za grad novi sad, i u zavisnosti od sadržaja olova, analizu negativnih uticaja na životnu sredinu i zdravlje ljudi. dat je pregled raspoloživih i najboljih tehnologija, definisan je scenario, a količina olova je određena na osnovu eksperimentalno/ istraživačkog dela rada.
+rouge1: Score(precision=0.3333333333333333, recall=0.047619047619047616, fmeasure=0.08333333333333333)
+--------------
+
+rouge2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+--------------
+
+rougeL: Score(precision=0.2222222222222222, recall=0.031746031746031744, fmeasure=0.05555555555555555)
+--------------
+
+INPUT
+u cilju zaštite potrošača evorpska unija je razvila tzv rapex sistem za upozoravanje na proizvode koji nose neku vrstu rizika po zdravlje i bezbednost korisnika odnosno potrošača.instrument koji se jako dobro pokazao za nadzor bezbednosti proizvoda na tržištu jeste procena rizika.pored toga, procena rizika je važna za rad na bezbednosti proizvoda van tržišnih nadzornih organa, odnosno, treba da je primenjuju i projektanti, konstruktori i proizvođači kao deo ocene usaglašenosti kojom se obezbeđuje da se na tržištu nađu samo bezbedni proizvodi.takođe, ovim postupkom se mogu uočiti potencijalne opasnosti na već lansiranim proizvodima na tržištu što je važno u smislu povlačenja nebezbednih proizvoda sa istog naravno, svedoci smo da se u realnosti na tržištu pojavljuju proizvodi različitog kvaliteta i stepena bezbednosti.cilj kom treba težiti u budućnosti je da se na tržištu nađu samo bezbedni i sigurni proizvodi, a da oni opet budu pristupačni svakom korisniku, a do tada caveat emptor, odnosno neka kupac bude oprezan.
+PREDICTION
+u ovom radu je opisana procena rizika na tržištu.
+TARGET
+rad sadrži definicije osnovnih pojmova: bezbedan, obmanjujući, opasan proizvod, opasnost, rizik i slično. s obzirom da procena rizika predstavlja alat koji omogućava identifikaciju opasnih karakteristika proizvoda, veći deo rada posvećen je objašnjenju ovog alata i prikazu koraka postupka procene rizika, kao i analizi dve od mnogobrojnih metoda za procenu rizika. dat je prikaz studije slučaja procene rizika na konkretnom primeru produžnog kabla, koji je okarakterisan kao nebezbedan. pored negativnog primera, prikazuje i kompanije koje su u 2019. godini nagrađene za visok nivo bezbednosti svojih proizvoda.
+rouge1: Score(precision=0.5454545454545454, recall=0.06315789473684211, fmeasure=0.11320754716981132)
+--------------
+
+rouge2: Score(precision=0.2, recall=0.02127659574468085, fmeasure=0.03846153846153846)
+--------------
+
+rougeL: Score(precision=0.36363636363636365, recall=0.042105263157894736, fmeasure=0.07547169811320754)
+--------------
+
+INPUT
+u prvom delu rada analizirana je ener-getska efikasnost u zgradarstvu i pravilnici koji se odnose na istu, materijali koji se koriste za povećanje energetske efikasnosti i otpornost fasada na dejstvo požara.drugi, stručni deo rada, sačinjava vizuelni pregled konstrukcije i njegova procena stanja.na vezi između lamela formiran je pasaž iznad kog se nalazi svetlarnik, kako bi prostorije mogle biti prirodno osvetljene.tabela 1 pregled koeficijenata prolaza toplote kroz termički omotač objekta posle energetske sanacije nakon izbora materijala i sistema za energetsku sanaciju odabranih elemenata termičkog omotača predmetne zgrade, potreba za energijom na godišnjem nivou se značajno smanjila.42 mere za unapređenje energetske efikasnosti proračunom energetske efikasnosti predmetne zgrade prema odredbama pravilnika o emenrgetskoj efikasnosti zgrada zaključeno je da zgrada pripada razredu d. u cilju poboljšanja energetskih svojstava zgrade predviđena je energetska sanacija pojedinih spoljašnjih zidova i delova međuspratnih konstrukcija zgrade.
+PREDICTION
+u ovom radu je analiziran pregled energetske efikasnosti predmet
+TARGET
+tema rada je višespratna stambena zgrada u zrenjaninu. izvršen je vizuelni makroskopski pregled zgrade, u cilju utvrđivanja postojećeg stanja. za objekat je urađen proračun energetske efikasnosti. na osnovu ovog proračuna i vizuelnog pregleda konstrukcije, date su sanacione mere koje povećavaju trajnost objekta, energetsku efikiasnost, kao i njegovu usaglašenost sa pravilnikom o energetskoj efikasnosti i pravilnikom o tehničkim zahtevima bezbednosti od požara spoljnih zidova zgrada.
+rouge1: Score(precision=0.5555555555555556, recall=0.06666666666666667, fmeasure=0.11904761904761904)
+--------------
+
+rouge2: Score(precision=0.125, recall=0.013513513513513514, fmeasure=0.024390243902439025)
+--------------
+
+rougeL: Score(precision=0.5555555555555556, recall=0.06666666666666667, fmeasure=0.11904761904761904)
+--------------
+
+INPUT
+ležišta za mostove moraju: - da preuzimaju vertikalne i horizontalne sile reakcija rasponske konstrukcije i da ih prenose na stubove i krajnje potporne stubove; - da omogućuju deformacije rasponske konstrukcije u vidu rotiranja koje nastaje kao rezultat nagiba elastičnih linija savijanja nosača; - da omogućuju pomeranje rasponske konstrukcije u smeru ose objekta, a kod širokih objekata i u poprečnom smeru.slika 6 mali zastitni sloj betona, vidljiva korozija armature, zidno platno slika 7 otpadanje površinskog sloja betona, vidljiva korozija armature stuba u donjim dijelovima zidnog platna slika 8 veće betonsko gnijezdo na zidnom platnu slika 9 oštećena olučna instalacija, slivanje vode, biološko rastinje slika 10 betonsko gnijezdo na ab platnu slika 11 slivanje vode na spojnici, površinska korozija armature, hemijska i biološka korozija betona, glavni nosač slika 12 pukotina na mestu nepovezanih slojeva betona u zidu kanala za odvodnjavanje atmosferskih voda u sklopu glavnog nosača slika 13 korozija armature, nedovoljna debljina zaštitnog sloja betona - glavni nosač i konzolni ispust 23 nedestruktivna ispitivanja kvaliteta betona naknadno - kontrolno ispitivanje čvrstoće betona pri pritisku izvršeno je primjenom nedestruktivne metode ispitivanja (metoda sklerometra).bazirano na evropskim normama en206 i en1990, elementi ab konstrukcije podvožnjaka su svrstani u odgovarajuće klase izloženosti - slika 14 slika 14 klase izloženosti za elemente podvožnjakau okviru predloženog sanacionog rješenja, predviđene su sledeće operacije: - lokalna reprofilacija i površinska zaštita oštećenih ab elemenata (stubovi, glavni nosači, konzolni dijelovi ploče): uklanjanje trošnog i oštećenog površinskog sloja betona sa ab elemenata podvožnjaka i izvođenje novog zaštitnog sloja, odgovarajuće debljine, prema zahtjevima klasa izloženosti; - uspostavljanje adekvatnog sistema odvođenja atmosferske vode sa gornjeg stroja podvožnjaka; - uklanjanje gornjh slojeva podvožnjaka (zastor, sloj za pad...) i izvođenje novih slojeva iznad ab ploče konstrukcije; - zamjena linijskih ab ležišta glavnih ab nosača sa armiranim elastomernim ležištima, ekvivalentne nosivosti i istog tipa (sa aspekta statičkog sistema); - uklanjanje dotrajale čelične ograde i postavljanje izolacionih i apsorbujućih panela za zaštitu od buke kao i metalne konstrukcije za iste.- uzevši u obzir značaj objekta i njegovu namjenu, kao i činjenicu da bi njegova nefunkcionalnost dovela do stopiranja želježničkog saobraćaja na dionici novi sad - subotica, kao i dalje prema evropi, treba preduzeti sve mjere predostrožnosti i sanirati objekat dok je još u fazi detektovanih oštećenja.
+PREDICTION
+u radu u radu i radu u radu i 
+TARGET
+rad se sastoji iz teorijskog i praktičnog dela. u teorijskom dijelu su opisana ležišta: vrste, način ugradnje i primjena. u praktičnom delu je urađena procjena stanja ab konstrukcije podvožnjaka u novom sadu. kako bi se utvrdio stepen oštećenja i dao prijedlog sanacionih radova, sproveden je detaljan vizuelni pregled svih dostupnih elemenata konstrukcije. zaključeno je da na ab elementima postoje brojni defekti i oštećenja. na osnovu analize registrovanih defekata i oštećenja i rezultata nedestruktivnih metoda dat je prijedlog sanacionih mjera u cilju povećanja trajnosti ab konstrukcije.
+rouge1: Score(precision=0.5555555555555556, recall=0.05, fmeasure=0.09174311926605504)
+--------------
+
+rouge2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+--------------
+
+rougeL: Score(precision=0.4444444444444444, recall=0.04, fmeasure=0.07339449541284404)
+--------------
+
+INPUT
+intervencije na ovakvim objektima podrazumevaju zahvate koji se odnose na promenu ili poboljšanje nosivosti, stabilnosti i trajnosti objekta.naime, masivni odnosno gravitacioni betonski i armirano betonski potporni zidovi veoma slabo propuštaju vodu koja se skuplja iza zida te time sprečavaju njeno proticanje kroz tlo.nakvašeni ugao objekta (vlagom sa krova) izazvao je truljenje oslonačkih zona drvenih greda tavanice i delimično smanjio njenu nosivost.tabela 1 koeficijent prolaza toplote 42 mere za unapređenje energetske efikasnosti proračunom energetske efikasnosti predmetnog objekta, prema odredbama pravilnika o energetskoj efikasnosti, zaključeno je da pripada razredu g. u cilju poboljšanja energetskih svojstava objekta predviđena je energetska sanacija.52 nekonstruktivne mere sanacije - izrada horizontalne hidroizolacije - sanacija fasade (uklanjanje preostalog trošnog maltera sa fasade, čišćenje malterskih spojnica, isušivanje zidova i zamena novim malterom, zamena celokupne sokle fasade, popravka uske profilacije na istočnoj fasadi, izrada nove malterske plastike).
+PREDICTION
+u ovom radu je opisana energetska sanacija fasade.
+TARGET
+sadržinu rada čine dve makroceline: teorijski i praktični deo. prvu celinu čini teorijski deo koji se bavi potpornim zidova, njihovom istorijom, primenom, podelama, principima projektovanja i gradnje. drugi deo, odnosno praktični deo, prikazuje analizu objekta vila ”ankica“ kroz sledeće aspekte: 1) istorijski osvrt na objekat, kao i detaljan tehnički opis objekta 2) procenu stanja objekta na osnovu detaljnih vizuelnih pregleda 3)elaborat energetske efikasnosti objekta sa ocenom razreda energetske efikasnosti 4) mere sanacije objekta, kako konstruktivne tako i nekontruktivne. predložene mere sanacija imaju za cilj produžetak i očuvanje nosivosti, funkcionalnosti i trajnosti objekta, a predložene su u skladu sa pravilima očuvanja objekata spomenika kulture.
+rouge1: Score(precision=0.25, recall=0.017543859649122806, fmeasure=0.03278688524590164)
+--------------
+
+rouge2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+--------------
+
+rougeL: Score(precision=0.125, recall=0.008771929824561403, fmeasure=0.01639344262295082)
+--------------
+
+INPUT
+procena je urađena na osnovu raspoloživih podataka iz procene ugroženosti opštine kula iz 2011 godine , pre svega polazeći od indentifikovane ugroženosti kritične infrastrukture za teritoriju autonomne pokrajine vojvodine za zapadnobački okrug, opštinu kula, a koji su primenljivi i u skladu su sa važećom metodologijom za izradu procene ugroženosti od elementarnih nepogoda i drugih nesreća i planova zaštite i spasavanja u vanrednim situacijama .tretman rizika je u vezi sa:  razradom u internom planu zaštite i spasavanja u vanrednim situacijama; - pridržavanjem propisanih urbanističkih mera koje se odnose na zemljotres; - razvoj internog sistema razglasa; - redovnoj obuci zaposlenih za pružanje prve pomoći, zop i njihovoj edukaciji u vezi postupaka u slučaju ove elementarne nepogode.ono što predstavlja ozbiljnu opasnost su produženi hladni talasi koji čine da sve navedene pojave traju duže i budu rasprostranjenije.analizom je utvrđeno da je rizik od snežnih mećava, nanosa i poledica za preduzeće radnik sivac, neprih-vatljiv, karta 4 karta rizika br4 snežne mećave, nanosi i poledica jkpradnik sivac, scenario neželjeni događaj sa najtežim mogućim posledicama tretmanom neprihvatljivih rizika, odnosno preduzi-manjem raznovrsnih planskih mera, redukuje se nivo rizika na prihvatljiv nivo.na osnovu analize scenarija za najverovatniji neželjeni događaj i procene rizika, može se konstatovati da je rizik od zemljotresa nizak i prihvatljiv, a za snežne mećave, nanose i poledicu umeren i prihvatljiv.
+PREDICTION
+u ovom radu je opisana analiza procene ugroženosti opštine
+TARGET
+tema ovog rada je procena rizika za jkp “radnik” sivac koja obuhvata objekte i prostor u vlasništvu pravnog lica (lokacija sivac), koji mogu biti ugroženi elementarnim nepogodama i drugim nesrećama. usled elementarnih nepogoda i drugih nesreća moguće su negativne posledice po samo preduzeće, širu zajednicu i okolinu. negativne posledice se pre svega ogledaju kroz ugroženost života i zdravlja ljudi, ugroženost poslovanja, ugroženost životne sredine i društvene stabilnosti.
+rouge1: Score(precision=0.2727272727272727, recall=0.03896103896103896, fmeasure=0.06818181818181818)
+--------------
+
+rouge2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+--------------
+
+rougeL: Score(precision=0.18181818181818182, recall=0.025974025974025976, fmeasure=0.045454545454545456)
+--------------
+
+INPUT
+da bi se korisniku što detaljnije dočarala virtuelna realnost, potrebno je zavarati sva njegova čula, jer čovekovu percepciju stvarnosti omogućavaju njegova čula.ključna karakteristika svih ovih sistema virtuelne realnosti je da obezbedi okruženje koje stvara računar ili neki drugi medij u kome korisnik ima osećaj prisustva, odnosno da je fizički, perceptivno i psihološki uronjen u virtuelni svet.tu nastaje pitanje kako onda reprodukovati imerzivni zvuk preko para slušalica u svih 360 zvučne sfere 42 prostorni zvuk da bi korisnik imao potpuni osećaj imerzije i kako bi mu se usmerila pažnja u 360 videu ili virtuelnoj realnosti, primenjuje se prostorni zvuk.pošto 3ds max nema opciju eksportovanja u .gltf format, potrebno je instalirati babylon.js plug-in, koji se može besplatno preuzeti sa linka.programi istraživanja i razvoja su u toku širom sveta, radi proučavanja potencijala tehnologija i aplikacija virtuelne realnosti, kako bi se oblast virtuelne realnosti mogla primenjivati (a i priuštiti novčano) ne samo u raznim industrijskim oblastima, već i privatno.
+PREDICTION
+u ovom radu je opisana i opisana je u 
+TARGET
+rad obuhvata kreiranje primera virtuelnog okruženja obogaćenog prostornim zvukom, primenom juniti pogona. kratak uvod o virtuelnoj realnosi i prostornom zvuku daje neku osnovu čitaocu za izradu praktičnog projekta. na primeru je pokazan jedan od pristupa za kreiranje neimerzivnog virtuelnog okruženja i data su rešenja na potencijalne probleme koji se mogu javiti prilikom izrade projekta.
+rouge1: Score(precision=0.2222222222222222, recall=0.03389830508474576, fmeasure=0.0588235294117647)
+--------------
+
+rouge2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+--------------
+
+rougeL: Score(precision=0.2222222222222222, recall=0.03389830508474576, fmeasure=0.0588235294117647)
+--------------
+
+INPUT
+11 projektni zadatak projektnim zadatkom predviđeno je projektovanje više-spratne stambeno - poslovne zgrade spratnosti po+pr (+0,90 m)+10 u budvi, prema evrokod standardu.nacrtati planove armiranja sledećih elemenata: temeljne ploče, ploče prizemlja, ploče tipskog sprata, krovne ploče, karakterističnih ramova u osama 3 i d kao i stepeništa.evrokod propisuje smanjenje savojne i torzione krutosti kod grednih nosača, kao i savojne krutosti kod stubova i platana, da bi se uzela u obzir isprskalost poprečnog presjeka uslijed apliciranih opterećenja, posebno od seizmičkog pravilnik bab 87 predviđa smanjivanje samo torzione krutosti kod greda.razliku u količini aramture prave gredni elementi, s obzirom da je potrebna količina armature u stubovima i seizmičkim zidovima veća kod objekta projektovanog po evrokodu u odnosu na objekat projektovan po domaćim propisima.materijali korišteni za projektovanje objekta po evrokodu su kvalitetniji u smislu veće čvrstoće na pritisak odnosno na zatezanje, što može uticati na to da je potreba za armaturom nešto manja za objekat projektovan po evropskim propisima.
+PREDICTION
+u ovom radu je opisana smanjenje i smanjenje 
+TARGET
+u prvom dijelu rada prikazan je projekat višespratne armiranobetonske zgrade spratnosti po+pr(+0,90 m)+10 u budvi, prema evrokod standardima. u drugom dijelu rada prikazana je uporedna analiza usvojene armature karakterističnih ramova prema evrokodu i domaćim standardima.
+rouge1: Score(precision=0.375, recall=0.07142857142857142, fmeasure=0.12)
+--------------
+
+rouge2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+--------------
+
+rougeL: Score(precision=0.375, recall=0.07142857142857142, fmeasure=0.12)
+--------------
+
+INPUT
+projektnim zadatkom predviđeno je projektovanje armiranobetonske višespratne zgrade po+pr+5, skeletnog tipa sa platnima za ukrućenje, prema evropskim standardima na osnovu zadatog arhitektonskog plana.lokacija objekta je novi sad.slika 2 torziranje zgrade u osnovi prema evrokodu 8 definisani su kriterijumi regularnosti konstrukcije dopunjujući načelne koji se odnose na simetričnost, uniformnost... pri tome konstrukcija i dalje može biti projektovana kao neregularna, ali uz uslov zadovoljenja strožijih uslova (na primer, manje vrednosti faktora ponašanja) iili nemogućnost korišćenja pojednostavljenih metoda proračuna (prostorni nasuprot ravanskom modelu; modalna analiza nasuprot metodi bočnih sila) 31 ponašanje konstrukcije u zavisnosti od promene položaja zidova za ukrućenje analizirana su 3 modela konkretne konstrukcije sa različitim rasporedima zidova za ukrućenje.zidovi za ukućenje, tačnije njihov položaj treba biti što udaljeniji od centra krutosti konstrukcije kako bi se suprotstavili što efikasnije torzionom momentu (idealan položaj jeste obodni deo kosntrukcije)  zidovi jednog pravca ako su dobro orijentisani mogu da spreče torziranje osnove zgrade  sprečavanje neželjenih torzionih efekata usled seizmičkog opterećenja na našu konstrukciju zavisi kako od broja seizmičih zidova tako i od njihovog rasporeda koji je vrlo bitan.analizom predhodna tri modela došlo se do zaključka da se po pitanju torzionih efekata, tj pomeranja i oblika oscilovanja izazvanih torzijom, najbolje ponaša treći model konsrukcije kod kog su zidovi za ukrućenje raspoređeni po obodu konstrukcije.
+PREDICTION
+u ovom radu je opisana analiza karakteristika konstrukcije u
+TARGET
+u prvom delu rada prikazan je projekat armiranobetonske višespratne zgrade po+pr+5 a u drugom delu je analiziran uticaj torzionih efekata na seizmički odgovor konstrukcije prema evropskim standardima.
+rouge1: Score(precision=0.4444444444444444, recall=0.12903225806451613, fmeasure=0.19999999999999998)
+--------------
+
+rouge2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+--------------
+
+rougeL: Score(precision=0.3333333333333333, recall=0.0967741935483871, fmeasure=0.15000000000000002)
+--------------
+
+INPUT
+za potrebe kolektivnog stanovanja urađen je projekat višespratne zgrade pri čemu će se kao poslovni prostor koristiti etaža prizemlja, dok su tipske etaže spratova namenjene za stanovanje.na tipskoj etaži sprata projektovano je pet stambenih jedinica različite površine spratne visine 2,80 m. poslovni prostor na prizemlju čini 11 lokala spratne visine 3,50 m, dok spratna visina podrumske etaže koja je namenjena za zajedničke i pomoćne prostorije prema projektu iznosi 2,60 m. slika 1 dispozicija tipskog sprata stambeno-poslovni objekat je u konstruktivnom smislu projektovan kao skeletna konstrukcija ojačana zidovima za ukrućenje koja se sastoji od četiri rama upravna na kraću stranu objekta i sedam ramova upravnih na dužu stranu objekta.treći slučaj podrazumeva da je tlo istih karakteristika, odnosno da je poluprostor modeliran jednim slojem debljine 18 m, a njegov modul deformacije je usvojen jednakim 50 mpa.slika 4 momenti savijanja ms u zavisnosti od veličine ke u tabelama 1 i 2 date su karakteristične vrednosti momenata na osloncima odnosno u polju temeljne ploče i procentualna razlika u odnosu na veličinu konačnog elementa.za model više-slojnog tla koje se sastoji od tri sloja debljine po 6 m, momenti savijanja imaju veće vrednosti u slučaju kada je ispod temeljne ploče tlo lošijih karakteristika odnosno manjeg modula deformabilnosti.
+PREDICTION
+u ovom radu je opisana konstrukcija i konstrukcija 
+TARGET
+u radu je obrađeno projektno rešenje armiranobetonske temeljne ploče zgrade spratnosti po+p+6 sa posebnim osvrtom na analizu interakcije temeljne ploče i tla. analiza svih relevantnih opterećenja koja deluju na konstrukciju i dimenzionisanje karakterističnih armiranobetonskih elemenata je razmatrano prema evrokodovima. za proračun konstrukcije korišćen je softverski paket tower 8.
+rouge1: Score(precision=0.5, recall=0.06896551724137931, fmeasure=0.1212121212121212)
+--------------
+
+rouge2: Score(precision=0.14285714285714285, recall=0.017543859649122806, fmeasure=0.03125)
+--------------
+
+rougeL: Score(precision=0.5, recall=0.06896551724137931, fmeasure=0.1212121212121212)
+--------------
+
+INPUT
+u podrumu se nalazi prostor namenjen za parkiranje putničkih automobila, prizemlje je predviđeno za poslovne kancelarije i lokale, dok su ostale etaže stambene.projektnim zadatkom su definisani ulazni podaci potrebni za projektovanje stambeno-poslovnog objekta na teritoriji opštine novi sad spratnosti po+pr+5 nadzemni deo objekta čine prizemlje i 5 etaža.,  (  ) 32 kontrola graničnog stanja prslina pbab 87 ograničenje širine prslina proračunski se dokazuje da karakteristična širina prslina, ak(t), usled najnepovoljnije kombinacije dejstva u toku eksploatacije, u proizvoljnom trenutku vremena, nije veća od granične vrednosti širine prslina, au, izraz : ()   najveće širine prslina definisane su pravilnikom za beton i armirani beton u funkciji dugotrajnosti opterećenja i agresivnosti sredine, prema tabeli 2 tabela 2 najveće vrednosti graničnih širina prslina širine prslina pod karakterističnom širinom prslina se smatra vrednost koja je za 70 veća od srednje širine prslina, prema izrazu : ()  17  () srednja širina prslina definisana je relativnim izduženjem armature, razmakom između prslina i slobodnom dilatacijom skupljanja betona, izraz : ()    (1,() + (, 0)) uprošćeni metod kontrole prslina ukoliko se potpuno zanemari sadejstvo zategnutog beto-na, uticaj skupljanja, kao i ako se uvede da najveći napon zatezanja u zategnutoj armaturi, za stanje nakon pojave prsline, nije veći od 117 granice razvlačenja, konkretan proračun širine prsline može da izostane, izraz .pbab 87 je koncipiran sa veoma kompleksnom i opširnom analizom stanja prslina, što se ogleda kako u opisu samih prslina, tako i u numeričkom procesu kojim se izračunavaju svi potrebni faktori i rezultati za analizu stanja prslina.iz svega prethodno prikazanog, dolazi se do zaključka da evropski standard en 1992 daje veće razmake između prslina od srpskog propisa pbab 87, a same širine prslina su, u većini slučajeva (oko 90), veće prema pbab 87 od onih dobijenih prema en 1992 ova dva standarda (pravilnika) su u načelu veoma slična, shvatanja i razumevanja prslina su praktično identična, ali na drugačiji način koncipirana.
+PREDICTION
+u ovom radu je opisana analiza graničnog stanja prslina
+TARGET
+rad se sastoji iz dve celine. prvi deo se sastoji iz kompletnog projekta konstrukcije u svemu sprovedenog prema „en 1992“ standardu, a drugi, istraživački deo, sadrži uporednu analizu prslina prema „en 1992“ i „pbab '87“.
+rouge1: Score(precision=0.2, recall=0.05263157894736842, fmeasure=0.08333333333333333)
+--------------
+
+rouge2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+--------------
+
+rougeL: Score(precision=0.2, recall=0.05263157894736842, fmeasure=0.08333333333333333)
+--------------
+
+INPUT
+s obzirom na istoriju ovog prostora, njegov kulturni značaj, kao i potencijal potrebna su originalna urbanistička i arhitek-tonska rješenja koja bi oživjela sam duh olimpijskih igara i otvorila neke nove poglede javnosti na različite sadržaje koji bi mogli da se integrišu u ovakvu cjelinu.ono što im je zajedničko je da, kao što naziv govori, obezbjede sve moguće informacije o turističkoj destinaciji na kojoj se nalazi i da za nju predstavljaju svojevrsnu početnu tačku i centar okupljanja i promocije turističkih mjesta i objekta.dh kuća je, po riječima projektanata, stambeni objekat za penzionisani par koji se povukao u mirniji kraj gdje žele imati kom-foran i isplativ dom.taj centar ima za cilj da ovakav tip strukture približi posjetiocima, bude jedan od pokretača turističke obnove same planine, a svojom arhitekturom upotpuni cijeli sistem objekata na ovom prostoru.odnos sa okolinom, interakcija različitih sadržaja i mogućnost maksimalne korisnosti prostora u odnosu na kapacitete i arhitektonske odlike su osobine ovog projekta koje su ispoštovale sve kriterijume formiranja modernog sklopa postoje u okolini većih gradova od sarajeva , sa razumijevanjem u kakvom društvenom kontekstu kompleks treba da djeluje.
+PREDICTION
+u ovom radu je opisana u ovom radu u 
+TARGET
+projekat turističkostambenog kompleksa na trebeviću obuhvata različite aspekte projektovanja nastalih iz potreba okoline u konkretnom fizičkom i socijalnom kontekstu. bavi se formiranjem urbanističke cjeline na planinskom području, ispitivanjem funkcija i njihovih odnosa, kao i relacijom između prirode i samih objekata. programska kompleksnost je uslovljena savremenim parametrima u arhitekturi. sprovedeno je pet studija slučaja u kojima se ispitivao odnos ovih parametara i kao rezultat, stvoreni su segmenti koncepta za projekat.
+rouge1: Score(precision=0.4444444444444444, recall=0.05194805194805195, fmeasure=0.09302325581395349)
+--------------
+
+rouge2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+--------------
+
+rougeL: Score(precision=0.4444444444444444, recall=0.05194805194805195, fmeasure=0.09302325581395349)
+--------------
+
+INPUT
+ambalaža, kao deo grafičke industrije koja se neprestano razvija i unapređuje, predstavlja obimno polje istraži-vanja.današnje tržište većinski diktira nisko kalkulisane cene, zatim kratke rokove isporuke, stalno ažuriranje tj izmene, kao i manje tiraže, što predstavlja izazov u svakom procesu .prikaz tih komponenti, koje su označene brojevima, koji predstavljaju redosled kreiranja i kompletan nacrt kutije, je prikazani su na slici 2 slika 2 prikaz razvijenog oblika kutije koja će biti kreirana u engview synergy softveru proces kreiranja dimenziono podesivog nacrta kutije u programu engview synergy obuhvata dve faze:  kreiranje parametarskih komponenti,  spajanje komponenti u kompletan dimenziono podesiv nacrt kutije, jednostavnim principom prevuci i spusti (drag  drop).kutija je dizajnirana tako da se za formiranje ne koristi proces lepljenja, odnosno da je samo sklopiva, što dovodi do uštede materijala i vremena za proizvodnju, kao i eliminisanja štetnih komponenti.radom u engview synergy programu se može videti koliko vremena se može uštedeti kombinovanjem komponenata iz biblioteke, kao i dobra kontrola kreiranih kutija, odnosno lako uočavanje grešaka i njihovo menjanje.
+PREDICTION
+u ovom radu je opisana prikaza i prikaza 
+TARGET
+predmet ovog rada jeste ispitivanje parametarskog projektovanja ambalažne kutije. cilj rada je prikaz, analiza i uticaj parametarskog projektovanja ambalaže u aplikacijama engview paketa  engview synergy i engview package designer.
+rouge1: Score(precision=0.375, recall=0.0967741935483871, fmeasure=0.15384615384615383)
+--------------
+
+rouge2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+--------------
+
+rougeL: Score(precision=0.25, recall=0.06451612903225806, fmeasure=0.10256410256410256)
+--------------
+
+INPUT
+određuju se parametri procesa, koji se sastoje od: vremena zagrevanja, zadržavanja na određenim tempera-turama, hlađenja i određivanja radnih temperatura.34 kaljenje na temperaturi od 860c nakon obrade od 130 minuta na temperaturi od 930c, vrši se hlađenje zupčanika u peći.tabela 1 pregled potrebne opreme redni broj naziv opreme proizvođač broj komada 1 komorna peć 3 2 uređaj za pranje i odmašćivanje wp-21-e ipsen 1 3 endogenerator g-1500-g ipsen 2 4 kran nosivosti 600kg vetter 1 5 ručni hidraulični viljuškar total lifter 3 6 ručna presa za ispravljanje pobeda novi sad 1usvojena je hala dimenzija 32 x 17cementacijom se naugljeničava površinski sloj zupčanika, čime se dobijaju površine otporne na habanje, a jezgro ostaje žilavo i otporno na udare.
+PREDICTION
+u ovom radu je opisana i upotrebljena u 
+TARGET
+tema rada jeste projektovanje tehnološkog postupka i uređaja termohemijske obrade zupčanika. odabran je tip termohmeijske obrade, kontruisan uređaj i pogon za termičku obradu. cilj rada jeste da se analiziraju postupci termohemijske obrade, da se odabere proces i oprema za pogon termičke obrade.
+rouge1: Score(precision=0.25, recall=0.041666666666666664, fmeasure=0.07142857142857142)
+--------------
+
+rouge2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+--------------
+
+rougeL: Score(precision=0.25, recall=0.041666666666666664, fmeasure=0.07142857142857142)
+--------------
+
+INPUT
+oni se uglavnom koriste za provjeru dizajna, ali mogu biti korišćeni i za prikupljanje functional coverage-a.slika.31 duv i testbench proces funkcionalne verifikacije zahteva da se u testbench implementira ista funkcionalnost koja se očekuje od dizajna i da se na osnovu poređenja ponašanja utvrdi njegova ispravnost.- ukoliko slave uređaj postavi pready na visoku vrijednost, onda se izlazi iz access stanja i prelazi u idle stanje ukoliko nema više zahtjeva za transferima.a zatim se u forever begin..end petlji dohvati sequenceitem i pokrene samo postavljanje signala na magistralu u skladu sa protokolom.ovakav pristup omogućava ubrzavanje procesa verifi-kacije, te je dominantan u poslednjih 20 godina.
+PREDICTION
+u radu je opisana u radu u radu u 
+TARGET
+zadatak rada jeste projektovanje verifikacione komponente za apb protokol korišćenjem uvm metologije. programski jezik je systemverilog. u radu je dat uvod u systemverilog jezik i uvm metodologiju. na kraju su prikazani rezultati testiranja i funkcionalni coverage.
+rouge1: Score(precision=0.4444444444444444, recall=0.10810810810810811, fmeasure=0.17391304347826086)
+--------------
+
+rouge2: Score(precision=0.25, recall=0.05555555555555555, fmeasure=0.0909090909090909)
+--------------
+
+rougeL: Score(precision=0.4444444444444444, recall=0.10810810810810811, fmeasure=0.17391304347826086)
+--------------
+
+INPUT
+to je automatska instalacija sa rasprskavajućim mlazom vode, koja u pripremnom položaju, pre aktiviranja, ima zatvorene mlaznice koje se otvaraju na određenoj temperaturi i na taj način započinje automatsko aktiviranje instalacije.forma projekta zadovoljava formu projekta za izvođenje (pzi) iz pravilnika o sadržini, načinu i postupku izrade i način vršenja kontrole tehničke dokumentacije prema klasi i nameni objekata (službeni glasnik rs, br 232015).princip rada programa je potpuno u skladu sa cea 4001 propisom i poseduje vds sertifikat.garaža - po svojoj nameni i karakteru je svrstan u grupu prostorija sa požarnim opterećenjem oh2 iz pregleda tabele 601 i a.02 za požarnu opasnost oh2 dobijeni su sledeći parametri stabilnog sistema za gašenje požara vodom:  minimalna brzina dotoka vode: 5 lmin m2  dejstvujuća površina za mokri sistem:144 m2  minimalno pogonsko vreme: 60 min  maksimalna štićena površina po sprinkleru: 12 m2  maksimalno rastojanje između sprinkler mlaznica: 4 m hotel - po svojoj nameni i karakteru je svrstan u grupu prostorija sa požarnim opterećenjem oh1 iz pregleda tabele 601 i a.02 za požarnu opasnost oh1 dobijeni su sledeći parametri stabilnog sistema za gašenje požara vodom:  minimalna brzina dotoka vode: 5 lmin m2  dejstvujuća površina za mokri sistem:72 m2  minimalno pogonsko vreme: 60 min  maksimalna štićena površina po sprinkleru: 12 m2  maksimalno rastojanje između sprinkler mlaznica: 4 m minimalni potrebni pritisak na mlaznici je 035 bara.preventivne mere za zaštitu od požara na štićenom području moraju se posmatrati kao celina i da u vezi sa tim, svrha stabilnog sistema za gašenje jeste, sa jedne strane da požar drži pod nadzorom, tj sprečava dalje širenje požara, čime će se dobiti na vremenu evakuacije ljudi iz ugroženog područja, a druga važna karakteristika ovog sistema je sprečavanje prekomernog zagrevanja konstrukcije objekta - da bi se zadržao integritet istog, postrojenja i instalacija i u toku samog požara.
+PREDICTION
+u radu je opisana u radu prostorija sa požarnim 
+TARGET
+tema ovog rada jeste proučavanje požara kao česte pojave u današnjem vremenu moderne tehnologije koji predstavlja jedan od najčešćih hazarda. cilj rada je da se ukaže na problematiku izrade projekta sprinkler instalacije za hotel u skladu sa zakonskom regulativom. sekundarni cilj rada je da se obrade i građevinske preventivne mere koje regulišu oblast zaštite od požara. izrada stacionarnih sistema za gašenje požara kao i poštovanje preventivnih mera, imaju humanu ulogu, kako spašavanje ljudskih života tako i sve popularniju ekonomsku opravdanost izrade sistema.
+rouge1: Score(precision=0.5, recall=0.052083333333333336, fmeasure=0.09433962264150943)
+--------------
+
+rouge2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+--------------
+
+rougeL: Score(precision=0.5, recall=0.052083333333333336, fmeasure=0.09433962264150943)
+--------------
+
+INPUT
+metode zasnovane na logici, koje se razvijaju u okviru automatskog rezono-vanja pogodne su u slučajevima u kojima je problem moguće precizno matematički definisati.pored toga, usvaja vertikalno centrični prikaz grafa gde svakom čvoru je dodeljen autonomni agent odgovoran za odabir odgovarajuće particije, distribuirajući time računanje u svim čvorovima.treba naglasiti da se rad odnosi na bestežinske grafove tj težine svih grana imaju vredost 1 dakle, rezultat računanja  (v, l) je razlomak gde je u brojiocu broj suseda koji se nalaze u particiji za koju računamo dok je u imeniocu ukupan broj suseda čvora v. iz izraza 8, gde je b(l) trenutno opterećenje particije a c ukupan kapacitet, dobijamo drugi član (l) koji proizvodi kazne za particije i normalizuje se na osnovu ukupnog opterećenja sistema.za inicijalnu podelu se koristi revolver algoritam, te se inicijalna podela vrlo malo ili nikako razlikuje od finalne podele.algoritam je kodiran u c programskom jeziku i pri pokretanju daje vrlo dobre rezultate na različitim grafovima koji su korišteni za testiranje.
+PREDICTION
+u ovom radu je opisan prikaz grafa u ovom radu
+TARGET
+ovaj rad obrađuje podelu grafa korišćenjem jednog od algoritama učenja sa podsticajem. grafovi se često koriste kao apstrakcije prilikom modeliranja problema. podela grafa na manje delove jedna je od osnovnih algoritamskih operacija. cilj ovog rada je prikaz implementacije algoritma učenja sa podsticajem za podelu grafa na dve particije.
+rouge1: Score(precision=0.5, recall=0.09615384615384616, fmeasure=0.16129032258064518)
+--------------
+
+rouge2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+--------------
+
+rougeL: Score(precision=0.4, recall=0.07692307692307693, fmeasure=0.12903225806451613)
+--------------
+
+INPUT
+softveri, kao što su web aplikacije, svakodnevno su izložene hakerskim napadima, pokušajima neovlašćenog pristupa, krađi osetljivih informacija to su samo neke od kriminalnih aktivnosti koje se nalaze u okruženju web aplikacija.testerima se pruža dovoljno informacija za početak, kada je reč o kategoriji testiranja, važno je osvrnuti se i povući paralelu na tipove hakera koji postoje: crni, beli i sivi šešir.43 test za broken access control zaobiđena kontrola pristupa predstavlja ranjivost koja omogućava napadaču da pristupa neovlašćenim ili neautorizovanim funkcijama ili podacima kao što su pristup tuđem nalogu, pregled osetljivih podataka, izmena korisnikovih podataka, menjanje prava pristupa kontrole pristupa mogu se podeliti u tri široke kategorije: vertikalne, horizontalne i zavisne od konteksta:  vertikalne kontrole pristupa omogućavaju različitim vrstama korisnika pristup različitim delovima funkcionalnosti aplikacije 12 u najjednostavnijem slučaju, ovo obično uključuje podelu između običnih korisnika i administratora  horizontalne kontrole pristupa omogućavaju korisnicima pristup određenom podskupu resursa iste vrste korisnika 12  kontrole pristupa zavisne od konteksta osiguravaju da je pristup korisnika ograničen na ono što je dozvoljeno obzirom na trenutno stanje aplikacije 12 prilikom testiranja kontrole pristupa fokus će biti na eskalaciji horizontalnih privilegija i pristupu tuđim podacima.kako bi se izbegle posledice sql injection-a, neophodno je implementirati adekvatan nivo zaštite uz sledeći koncept :  validacija i sanitizacija ulaznih polja: definisanje odgovarajuće sintakse za ulazno polje forme i eskejpovanje (transformisanje) specijalnih karaketera poput     u sigurnu formu.preporučuje se i uvođenje drugih alata, radi poređenja rezultata sa trenutnim stanjem i dolaska do što preciznijih zaključaka.
+PREDICTION
+u ovom radu je opisana analiza i analiza i upotreb
+TARGET
+u ovom radu predstavljen je razvoj aplikacije za testiranje bezbednosti web aplikacija u python programskom jeziku, kroz prethodno analizirane koncepte bezbednosti i ranjivosti web aplikacija i penetracionog testiranja.
+rouge1: Score(precision=0.6, recall=0.21428571428571427, fmeasure=0.3157894736842105)
+--------------
+
+rouge2: Score(precision=0.2222222222222222, recall=0.07407407407407407, fmeasure=0.1111111111111111)
+--------------
+
+rougeL: Score(precision=0.6, recall=0.21428571428571427, fmeasure=0.3157894736842105)
+--------------
+
+INPUT
+u cilju efikasnijeg rada, bolje organizovanosti i pružanja usluga o evidenciji položenih ispita, kao i njihove pretrage, razvijene su dve aplikacije koje predstavljaju sistem za automatizaciju evidencije položenih ispita.s tim u vezi, predmet ovog master rada jeste realizacija kako desktop tako i veb aplikacije na primeru rada studentske službe kao i evidencije položenih ispita.pošto je reč o dve aplikacije, prvo će biti predstavljena veb aplikacija sa bitnim funkcionalnostima, a potom će biti reči o funkcionalnostima desktop aplikacije koja je prvenstveno namenjena radnicima u studentskoj službi.ono što je posebno važno i što karakteriše ove aplikacije jeste jednostavan a opet moderan korisnički interfejs, lakoća upotrebe, pouzdanost pri čuvanju podataka kao i brzina odziva same aplikacije što u mnogome štedi vreme samim korisnicima.izuzetna organizacija posla, koja je omogućena primenom ovih aplikacija, doprinosi uvećanoj efikasnosti i efektivnosti samih korisnika tj radnika u studentskoj službi, dok s druge strane obezbeđuje jasne i pouzdane informacije studentima kao krajnjim korisnicima.
+PREDICTION
+u ovom radu je opisana u ovom radu. u
+TARGET
+u okviru ovog rada je izvršeno projektovanje i razvoj desktop i veb aplikacije koje bi mogle olakšati i ubrzati proces poslovanja kao i doprineti boljoj organizacije rada studentske službe. prilikom implementacije aplikacija korišćene su tehnologije asp.net mvc i wpf koje predstavljaju sastavni deo microsoftovog .net okruženja.
+rouge1: Score(precision=0.2222222222222222, recall=0.038461538461538464, fmeasure=0.0655737704918033)
+--------------
+
+rouge2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+--------------
+
+rougeL: Score(precision=0.2222222222222222, recall=0.038461538461538464, fmeasure=0.0655737704918033)
+--------------
+
+INPUT
+s početka su korišćene samo za brzu izradu prototipova (eng rapid prototyping), dok su sa razvojem tehnologije i materijala, tehnologije za aditivnu proizvodnju evoluirale do stepena koji omogućava izradu završnih, funkcionalnih proizvoda (eng additive manufacturing) ili finalnih alata (eng rapid tooling) .sa razvojem počinje 2011-te godine, ubrzo postaje popularan i predstavlja upravljački program na pojedinim komercijalnim modelima razvijenim od strane poznatih proizvođača kao što su ultimaker, prusa, printrbot, itd .ovaj korak predstavlja štampanje 3d objekta koji će biti osnov za poređenje sa kasnijim testovima, odnosno štampa pre kompletno izvršene kalibracije.da bi se uspostavio način daljinskog upravljanja potreban je mrežni sistem koji omogućava prenos podataka i signala.pored savremene industrije koja je sa sigurnošću lider u upotrebi uređaja iz navedene tehnologije, svedoci smo sve veće upotrebe i korišćenja 3d štampača u domaćinstvima i kancelarijskim okruženjima.
+PREDICTION
+u radu je opisana tehnologija za aditivnu proizvodnju. 
+TARGET
+u radu je razvijen i uspešno implementiran 3d štampač. opisan je proces konfigurisanja firmvera, kao i detaljan postupak kalibracije koji je neophodan za dobijanje kvalitetnog otiska. prikazan je način daljinkog upravljanja 3d štampača.
+rouge1: Score(precision=0.5, recall=0.1111111111111111, fmeasure=0.1818181818181818)
+--------------
+
+rouge2: Score(precision=0.2857142857142857, recall=0.05714285714285714, fmeasure=0.09523809523809522)
+--------------
+
+rougeL: Score(precision=0.5, recall=0.1111111111111111, fmeasure=0.1818181818181818)
+--------------
+
+INPUT
+prva generacija blokčejn tehnologije, poput bitcoina , bila je ograničena na to da podrži samo kriptovalute uz vrlo malo mogućnosti za pravljenje drugih sistema zasnovanih na njima.druga generacija ili faza razvoja bila bi pojava ethereuma, koji koristi blokčejn tehnologiju, ne samo u svrhu pravljenja kriptovalute, već kao svetski kompjuter (engl world computer) na kome mogu na bezbedan način da se izvršavaju proizvoljni programi (pametni ugovori).potrebna je minimalna količina procesne moći da bi script radio, ali mnoge stvari koje programski jezici opšte namene podržavaju, u njemu ne mogu biti napisane.oprez pri skladištenju podataka je pogotovo izražen kod javnih blokčejn sistema gde se svi podaci čuvaju u jednog velikoj glavnoj knjizi čija veličina može značajno da poraste vremenom i tako optereti svaki čvor u mreži.za razliku od bitocina, jezik za pisanje pametnih ugovora kod ethereuma je tjuring kompletan i pruža mno-go veće mogućnosti od scripta.
+PREDICTION
+u ovom radu je opisana u ovom radu. u
+TARGET
+u ovom radu opisani su osnovni koncepti distribuiranih sistema, blokčejn tehnologije i programskih jezika za pisanje pametnih ugovora. razvoj blokčejn tehnologije je podeljen na tri generacije od kojih je svaka donela nove jezike za pisanje pametnih ugovora. jezici su zasebno analizirani i na kraju je izvršena njihova komparativna analiza u cilju određivanja poželjnih osobina programskih jezika za pisanje pametnih ugovora.
+rouge1: Score(precision=0.5555555555555556, recall=0.07692307692307693, fmeasure=0.13513513513513514)
+--------------
+
+rouge2: Score(precision=0.25, recall=0.03125, fmeasure=0.05555555555555555)
+--------------
+
+rougeL: Score(precision=0.5555555555555556, recall=0.07692307692307693, fmeasure=0.13513513513513514)
+--------------
+
+INPUT
+svoju primenu je virtuelna realnost pronašla i jasno utvr-dila u različitim nišama:  turizam  vojska  arhitektura  edukacija  zabava  sport  filmska industrija  medicina i zdravstvo kroz ovaj rad biće objašnjena primena vr-a u medicini, tačnije u psihoterapiji i još bliže kroz lečenje fobija.pored ovakvog prikaza, moguće je naći se i u većoj učionici, amfiteatru, sali za sastanke (slika 3), na razgovoru za posao (slika 4) ili držeći prezentaciju pred velikim auditorijumom.čega se čovek zapravo plaši kroz razgovor sa psihijat-rom dr milanom latasom, dolazimo do zaključka da u čoveku stvaraju nelagodu sledeće situacije:  nepoznati ljudi  nedostatak samopouzdanja  nepoznati ljudi i njihovo kritičko mišljenje  održavanje pažnje slušalaca  buka i meškoljenje u publici  nepoznata tema ili materija kojom govornik ne vlada 31 personalizovani avatari svi ovi, ali i mnogi drugi faktori utiču na anksioznost govornika i mogu se okarakterisati kao prepreke pred koje je govornik stavljen.pored toga, bilo bi neophodno opskrbiti se sa opremom, te je ukupan iznos koja bi predstavljao inicijalni trošak bio 30000 a mesečni troškovi koji predstavljaju fiksne troškove u proseku bi iznosili 3000 sa pretpostavkom da bi marketingom uspeli da dođemo do prvih korisnika odmah nakon po kreiranju same aplikacije, a da je za kreiranje aplikacije potrebno 2 meseca, smatramo da bi u trećem mesecu već moglo ostvariti prvi profit.u svakom smislu te reči ova-kav pristup pacijentu je krajnje personalizovan i vodi računa o mnogo segmenata jednog korisnika, ali je u isto vreme moguća i njegova masovna eksploatacija, ukoliko je projekat skeniranja svakog pojedinačnog korisnika krajnje kvalitetno osmišljen i izdetaljisan.
+PREDICTION
+u ovom radu je opisana analiza i analiza ovog prikaz
+TARGET
+u eri tehnološkog razvoja u kojoj se nalazimo, uviđamo mnoge velike pomake na polju medicine. psihoterapija je dobila novi oblik i biva unapređena tehnološkim dostignućem  virtuelnom realnosti. kroz ovaj rad je obrađen razvoj usluge i kreiranje aplikacije, koja bi pospešila tretmane lečenja fobija putem vra, ubacivanjem personalizovanih avatara. takođe, razrađen je i biznis plan, putem canvas alata za izradu biznis modela, a dati su i predlozi za razvoj i sveobuhvatni zaključak.
+rouge1: Score(precision=0.3, recall=0.036585365853658534, fmeasure=0.06521739130434782)
+--------------
+
+rouge2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+--------------
+
+rougeL: Score(precision=0.3, recall=0.036585365853658534, fmeasure=0.06521739130434782)
+--------------
+
+INPUT
+zadatak rada jeste kreiranje video-conference mobilne aplikacije, koja će omogućiti uspostavljanje komunikacije među ljudima širom svijeta, uprkos činjenici da su fizički razdvojeni i hiljadama kilometara.klijentska iliti android aplikacija razvijena je uz pomoć klijentske video vonage sdk biblioteke, dok su svi podaci neophodni za njen rad smješteni u realtime firebase bazu podataka.slika 4 funkcija zadužena za objavljivanje korisničkih audio-video stream-ova unutar sesije unutar onstreamreceived metode, metode sessionlistener interfejsa, implementiran je kod koji omogućava korisniku da se pretplati na stream drugog učesnika video poziva (slika 5).ključno je napomenuti da je trenutno razvijena video-conference aplikacija koja podržava video poziv između dva učesnika.s obzirom na tu činjenicu dalji pravci razvoja i unapređivanja tekli bi u smjeru proširenja broja učesnika, tako da on ne bude ograničen.
+PREDICTION
+u radu je opisana u radu opisana aplikacija za 
+TARGET
+tema rada jeste izrada sistema za video konferencije. u tu svrhu implementirana je android aplikacija nalik aplikacijama slične namjene. za potrebe razmjene audiovideo streamova učesnika video poziva implementiran je server kao čvor na koji se klijenti kače i preko kojeg se razmjena tih streamova i obavlja. server je razvijen u java programskom jeziku, verzije 1.8, korišćenjem spring razvojnog okruženja. za skladištenje podataka korištene su relacione baze podataka i to mysql za potrebe skladištenja podataka neophodnih serveru i firebase realtime baza podataka za potrebe čuvanja podataka neophodnih za funkcionisanje same android aplikacije. videoconference android aplikacija nudi niz funkcionalnosti poput ostvarivanja video poziva, dodavanja novih prijatelja, pruža uvid u pristigle notifikacije i nudi mogućnost ažuriranja ličnih podataka. pored ovih, tu su i niz funkcionalnosti koji olakšavaju korišćenje same aplikacije, kao što su mijenjanje teme, podešavanje dnevnog i noćnog režima rada aplikacije i podešavanje željenog jezika.
+rouge1: Score(precision=0.5555555555555556, recall=0.030864197530864196, fmeasure=0.05847953216374269)
+--------------
+
+rouge2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+--------------
+
+rougeL: Score(precision=0.4444444444444444, recall=0.024691358024691357, fmeasure=0.04678362573099415)
+--------------
+
+INPUT
+jednostavnost opisivanja logičkih kola preko jezika za opis hardvera, kao što je vhdl, i dostupnost fpga čipo-va su bili razlozi za projektovanje i realizaciju eduka-cionog 8-bitnog mikroprocesora (edulent) na kojem studenti mogu da izvršavaju sopstvene programe u asem-bleru.21 komunikaciona jedinica tabela 1 rezultati implementacije zbog edukacionog karaktera celog sistema i želje da se u svakom trenutku može imati uvid u kompletno stanje sistema, potrebno je osim mikroračunara realizovati i odgovarajući blok za komunikaciju sa personalnim računarom.žuta linija u codeeditor-u je postavljena na sledeću instrukciju, na liniju 16 u memorijskom prostoru žutom linijom označeno je mesto gde programski brojač pokazuje.za te potrebe napisano je više programa u simboličkom mašinskom jeziku tako da se pokriju sve instrukcije i svi tipovi adresiranja.zajedno sa operativnom sistemom instalirani su i drajveri potrebni za korišćenje xillybus ip jezgra, koje služe za realizaciju komunikacije između fpga dela ploče i linux operativnog sistema.
+PREDICTION
+u ovom radu je opisana i implementacija komunikacije u
+TARGET
+u ovom radu je opisan proces realizacije zedulent školskog mikroračunara na zynq sistemu na čipu. prikazan je proces projektovanja mikroračunara i grafičkog korisničkog interfejsa. pored toga opisan je način verifikacije i testiranja.
+rouge1: Score(precision=0.5555555555555556, recall=0.13513513513513514, fmeasure=0.2173913043478261)
+--------------
+
+rouge2: Score(precision=0.375, recall=0.08333333333333333, fmeasure=0.13636363636363638)
+--------------
+
+rougeL: Score(precision=0.5555555555555556, recall=0.13513513513513514, fmeasure=0.2173913043478261)
+--------------
+
+INPUT
+nakon što je klijent poslao zahtev, asp.net određuje da li je potrebno parsirati i kompajlirati stranicu, znači započeti životni vek ili je moguće vratiti keširanu stranicu kao odgovor.nezavisan view se ne oslanja na specifičnu implementaciju modela i kao takav može da se koristi za prezentovanje podataka nekog drugog modela.u ovom slučaju, pored generalnih listing stranica kojih ima koliko i tabela, potrebno je bilo implementirati za svaku od njih još po jednu stranicu za dodavanje ili ažuriranje i dodatno stranice koje prikazuju vezu između dve tabele.automatsko generisanje koda koje utiče na poboljšanje zadovoljstva programera jer ne troši energiju na kucanje ponavljajućeg koda, svrstava mvc platformu ispred web forms.treba još napomenuti da su web forms i .net mvc platforma nastale odvojeno i bez namere da se prva zameni drugom.
+PREDICTION
+u ovom radu je opisana u ovom radu opisana
+TARGET
+predmet ovog rada je poređenje i analiza dva arhitekturalna obrasca web forms i mvc, kao polazna osnova za odluku o izboru jedne od njih za razvoj aplikacije. u okviru rada biće opisan sistem za podršku projektnom birou, prvobitni razvijen web forms tehnologijom i prošireni sistem razvijen pomoću mvc tehnologije. cilj rada je da se donese zaključak koji obrazac je povoljniji za konkretno naveden sistem.
+rouge1: Score(precision=0.3333333333333333, recall=0.04285714285714286, fmeasure=0.0759493670886076)
+--------------
+
+rouge2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+--------------
+
+rougeL: Score(precision=0.2222222222222222, recall=0.02857142857142857, fmeasure=0.050632911392405056)
+--------------
+
+INPUT
+ogroman dio naše pažnje može biti fokusiran audio zna-kovima, ali iskustvo potpune imerzije zahtijeva detaljnu kombinaciju prostora i zvuka, a ne samo znakova koji se dodaju kao naknadna ideja.upravo iz tog razloga, za najrealnije i najuticajnije iskustvo, prikladno je da dizajn zvuka bude dio kreativnog sadržaja od samog početka jer loš ili pogrešno postavljen audio dizajn i znakovi mogu odvratiti korisnika od željenog, uvjerljivog ishoda vr scene.reverb zone mix svojstvo radi sa audio isječkom tako što primijeni distorziju na njega u zavisnosti gdje je slušalac lociran u odnosu na podešenu zonu  npr ukoliko karakter ulazi u pećinu postepeno treba da se mijenja ambijentalni efekat.rezultati mnogih istraživanja sugerišu da prostorni zvuk može povećati percepciju korisnika u tri dimenzije dok traži skrivene objekte, stoga se može zaključiti da je 3d zvuk vrijedan faktor za obavljanje zadatka za većinu korisnika u vr-u.u svijetu vr-a, prostorni zvuk odličan je alat koji može pomoći pri lociranju i navigaciji za objekte u vr okruženjima.
+PREDICTION
+u ovom radu je opisana u ovom radu i 
+TARGET
+cilj ove studije jeste procjena učinka 3d prostornog zvuka na korisnikov osjećaj imersivnoti u virtualnom okruženju, kao i istraživanje metoda kojima se poboljšava taj uticaj. prostorni zvuk u 3d virtualnoj sceni treba da uvjerljivo postavi audio u vr prostoru tako da ga korisnik percipira kao da dolazi od stvarnih fizičkih objekata sa scene. dobro postavljen prostorni zvuk korisniku pruža bolje poznavanje vr prostora simulacije i znatno pomaže u orjentaciji na sceni. zvuk je jedan od osnovnih alata kojim se postiže osjećaj apsolutnog prisustva u vru, i u ovoj studiji to je demonstrirano u posebno dizajniranoj 3d vr sceni u unity pogonu igre.
+rouge1: Score(precision=0.4444444444444444, recall=0.03571428571428571, fmeasure=0.06611570247933884)
+--------------
+
+rouge2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+--------------
+
+rougeL: Score(precision=0.4444444444444444, recall=0.03571428571428571, fmeasure=0.06611570247933884)
+--------------
+
+INPUT
+pored toga što je dvorac predstavnik karakterističnih arhitektonskih stilova i vremena u kom je sagrađen i u kojim je živela porodica špicer, on predstavlja važan objekat zbog svoje namene kroz godine od kojih je period školskih dana ostao najzapamćeniji za stanovnike beočina.13 metode istzraživanja kroz istorijat dvorca možemo utvrditi sve namene koje je imao tokom godina jer upravo to može biti odgovor na pitanje kako revitalizovati objekat, odnosno koju namenu mu dati, kako bi se on sačuvao i nastavio da živi.ovaj dvorac zbog toga što je sagrađen na samom prelazu iz xix u xx vek, predstavlja jedinstven spoj starijih stilova i modernih umetničkih strujanja pa objektom dominira duh izrazite eklektike, dok je korišćen sav raspoloživi instrumentarij prethodnih stilova: romano-gotski lukovi terasa i prozora, trifore i okulusi, renesansna arkada ograde terase i barokna linija kupole.oni nisu samo predstavnici jednog vremena, jedne arhitekture, nego i deo nas i onoga što ostavljamo generacijama posle.u vremenu u kom živimo, svesni smo da dolazi do menjanja sistema vrednosti.
+PREDICTION
+u ovom radu je sagrađen i sagrađen u
+TARGET
+tema ovog rada jeste istraživanje i predlog revitalizacije dvorca porodice špicer u beočinu. analizirano je postojeće stanje objekta, njegove stilske karakteristike i istorijsko  društveni kontekst. kroz studije slučaja obuhvaćeni su domaći i strani primeri revitalizacije kao i način funkcionisanja obrazovne namene. grafički deo rada sadrži predlog fukcionalnog rešenja uz prostorne prikaze reprezentativnih delova enterijera.
+rouge1: Score(precision=0.3, recall=0.046153846153846156, fmeasure=0.08)
+--------------
+
+rouge2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+--------------
+
+rougeL: Score(precision=0.3, recall=0.046153846153846156, fmeasure=0.08)
+--------------
+
+INPUT
+cilj proračuna optimalnog rada elektroener-getskog sistema je pronalaženje optimalne kombinacije proizvodnje električne energije iz pojedinih generatora, i izbora pozicije regulacione sklopke na transformatorima koji mogu da mijenjaju položaj pod opterećenjem, a sve u cilju minimizacije troškova proizvodnje termalnih jedi-nica, ukupne emisije gasova, kao i ukupnih gubitaka aktivne snage uz zadovoljavanje fizičkih i tehničkih ograničenja mreže.najvažniji aspekti u velikom sistemu međusobno povezanih generatora su planirani i njihov rad treba osigurati da sistem radi ekonomično kako bi podnio zahtjevano opterećenje.princip rada genetskog algoritma se može opisati sledećim koracima : a) definisanje svih potrebnih parametara problema b) inicijalizacija početne populacije c) određivanje prilagođenosti hromozoma (tzv fitness funkcija) d) odabir selekcije hromozoma koji će opstati za ukrštanje e) ukrštanje  iz boljeg dijela populacije se odaberu roditelji koji će na neki način ukrstiti svoj genetski materijal i dati jednog ili više potomaka koji obično zamijene nekog od lošijih hromozoma f) mutacije  pri kojima se mijenja genetski sadržaj hromozoma g) ispitivanje konvergencije  da bi se utvrdilo da li ima osnova da se tok algoritma prekine, ukoliko nije ispunjen uslov konvergencije vrrši se povratak na korak 3 31 primjena genetskog algoritma na problem ed kriterijumska funkcija (fitness) je definisana u genetskoj reprezentaciji i mjeri kvalitet predstavljenog rješenja.za isporučivanje zahtjevane snage potrošačima koja iznosi 300mw, pronađeno je najbolje rješenje raspodjele opterećenja na generatorima tako da troškovi budu najmanji (sa uračunatim gubicima).dokazano je da uključivanje obnovljivih izvora energije u elektroenergetski sistem ima uticaja na troškove, varijabilnosti opterećenja i proračuna rezervi.
+PREDICTION
+u ovom radu je opisana u ovom radu u 
+TARGET
+oblast koja je analizirana u ovom radu jeste ekonomski dispečing uz uvažavanje obnovljivih izvora energije, kao i njegovo rješenje putem genetskog algoritma. ekonomski dispečing podrazumijeva nalaženje optimalne preraspodjele opterećenja između proizvodnih agregata koji su u pogonu, sa ciljem da se postignu minimalni troškovi rada uz uvažavanje sistemskih ograničenja i uslova. ekonomski dispečing podrazumijeva određivanje snaga proizvodnje raspoloživih generatorskih jedinica, tako da ukupni pogonski troškovi u sistemu budu minimalni.
+rouge1: Score(precision=0.6666666666666666, recall=0.07317073170731707, fmeasure=0.13186813186813187)
+--------------
+
+rouge2: Score(precision=0.25, recall=0.024691358024691357, fmeasure=0.0449438202247191)
+--------------
+
+rougeL: Score(precision=0.5555555555555556, recall=0.06097560975609756, fmeasure=0.10989010989010989)
+--------------
+
+INPUT
+iskorišćenjem ovog potencijala značajno bi doprinelo smanjenju korišćenja fosilnih goriva, kratkoročnom rešavanju probl-ema nedostatka energije, povećanju energetske nezavisnosti i bezbednosti zemlje od uvoza energenata, otvaranju novih radnih mesta i razvoju infrastrukture, a istovremeno i smanjenju emisije gasova sa efektom staklene bašte.tokom poslednjih sto godina najveći izvor energije predstavljaju fosilna goriva.32 odabir tehnologije sagorevanja i tehničkog rešenja kotlovskog postrojenja uzimajući u obzir odabrane vrste i forme biomase koje će se sagorevati, prostorna ograničenja, ekološke i zakonske norme i standarde, uz dobijanje minimalnih troškova za opštinu vršac, odabrano je termoenergetsko postrojenje kod kojeg se sagorevaju velike rol bale ostataka rataske proizvodnje (slame pšenice, soje, kukuruzovine, uljane repice), a mogu se sagorevati i velike rol bale slame od ostataka rezidbe vinove loze sa čime je opština vršac izuzetno bogata.prednosti navedene tehnologije, u odnosu na klasične tehnologije sagorevanja su: mogućnost sagorevanja više vrsta i formi biomase (u ovom ložištu mogu se ubacivati na sagorevanje i male četvrtaste i rol bale slame), uba-civanje bala biomase u ložište se može mehanizovati i automatizovati, sagorevanje bala biomase sa delimično povišenom vlažnošću, nije potrebna nikakva priprema biomase za sagorevanje (sitnjenje, drobljenje i dr), te je ukupna cena nabavke ovakve vrste postrojenja znatno niža od cene postrojenja gde se mora kupovati i dodatna oprema za pripremu biomase.upotre-bom biomase, smanjila bi se koncentracija gasova koji dovode do efekta staklene bašte, pri čemu se ostvaruje pozitivan uticaj na životnu sredinu.
+PREDICTION
+u ovom radu je opisana tehnologija sagorevanja i u
+TARGET
+cilj rada jeste analiza potencijala poljoprivredne biomase kao značajanog izvora energije u svim regijama čiji se razvoj bazira na poljoprivrednoj proizvodnji. takođe, ideja je da se povežu teorijska znanja sa primerom sagorevanja poljoprivredne biomase u svhu zagrevanja objekta javne namene, poljoprivredne škole „vršac“, gde bi se velike rol bale od ostataka ratarske proizvodnje sagorevale u termoenergetskom postrojenju sa ravnom nepokretnom dvostepenom rešetkom.
+rouge1: Score(precision=0.4444444444444444, recall=0.05970149253731343, fmeasure=0.10526315789473685)
+--------------
+
+rouge2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+--------------
+
+rougeL: Score(precision=0.4444444444444444, recall=0.05970149253731343, fmeasure=0.10526315789473685)
+--------------
+
+INPUT
+prostorno planiranje predstavlja skup metoda i postupaka kojima se koristi javni i privatni sektor da bi uticali na distribuciju ljudi i aktivnosti u prostoru, te je jedan od glavnih instrumenata koji se koristi kako bi se usmjeravao razvoj određenog područja, regije ili cele države.nakon potpisi-vanja mirovnog sporazuma, u federaciji bih je kanton sarajevo zamijenio nekadašnji grad sarajevo, pri čemu je izgubio 39 svog prvobitnog teritorija, dok se u republici srpskoj pojavio se novi grad - istočno sarajevo, sastavljen od teritorije koju su izgubili kanton i opština sokolac.sam sistem prostornog planiranja možemo ocijeniti kroz institucionalni okvir, shodno admini-strativno-teritorijalnom uređenju bih, ali i na osnovu faktora i procesa koji utiču na procese izrade, donošenje i implementiranja planske dokumentacije.potpisivanjem dejtonskog mirovnog sporazuma 1995 godine, unutrašnja struktura bih je modificirana i od tada se sastoji od dva entiteta - federacije bih i republike srpske, kao i distrikta brčko.diagonal, 649, 08029, barcelona, spain kantoni u federaciji bosne i hercegovine, preuzeto sa: http:fzs.baindex.php20170730karta-bosne-i-hercegovine, datum pristupa 10122021kratka biografija: kratka biografija: elmir hrvić rođen je u tešnju, bosna i hercegovina 1992 godine.
+PREDICTION
+u ovom radu je opisana u ovom radu. u
+TARGET
+u radu će se analizirati sistem planiranja u bosni i hercegovini (bih) u cijelosti, ali i na nivou entiteta i opština. u slučaju federacije bih, pored entitetskog i opštinskog nivou, predmet analize sistema planiranja će biti i kantoni, shodno visokom stepenu autonomije kojeg uživaju. zasebno će se analizirati sistem planiranja u sarajevu pre i nakon potpisivanja dejtonskog mirovnog sporazuma (današnji grad i kanton sarajevo i istočno sarajevo). na osnovu izvedenih analiza, ali i drugih uticajnih faktora (političkih, historijskih, administrativnih, institucionalnih, itd), dati će se ocjena sistema planiranja i predložiti mjere za njegovo poboljšanje.
+rouge1: Score(precision=0.4444444444444444, recall=0.0392156862745098, fmeasure=0.07207207207207207)
+--------------
+
+rouge2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+--------------
+
+rougeL: Score(precision=0.4444444444444444, recall=0.0392156862745098, fmeasure=0.07207207207207207)
+--------------
+
+INPUT
+mnoge kompanije se odnose neodgovorno prema prirodi i ispuštaju velike količine neprečišćene otpadne vode u prirodne vodotoke, a sa druge strane, stanovništvo nije dovoljno edukovano o mogućim posledicama nepravilnog odlaganja zagađujućih, otrovnih i opasnih materija, pa se često ove materije nađu u otpadnim vodama i ugrožavaju celokupan živi svet.zagađujuće materije na ovaj način dolaze do podzemnih voda i šire se procesima prirodnog kruženja vode 1 do indirektnog zagađivanja vode dolazi usled loše poljoprivredne prakse, eksploatacije nafte i gasa, eksploatacije peska, šljunka i gline, putem divljih deponija, od saobraćaja itd 22 sastav otpadne vode u opštem slučaju voda je onečišćena rastvorenim i nerastvornim, organskim i neorganskim materijama i mikroorganizmima.hemijske metode prečišćavanja otpadnih voda su slabije efikasnosti u odnosu na druge metode jer se rastvorene materije ne uklanjaju, povećava se količina taloga i mulja, a njihova obrada je skupa 1 32 prirodni sistemi za prečišćavanje otpadnih voda sve više se teži korišćenju sistema za prečišćavanje koji su jeftiniji, održivi, efikasniji, i zasnovani na ekološkim principima i tehnologijama koje predstavljaju prirodne sisteme prečišćavanja otpadnih voda.izbistrena-prečišćena voda se izdvaja u gornjem sloju sbr bazena, odakle se odvodi dekanta-cijom i nakon merenja količine ispušta u recipijent.prirodni sistemi za prečišćavanje otpadnih voda predstavljaju jednostavne sisteme za upravljanje i održavanje, i upravo to ih čini konkurentnim u odnosu na konvencionalne metode prečišćavanja otpadnih voda.
+PREDICTION
+u ovom radu u radu je opisana prirodna voda
+TARGET
+u okviru rada predstavljene su konvencionalne i savremene metode prečišćavanja otpadnih voda. cilj rada je analiza prednosti i nedostataka savremenih metoda prečišćavanja otpadnih voda u odnosu na konvencionalne, i primena sbr metode prečišćavanja na ppov žitište.
+rouge1: Score(precision=0.4444444444444444, recall=0.09302325581395349, fmeasure=0.15384615384615385)
+--------------
+
+rouge2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+--------------
+
+rougeL: Score(precision=0.3333333333333333, recall=0.06976744186046512, fmeasure=0.11538461538461539)
+--------------
+
+INPUT
+zagađenje vode i sedimenta u kanalu begej posledica je naglog razvoja industrije i poljoprivrede u rumunskom delu banata, ali se i u srbiji koristi uglavnom za ispuštanje neprerađenih otpadnih voda.kada su profili određeni, može da se izračuna zapremina materijala koji treba da se ukloni.od iskopa mulja sa dna kanala za koji se koristi refulerni bager, zatim upotrebe polimerne jedinice koja ubacivanjem određenih polimera razdvaja mulj od vode i geotekstilnih vreća za prihvat delimično dehidriranog mulja i odvodnjavanje suvišne vode.sanitarna deponija sedimenta, svojom konstrukcijom, obezbeđuje da kontaminacija iz sedimenta ne prodire u okolni prostor i ne zagađuje ga. sanitarna deponija za sediment, prikazana na slici 1, koji se izmuljuje kao redak mulj, popunjava se po celoj površini, od dna na gore.u radu su izložene prednosti i mane obe metode u pog-ledu izbora mehanizacije i u pogledu načina deponovanja izmuljenog materijala: - za dehidrataciju mulja je u geotekstilnim vrećama potrebno do par nedenja, u otvorenim deponijamačak i do par godina; - transport materijala do deponije povećava troškove; - geotekstilne vreće su zatvoreni sistem, dok su deponije otvorene.
+PREDICTION
+u radu su izložene prednosti i karakteristike u radu
+TARGET
+predmet ovog rada je analiza načina izmuljenja kanala begej na području republike srbije. radom se porede dve metode za izmuljenje kanala, i definiše ona koja je povoljnija na funkcionalnom, tehničkom i ekonomskom nivou.
+rouge1: Score(precision=0.1, recall=0.02702702702702703, fmeasure=0.0425531914893617)
+--------------
+
+rouge2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+--------------
+
+rougeL: Score(precision=0.1, recall=0.02702702702702703, fmeasure=0.0425531914893617)
+--------------
+
+INPUT
+oblak ima jednostavan upravljački interfejs koji omogućava koris-niku da ispuni svoje zahteve, bilo da su korišćenje apli-kacije za koju nema dovoljno dobar računar ili da želi da proizvede automobil.u ovom servisu urađena je obrada eksperimentalnih podataka dobijenih iz visokobr-zinske obrade tankozidih delova od aluminijuma.podaci sa eksperimenta visokobrzinske obrade tankozidih delova legure aluminijuma 10, su obrađeni u azure ml studio softveru.svako ko se interesuje inovativnim tehnologijama mogao bi da nađe tehnologiju industrije 40 koja bi ga zainteresovala.potrebno je samo imati ideju i novac, i uz pomoć novih usluga moguće je proizvoditi mašinske delove sa računara od kuće.
+PREDICTION
+u ovom radu je obrađena obrada eksperimentalnih podataka dobijenih
+TARGET
+industrija 4.0 je nova industrijska revolucija koja se zasniva na pametnim uređajima, digitalizaciji i umrežavanju. u ovom radu pregledane su neke tehnologije koje čine industriju 4.0, sa naglaskom na proizvodnju pomoću oblaka i mašinsko učenje. pomoću softvera koji je zasnovan na oblaku, obrađeni su eksperimentalni podaci obrade glodanjem korišćenjem algoritama mašinskog učenja.
+rouge1: Score(precision=0.5, recall=0.078125, fmeasure=0.13513513513513514)
+--------------
+
+rouge2: Score(precision=0.2222222222222222, recall=0.031746031746031744, fmeasure=0.05555555555555555)
+--------------
+
+rougeL: Score(precision=0.5, recall=0.078125, fmeasure=0.13513513513513514)
+--------------
+
+INPUT
+najbolji primer za takvu situaciju jeste učestvova-nje osobe sa dishromatopsijom u saobraćaju, gde postoje semafori i saobraćajni znaci koji  ukoliko nisu dobro protumačeni  mogu da dovedu do tragičnih posledica.doživljaj boje zavisi od tri faktora:  spektralnog sastava svetla koje pada na posmatrani predmet,  molekularne strukture materijala sa kojeg se svetlo reflektuje ili koji ga propušta,  čovekovih individualnih mogućnosti da opazi određenu boju.ukoliko osoba ima problema sa razlikovanjem nijansi crvene ili zelene, aplikacija prila-gođava nijanse tih boja tako da se najbolje prepoznaju.ta pretpostavka daje ovu simulacijsku matricu:   1 0 0 0 1 0 0,86744736 1,86727089 0  (619) ove promenjene boja u lms prostoru se tada može pretvoriti u linearni rgb pomoću 1 matrice i nakon čega se može ponovo primeniti gama korekcija.ovaj rad pokušava da na adekvatan način temeljno objasni na koji način se dolazi do vero-dostojnih rezultata gde se na nivou slike ili snimka može vršiti dalje tumačenje dishromatičnog vida.
+PREDICTION
+u ovom radu je opisana analiza boje u saobraćaju
+TARGET
+cilj ovog rada jeste iznalaženje načina za prevazilaženje dishromatopsije i mogućnosti za njeno rano otkrivanje, kao i simulacija samog efekta radi bližeg i boljeg razumevanja kako osobe sa dishromatopsijom zaista vide. u radu je prezentovan način dolaženja do adetvatne simulacije efekata slepila za boje. u prvom delu rada obrađena je anatomija dela ljudskog oka koji je odgovoran za viđenje boja. za implementaciju simulacije efekata protanopije, deuteranopije i tritanopije neophodno je izvršiti prelazak iz rgb u lms prostor boja. proces prelaska iz jednog prostora boja u drugi zahtevao je razumevanje sve tri vrste nedostatka, kako bi se na podoban način uticalo na odgovarajuće čepiće.
+rouge1: Score(precision=0.5, recall=0.04310344827586207, fmeasure=0.07936507936507936)
+--------------
+
+rouge2: Score(precision=0.2222222222222222, recall=0.017391304347826087, fmeasure=0.03225806451612903)
+--------------
+
+rougeL: Score(precision=0.5, recall=0.04310344827586207, fmeasure=0.07936507936507936)
+--------------
+
+INPUT
+veb aplikacije predstavljaju skup programa kojima se može pristupiti putem interneta i prilikom izmena i održavanja ne zahtevaju ponovno instaliranje aplikacije kod korisnika.druga aplikacija je bazirana na asp.net tehnologiji i omogućava korisnicima da se učlane u organizaciju i uvid u aktuelne projekte.u okviru ovog poglavlja će biti prikazane bitne funkcionalnosti baze podataka i aplikacija koje su razvijene u .net tehnologijama.u okviru ovog rada je opisano rešenje za organizaciju planinarskih aktivnosti.neke od nadogradnji vezane za aplikaciju su omogućavanje članovima organizacija da elektronskim putem izvrše uplatu godišnje članarine i putovanja i dobavljanje informacija o novim putovanjima putem email-a.
+PREDICTION
+u ovom radu je opisana rešenje za organizaciju planinarskih 
+TARGET
+u okviru ovog rada realizovan je razvoj veb i desktop aplikacija kojima se omogućava poboljšan i brz proces poslovanja kompanije koja se bavi organizacijom putovanja za ljubitelje prirode. predstavljen je način implementacije dve aplikacije, jedna je kreirana u veb tehnologiji asp.net mvc i druga u wpf tehnologiji, koje predstavljaju sastavni deo microsoftovog .net okruženja.
+rouge1: Score(precision=0.3, recall=0.05084745762711865, fmeasure=0.08695652173913043)
+--------------
+
+rouge2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+--------------
+
+rougeL: Score(precision=0.3, recall=0.05084745762711865, fmeasure=0.08695652173913043)
+--------------
+
+INPUT
+kako tehnologija napreduje, modeli lica postaju sve složeniji, te je skoro nemoguće definisati rig koji može dobro funkcionisati za svaki pokret i svaki karakter.danas se animacija lica vrši snimanjem pokreta iili ručnim kreiranjem pokreta od strane iskusnih umetnika koji postavljaju i manipulišu kontrolama animacije kako bi stvorili željeni pokret.slika 9: deo glavnog prozora: postavljanje mreže mapa četvrti deo odnosi se na definisanje potrebnih korektivnih izraza i relacije dominacije među jednostavnim izrazima (slika 11).savršen sistem za automatsko generisanje riga ne postoji.svet animacije je more beskonačanih mogućnosti.
+PREDICTION
+u radu je opisana i opisana je prikazana animacija
+TARGET
+svakodnevno vidimo mnoga lica i komuniciramo sa njima na različite načine: razgovaramo, slušamo, gledamo, te su nam izrazi lica veoma važni. ova činjenica čini posao 3d umetnika koji kreiraju lice digitalnog karaktera veoma teškim. ručno rigovanje je vremenski zahtevan posao pa je automatizacija određenih procesa neophodna. ovaj rad bavi se kreiranjem jednog automatskog sistema koji osim što štedi vreme umetnika, on ga vodi kroz proces rigovanja i smanjuje mogućnost pravljenja greške. sistem je fleksibilan i može se upotrebiti u projektima različitog tipa i nivoa kompleksnosti.
+rouge1: Score(precision=0.4444444444444444, recall=0.041666666666666664, fmeasure=0.07619047619047618)
+--------------
+
+rouge2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+--------------
+
+rougeL: Score(precision=0.3333333333333333, recall=0.03125, fmeasure=0.05714285714285714)
+--------------
+
+INPUT
+u ovom radu, u okviru poglavlja 2, predstavljena je metodologija sprovedenog istraživanja, a zatim u okviru poglavlja 3 predstavljeni su rezultati izvršenog istraživanja korišćenih veb tehnologija u izradi pedeset sajtova srednjih škola na područje srbije u okviru četiri najveća grada (beograd, novi sad, kragujevac i niš), a zatim je, u poglavlju 4, dat pregled poređenja performansi tri, prethodno navedena, sistema uz dodatnu diskusiju dobijenih rezultata.iz ostalih gradova (niš i kragujevac), odabrano je po 10 referentnih škola kako bi ovaj uzorak bio što reprezentativniji.slika 3 prikaz procentualne raspodele zastupljenih veb tehnologija na osnovu prikazanih statističkih podataka, moguće je zaključiti da se daleko najveći broj srednjih škola u srbiji odlučuje za neku od cms tehnologija pri izradi i upravljanju svojim školskim sajtovima.ovakvi rezultati nameću zaključak da je u slučaju jednostavnih, statičnih stranica bolje koristiti drupal, međutim, u slučaju kada sadržaj mora da bude obogaćen različitim funkcionalnostima u okviru date stranice, wordpress bi bio najoptimalnije rešenje po pitanju uštede resursa .u drugom slučaju, ako korisnik želi da kreira intranetsku mrežu sa više stranica obogaćenim različitom vrstom funkcionalnog sadržaja, najbolji izbor u tom slučaju bi bila joomla, jer se ispostavilo da ovaj cms ima najop-timalnije vreme učitavanja stranica, ali samo ukoliko se sajt nalazi na lokalnom serveru.
+PREDICTION
+u ovom radu je predstavljena metodologija istraživanja korišćenih
+TARGET
+u ovom radu sprovedena je analiza zastupljenosti različitih veb tehnologija u izradi pedeset veb sajtova u oblasti školstva na teritoriji republike srbije. nakon toga, izvršena je analiza performansi najzastupljenijih cms sistema uočenih u sprovedenom istraživanju. kao krajnji rezultat, doneta je odluka o odabiru tehnologije za unapređenje sajta škole „milan petrović“ u novom sadu.
+rouge1: Score(precision=0.6, recall=0.10344827586206896, fmeasure=0.17647058823529413)
+--------------
+
+rouge2: Score(precision=0.2222222222222222, recall=0.03508771929824561, fmeasure=0.06060606060606061)
+--------------
+
+rougeL: Score(precision=0.5, recall=0.08620689655172414, fmeasure=0.14705882352941177)
+--------------
+
+INPUT
+sistem opisan u ovom radu ima zadatak da fotografije prikupljanje sa uličnih kamera širom sveta analizira uz pomoć modela mašinskog učenja, koji služi za detekciju objekata, analizira i time ove podatke pretvori u korisne informacije.arhitektura sistema je predstavljena na drugom nivou c4 modela za vizualizaciju i prikazana na slici 1 slika 1 arhitektura sistema prikazana na drugom nivou c4 modela servis za detekciju objekata je veb aplikacija realizovana kao rest api koja omogućava detekciju objekata na fotografijama dobijenih od strane eksternog servisa.realizovan je kao servis koji periodično automatski prikuplja fotografije sa eksternog rest api-a pod nazivom webcams.travel .u kibani su kreirane dve komandne table, jedna na kojoj su prikazani podaci vezani za detektovane ljude na fotografijama i druga na kojoj su prikazani podaci o broju automobila.na osnovu podatka može se predvideti broj ljudi na određenim lokacijama, broj automobila na važnim raskrsnicama i na osnovu toga bolje planirati javni prevoz, odnosni procenu kada stiže naredni autobus, taksi, itd takođe moguće je iskoristiti ove podatke pri organizaciji raznoraznih promocija gde je veći broj ljudi poželjan.
+PREDICTION
+u ovom radu je predstavljena aplikacija za detekciju objekata na fotografij
+TARGET
+rad opisuje distribuiranu arhitekturu i implementaciju sistema za prikupljanje i analizu fotografija sa uličnih kamera upotrebom modela mašinskog učenja za detekciju objekata baziranog na konvolucionim neuronskim mrežama.
+rouge1: Score(precision=0.45454545454545453, recall=0.16129032258064516, fmeasure=0.23809523809523805)
+--------------
+
+rouge2: Score(precision=0.2, recall=0.06666666666666667, fmeasure=0.1)
+--------------
+
+rougeL: Score(precision=0.45454545454545453, recall=0.16129032258064516, fmeasure=0.23809523809523805)
+--------------
+
+INPUT
+cilj ovog rada jeste objašnjenje korišćenih tehnologija u svrhu razvoja odgovarajućeg softvera za jedan poslovni sistem  privatnu školu, kao i opis funkcionalnosti razvijene desktop i veb aplikacije.aplikacija za automatizaciju rada privatne škole, razvi-jana je korišćenjem sledećih tehnologija:  microsoft sql server  entity framework  wpf  asp.net mvc koje će biti opisane u nastavku rada.korišćenjem aplikacije, zaposleni imaju mogućnost doda-vanja korisnika u bazu podataka, kreiranje novog kursa, kreiranje trenutno aktivnih kurseva, apliciranje za kurs, kreiranje uplata koje korisnik odnosno polaznik kursa plaća, detalji o sertifikatima koje može da dobije nakon položenog testa na kraju kursa koji je pohadjao, lekcije koje su vezane za kurs i služe za učenje pređenog gradiva.običnom korisniku računara je svakako jednostavnije da koristi veb aplikacije:  ništa ne treba da se instalira,  nove verzije softvera su automatski dostupne  cena mesečnog zakupa predstavlja samo delić cene ekvivalentne desktop aplikacije sa druge strane, ukoliko pitate programere, veliku pred-nost daje to što tim koji je razvio softver može da prati statističke podatke vezane za aplikaciju u realnom vre-menu.aplikacija je zatim realizovana i na drugi način, u programskom okruženju microsoft visual studio 2013 uz korišćenje znanja i tehnologija koja zahtevaju aplikacijski okvir asp.net mvc, zatim entity framework kao object relational mapper, html-a, programskog jezika c i sličnih potrebnih tehnologija.
+PREDICTION
+u ovom radu je opisana u ovom radu. u
+TARGET
+u okviru ovog rada izvršen je razvoj desktop i veb aplikacije čija je namena olakšan i ubrzan proces poslovanja privatne škole. prikazan je postupak implementacije aplikacije u desktop wpf tehnologiji i veb tehnologiji, asp.net mvc, koja predstavlja sastavni deo microsoftovog .net okruženja.
+rouge1: Score(precision=0.3333333333333333, recall=0.06521739130434782, fmeasure=0.10909090909090909)
+--------------
+
+rouge2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+--------------
+
+rougeL: Score(precision=0.3333333333333333, recall=0.06521739130434782, fmeasure=0.10909090909090909)
+--------------
+
+INPUT
+nakon raspoređivanja, elementi se prezentuju tako što se iscrtavaju na platnu uz pomoć xaml opisa za svaki odgovarajući element grafa.za temu rada odabrani su dizajn i implementacija wpf komponente za stvaranje modela grafa, njegovo raspoređivanje i na kraju prezentaciju dobijenog modela.na slici 3 prikazan je implementirani tekstualni profil sa istim grafom i opcijama raspoređivanja kao na slici 2 svi elementi se iscrtavaju univerzalnim simbolom koji se sastoji iz osnovnog graničnog okvira i teksta elementa čiji sadržaj odgovara podacima xml elementa kojeg prikazuje.nije moguće prikazati elemente realnog sistema čija brojnost prevazilazi 10 000 komponenta za stvaranje modela grafa i njegovo raspoređivanje je ta koja je najviše usporena.ukoliko ponuđeni algoritmi ne odgovaraju, softversko rešenje omogućuje proširenje i integraciju sa drugim bibliotekama kao što su graphviz i yed.
+PREDICTION
+u ovom radu je implementiran prikaz i implementiran prikaz i
+TARGET
+dokument uopšteno opisuje problem, strukturu, rešenje i dobijene rezultate softverskog rešenja. softversko rešenje je u stanju da stvori, rasporedi i prezentuje jedan matematički graf uprošćenog realnog sistema.
+rouge1: Score(precision=0.4, recall=0.12121212121212122, fmeasure=0.186046511627907)
+--------------
+
+rouge2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+--------------
+
+rougeL: Score(precision=0.2, recall=0.06060606060606061, fmeasure=0.0930232558139535)
+--------------
+
+INPUT
+štaviše, pravilna koordinacija među tom opremom je presudan zadatak koji treba da izvrše inženjeri zaštite i upravljanja.ako odgovarajući dizajn sistem zaštite ne sledi, struje kvara abnormalnih stanja u par sekundi mogu da oštete komponente tih velikih investicija.u okviru transformatorske ćelije 33kv sn postrojenja na samom vetrogeneratoru, realizovane su sledeće zaštitne funkcije: podešenja zaštita na vetrogeneratorima:  prekostrujna zaštita i, idmt,  kratkospojna zaštita i,  zemljospojna zaštita (51n) i0 uređaj zaštite i upravljanja na izvodnim ćelijama je tipa abb ref620 i sadrži sledeće zaštitne funkcije:  51 prekostrujna zaštita,  67 usmerena prekostrujna zaštita,  67n usmerena zemljospojna zaštita,  50bf zaštita od otkaza prekidača.detaljno je prikaza postupak testiranja i puštanja relejne zaštite nakon čega je moguće vetropark uspešno priključiti kao aktivan na elektroenergetski sistem.u radu je realizovana detaljna studija podešenja relejne zaštite tranformatorske stanice 33220kv vetroelektrane kovačica.
+PREDICTION
+u radu je realizovana analiza i prikaza u radu je realiz
+TARGET
+u ovom radu je rađena studija podešenja relejne zaštite na jednom savremenom projektu od velike važnosti za elektroenergetski sistem srbije – vetroelektrana „kovačica“. detaljno je odrađen proračun podešenja zaštitnih funkcija vetroelektrane u 220kv postrojenju na zaštiti energetskih transformatora. zatim zaštita u 33kv postrojenju na transformatorskim ćelijama, izvodnim ćelijama  ka vetrogeneratorima i spojnim ćelijama su prikazana. svi neophodni tehnički podaci kao i kratak opis vetroelektrane su dati. odrađen je i opisan proračun podešenja a na osnovu tehničkih preporuka, tipskih podešenja, odgovarajućih  tehničkih uptstava dobijeni su krajnji rezultati koji su tabelarno predstavljeni.
+rouge1: Score(precision=0.5454545454545454, recall=0.05555555555555555, fmeasure=0.10084033613445377)
+--------------
+
+rouge2: Score(precision=0.1, recall=0.009345794392523364, fmeasure=0.017094017094017092)
+--------------
+
+rougeL: Score(precision=0.45454545454545453, recall=0.046296296296296294, fmeasure=0.08403361344537814)
+--------------
+
+INPUT
+slično detetu koje gleda u oblake i pokušava da interpretira nasumične oblike, deep dream interpretira i pojačava šablone koje pronalazi na slici.u ovom poglavlju ćemo analizirati kako na algoritam prenosa stila utiču faktori poput izbora algoritma za iterativnu optimizaciju slike (poglavlje 21) i izbora sloja konvolucione neuronske mreže za koji se pretpostavlja da efektivno reprezentuje stil kojim je slika nacrtana.u tom slučaju se kao ekstenzija originalnom algoritmu prenosa stila može koristiti tehnika prenosa boja sa jedne slike na drugu .na slici 10 prikazani su rezultati deep dream algoritma dobijeni koristeći 5 oktava.motivacija za razvoj ovih algoritama je, s jedne strane, bila istražiti i bolje razumeti na koji način funkcionišu konvolucione neuronske mreže i šta mogu da nauče prilikom treniranja.
+PREDICTION
+u ovom radu su rezultati deepdreams algoritma za prenos stila.
+TARGET
+u ovom radu su predstavljene metoda umetničkog menjanja stila slika. metode se baziraju na upotrebi pretreniranih konvolucionih neuronskih mreža za prepoznavanje sadržaja i stila slika. predstavljeni su iterativni algoritmi, prenos stila i deep dream, kao i njihova unapređenja. analizirano je ponašanje algoritama menjajući parametre algoritma i komentarisani su rezultati. implementacija svih algoritama je izvršena u programskom jeziku python i paketu tensorflow.
+rouge1: Score(precision=0.9, recall=0.1323529411764706, fmeasure=0.23076923076923075)
+--------------
+
+rouge2: Score(precision=0.5555555555555556, recall=0.07462686567164178, fmeasure=0.13157894736842105)
+--------------
+
+rougeL: Score(precision=0.7, recall=0.10294117647058823, fmeasure=0.1794871794871795)
+--------------
+
+INPUT
+određivanje preseka zraka sa bilo kojim objektom se svodi na izvršenje sledećih koraka:  napisati parametarsku jednačinu za bilo koju tačku na datom zraku.jednostavan raytracer svodi se na izvršavanje sledećih operacija:  definiši nekoliko objekata  odredi materijal za svaki objekat  definiši nekoliko izvora osvetljenja  definiši prozor čija je površina pokrivena pikselima  za svaki piksel o usmeri zrak prema objektima iz centra piksela o odredi najbližu presečnu tačku zraka sa objektom (ili bilo koju) o ukoliko zrak pogodi objekat uz pomoć materijala piksela i osvetljenja odredi boju piksela ili o ukoliko zrak ne pogodi objekat boju piksela postavi da bude crna ovo je poznato kao ray casting u ovom dokumentu biće pojašnjen c++ izvorni kd koji demonstrira rad raytracer algoritma.njeno osnovno zaduženje je da uzme u obzir doprinose svih zraka poslatih ka kameri od tačke preseka i da kao rezultat vrati color strukturu koji u sebi sadrži zasebne crvene, zelene i plave vrednosti boje.spomenute klase operatori su:  setunion  setintersection  setcomplement  setdifference slika 5 oblik predstavljen klasom concreteblock (generisana korišćenjem prikazanog programa) kombinovanjem navedenih operacija na jednostavan način moguće je kreirati kompleksnije objekte, kao što je prikazano na slici 5 6 zaključak u ovom dokumentu prikazane su osnove rada raytracer algoritma, takođe je i opisan načine implementacije jednog takvog algoritma.samom implementacijom ovog algoritma pokušano je imitiranje realnih optičkih osobina kretanja svetlosti, a sve to uz podrškuzakona fizike.
+PREDICTION
+u ovom radu je opisana osnovna analiza rada rad rad rad rad rad
+TARGET
+raytracer je algoritam globalnog osvetljenja koji se u današnje vreme koristi za kreiranje (renderovanje, eng. rendering) slika visokog stepena realističnosti. u osnovi, ideja je imitirati način realnog prostiranja svetlosti kroz prostor. ako je prostor kroz koji se svetlost kreće homogen i izotropan, putanje svetlosti su prave linije. dakle, problemu bi mogli pristupiti ovako: krenuvši od nekog izvora svetlosti pratili bismo kretanje jednog od zraka. prilikom kretanja kroz prostor u jednom trenutku zrak bi došao do dioptrijskih površina i pritom se jedan njegov deo reflektuje, drugi prelama, a treći apsorbuje. u slučaju da površina nije dioptrijska jednostavno bismo zanemarili prelamanje svetlosti. sada bi pratili novonastale zrake i ponavljali postupak za svako presecanje zraka sa površinom dok zrak ne bi došao do sočiva kamere ili oka promatrača. samo takve zrake koje u konačnici prolaze kroz povšinu sočiva ili oka doprinose generisanju slike. postupak bi trebalo ponoviti za svaki zrak poslat od odgovarajućeg izvora svetlosti, i isto uraditi za sve ostale izvore svetlosti (ukoliko postoje) na sceni.
+rouge1: Score(precision=0.15384615384615385, recall=0.01098901098901099, fmeasure=0.020512820512820516)
+--------------
+
+rouge2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+--------------
+
+rougeL: Score(precision=0.15384615384615385, recall=0.01098901098901099, fmeasure=0.020512820512820516)
+--------------
+
+INPUT
+pored toga, gvožđe je netoksičan i rasprostranjen element, vodonik-peroksid je jednostavan za manipulaciju i bezbedan po životnu sredinu i skoro da ne daje rezidual nakon tretmana.dobijeni materijal je sušen 48 sati na temperaturi 50 c. sinteza nanomaterijala iz ekstrakta lišća hrasta je sprovedena prema proceduri koju su postavili machado i sar.hemijska potrošnja kiseonika (hpk) je određena volumetrijskom metodom pomoću kalijum-dihromata, u kiseloj sredini, uz srebrosulfat kao katalizator - srps iso 6060: 1994 biološka potrošnja kiseonika (bpk) nakon 5 dana na temperaturi od 20 c je sprovedena putem manometrijske metode - h1002, korišćenjem instrumenta velp scientifica italia, lowibond and wtw.51 evaluacija modela u cilju karakterizacije sistema pod uticajem različitih procesnih uslova: koncentracije boje, koncentracije nzvi, ph vrednosti i koncentracije vodonik peroksida na efikasnost obezbojavnja vodenog rastvora cijan flekso grafičke boje sprovedeno je 13 eksperimenata, a rezultati su prikazani u tabeli 1 dobijeni rezultati ukazuju da je postignut širok opseg efikasnosti obezbojavanja od 1,67 - 83,45 na ovaj način je potvrđena pretpostavka da sam proces uklanjanja boje u velikoj meri zavisi od primenjenih eksperimentalnih uslova, odnosno da pojedinačni parametri u određenoj meri doprinose efikasnosti fenton procesa.uprkos činjenici da izvođenje procesa u izrazito kiseloj sredini pri ph 2 nije povoljno sa aspekta zaštite životne sredine, u ovom istraživanju optimalna ph vrednost 2 je uslovila i veću efikasnost procesa u poređenju sa neutral-nom ili alkalnom sredinom.
+PREDICTION
+u ovom radu je opisana analiza u ovom radu u
+TARGET
+u radu je prikazano tretiranje otpadne vode fentonsličnim procesom primenom nano nula valentnog gvožđa kao katalizatora. uzorak otpadne vode generisane nakon štampanja cijan bojom uzet je iz flekso štamparije koja se nalazi u novom sadu. „zelena” sinteza nanomaterijala je sprovedena korišćenjem opalog lišća sa drveta hrasta koje raste u nacionalnom parku fruška gora. ispitivanje efikasnosti obezbojavanja vodenog rastvora grafičke boje vršeno je serijom eksperimenata na aparaturi za jar test.
+rouge1: Score(precision=0.5, recall=0.06578947368421052, fmeasure=0.11627906976744186)
+--------------
+
+rouge2: Score(precision=0.1111111111111111, recall=0.013333333333333334, fmeasure=0.023809523809523808)
+--------------
+
+rougeL: Score(precision=0.5, recall=0.06578947368421052, fmeasure=0.11627906976744186)
+--------------
+
+INPUT
+naučna oblast koja se bavi istraživanjem ljudske greške nije u dovoljnoj meri istražena i potrebno je da se oslobodimo tog tradicionalnog i staromodnog pristupa ljudskim greškama.upitnik sam popunjavala intervjuisanjem mendžerke ljudskih resursa u kompaniji alfa, a u kompaniji beta intervjuisala sam zaposlenu u hr sektoru koja je prvo radila 6 meseci u proizvodnji, tako da one poseduju sve neophodne informacije koje su mi potrebne da ovo istraživanje bude zasnovano na relevantnim činjenicama i iskrenosti ispitanika.na osnovu dobijenih odgovora, vidimo da su obe kompanije istig mišljena zasnovanog na činjenicama i da smatraju da se analizom uzroka ljudske greške u velikoj meri smanjuju zastoji, tj da analiza ljudske greške sprečava neke sigurne zastoje tako da se ova hipoteza prihvata.predlozi za unapređenje kompanije beta 2 uvođenje procedurom alata za analizu grešaka kako ne postoji nikakva standardizovana procedura kojom se analizira ljudska greška, potrebno je uvesti metode za analiziranje istih.kao i svako, pravila sam mnoge pogrešne stvari u životu, donosila pogrešne odluke, neke stvari nisam radila na pravi način ali u svemu tome sada tražim uzrok i menjam, menjam sve ono što je uzrokovalo da dođe do grešaka ma kakve one bile.
+PREDICTION
+u ovom radu je opisana analiza ljudskog greška u ovom
+TARGET
+greške su deo naše svakodnevnice. neretko se susrećemo sa njima u svim segmentima života. bitno je da se pri svakoj ljudskoj grešci dođe do njenog pravog uzroka i da se na najefektivniji način dođe do kontramera koje će uraditi da do te ili slične greške ponovo ne dodje. u svom radu, pokušaću kroz relevantne činjenice da prikažem značaj analize uzroka ljudske greške i koliko dobrobiti to donosi organizaciji, razvoju procesa pa i razvoju ljudi.
+rouge1: Score(precision=0.45454545454545453, recall=0.056818181818181816, fmeasure=0.101010101010101)
+--------------
+
+rouge2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+--------------
+
+rougeL: Score(precision=0.36363636363636365, recall=0.045454545454545456, fmeasure=0.0808080808080808)
+--------------
+
+INPUT
+savremeno tržište je bazirano na intenzivnom razvoju novih tehnologija, savremenim proizvodima i uslugama.decentralizovan oblik nabavke je najviše zastupljen u velikim kompani-jama i preduzećima koja posluju kao franšizing sistemi gde se pod ovakvim sistemom podrazumeva nabavka u kojoj sve ili skoro sve nabavke za organizacionu jedinicu vrši rukovodilac ili osoba zadužena za nabavku.prodaja se zasniva na postup-cima obrade tržišta, sastavljanja plana prodaje, prego-varanja sa kupcima, realizacije prodaje, itd aktivnošću prodaje preduzeće ostvaruje individualni i društveni cilj, a proizvodi se i prodaje samo ono za čim postoji interes za kupovinom.42 analize procedura i pravila poslovanja sa posebnim osvrtom na proces nabavke jedan od osnovnih zadataka službe nabavke jeste da zajedno sa sektorom komercijalnih poslova obilazi kupce kako bi se uvidelo šta nedostaje u prodaji i koje proizvode eventualno treba unaprediti.definisan je osnovni zadatak službe prodaje koji se odnosi na vraćanje uloženih sredstava u proizvodnju, kako bi se podmirile sve tržišne potrebe sa proizvodma i uslugama uz ostvarivanje dobiti.
+PREDICTION
+u ovom radu je opisan u ovom radu u ovom
+TARGET
+funkcija komercijalnog poslovanja je zadužena za stvaranje kontinuiranog procesa reprodukcije uz obezbeđivanje sredstava za proizvodnju. u radu je prikazana analiza preduzeća univerzal sa naglaskom na službu nabavke, na njoj pripadajuće procese, aktivnosti i procedure.
+rouge1: Score(precision=0.3, recall=0.07692307692307693, fmeasure=0.12244897959183675)
+--------------
+
+rouge2: Score(precision=0.1111111111111111, recall=0.02631578947368421, fmeasure=0.0425531914893617)
+--------------
+
+rougeL: Score(precision=0.3, recall=0.07692307692307693, fmeasure=0.12244897959183675)
+--------------
+
+INPUT
+kako bi uspešno pratilo najnovije uslove tržišta kao i uslove u vidu kvaliteta i promena među sličnim proiz-vodima koje nameću srodne konkurentske firme, mora konstantno da unapređuje svoje poslovanje, da obezbe-đuje određen, prepoznatljiv kvalitet svojih proizvoda i da održava kvalitetne odnose sa kupcima.41 snimak stanja planirana količina proizvedenih podnih i zidnih pločica na mesečnom nivou iznosi 200000 2 planirani procenat klasa: 1 prva klasa 85 2 druga klasa 10 3 roba sa greškom 5 sledi tabelarni prikaz procentualno izraženih proizvede-nih količina po klasama na mesečnom nivou.primenom fmea analize ocenićemo svaki od istaknutih uzroka i na osnovu dobijenog rpn faktora uvideti koji su tabela 2 uzroci definisanog problema stare, dotrajale mašine nekorišćenje validnih procedura za rad nepostojanje funkcije održavanja nemotivisanost zaposlenih nepostojanje potrebnih rezervnih delova zanemarivanje problema česta promena i nedovoljan broj zaposlenih loši odnosi medju zaposlenima pojava metala u smesi za biskvit nepostojanje celokupne i nekorišćenje adekvatne zaštitne opreme neadekvatno čišćenje mašina nedostatak potrebne obuke za rad nedostatak jasne raspodele odgovornosti i ovlašćenja kod zaposlenih zapošljavanje nedovoljno stručnog i nedovoljno iskusnog kadra nedostatak proizvoda prve klase za prodaju veliki troškovi proizvodnje 51 primena fmea metode na definisanom problemu numerički prioritet rizika (rpn broj) se jednostavno računa množenjem ocena sva tri faktora.na osnovu toga vidimo da bi broj zaposlenih u novo-oformljenoj službi održavanja bio 4 pre početka rada funkcije tj primene samih aktivnosti održavanja neop-hodno je odrediti skup postupaka i aktivnosti koji će se tokom vremena sprovoditi na tehničkim sistemima, mašinama i opremi u cilju sprečavanja nastanka otkaza ali i njihovog otklanjanja.napomena: odricanje od odgovornosti podaci u ovom radu predstavljaju samo presek stanja u datom trenutku, i mogu biti delimično izmenjeni i nerealno prikazani.
+PREDICTION
+u ovom radu opisan je prikaz i analiziran prikaz i
+TARGET
+u radu je na osnovu snimka stanja izvršena analiza uzroka nastanka glavnog problema procesa proizvodnje i službe kvaliteta , a to je loš kvalitet proizvedenih pločica u preduzeću „polet keramika“ i na osnovu izvršenog ocenjivanja uzroka, primenom fmea analize došli smo do najktitičnijih uzroka za koje su u radu preporučene mere unapređenja, čija primena bi doprinela rešavanju postavljenog problema.
+rouge1: Score(precision=0.5, recall=0.07352941176470588, fmeasure=0.12820512820512822)
+--------------
+
+rouge2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+--------------
+
+rougeL: Score(precision=0.5, recall=0.07352941176470588, fmeasure=0.12820512820512822)
+--------------
+
+INPUT
+rad se bavi analizom uspešnog rešavanja tržnih centara današnjice, koji su doveli do stvaranja visokovrednih objekata ovog tipa; ovo se pre svega odnosi na sociološki uticaj u tržnim centrima.postoji pet principa koji se trebaju poštovati prilikom projektovanja i uređenja tržnog centra (objekti za javno korišćenje) : 1 funkcionalni sistem  rampe, liftovi, pokretne stepenice, hodnici i koridori, 2 ulaz i izlaz  da su lako uočljivi 3 kretanje kroz tržni centar, čvorovi, ivice, zone, grafički simboli kao što su piktogrami 4 prostor za odmor i čekanje 5 javni sadržaj: javni telefoni, toaleti i jedinice za sedenje osim toga, bitno je da je ugodan, veseo ambijent, uredan i lepo uređen prostor, kvalitetna ponuda, ljubazno osoblje.valter bendžamin (walter benjamin) ističe kako se zbog razvoja tržišta i trgovine razvijaju pasaži, novi oblici javnih prostora koji danas nemaju samo ulogu protaka ljudi već i funkciju razmene robe i sticanja kapitala.takav model pijace treba da omogući samoodrživost objekata (pijaca) i da donese veću ekonomsku dobit gradu, trgovcu, a zajednici veću svest o važnosti socijalizacije i očuvanju vrednosnih karakteristika tradicionalne pijace, koje sve više izumiru i nestaju, zato što ih savremene tržnice u potpunosti gase zbog svoje konkurentnosti i multifunkcionalnosti, i sadržajnosti koje nude kupcu  posetiocu.projekat kombinacije dva radikalno različita tipa trgovine je veoma kompleksan, kako u funkcionalnom tako i sadržajnom smislu, zato što je u prostoru savremenih tržnica važno odgovoriti na sve zakonske aspekte koji će omogućiti bezbedan i ugodan boravak, kao i pristupačnost svih ljudi.
+PREDICTION
+u ovom radu se bavi analizom u ovom radu i
+TARGET
+rad se bavi istraživanjem strategija i modela zajedničkog funkcionisanja tradicionalnih i savremenih prostora za prodaju u urbanim sredinama. kao poseban model razmatra se postupak nadgradnje tradicionalnih otvorenih prostora gradskih pijaca, zbog formiranja ekonomski isplativijih i funkcionalno korisnijih parcela. ovaj postupak unapređuje procese socijalizacije, nudeći korisnicima tradicionalne pijace da imaju bezbedan prostor, uz očivanje njegovog identiteta.
+rouge1: Score(precision=0.4, recall=0.06666666666666667, fmeasure=0.1142857142857143)
+--------------
+
+rouge2: Score(precision=0.1111111111111111, recall=0.01694915254237288, fmeasure=0.02941176470588235)
+--------------
+
+rougeL: Score(precision=0.4, recall=0.06666666666666667, fmeasure=0.1142857142857143)
+--------------
+
+INPUT
+preduzeće se od samog osnivanja bavi izvođenjem radova i proizvodnjom opreme iz oblasti distribucije električne energije, proizvodnjom metalnih konstrukcija kao i postavljanje električnih instalacija u objektima.ovaj softver takođe sadrži i modele za praćenje proizvodnje, finansija, kadrova, magacinskog poslovanja, finansija itd elementi modela informacionog sistema za nabavku su - evidentiranje zahteva za nabavku - evidentiranje zahteva za ponudu - evidentiranje isporučioca - porudžbenice - reklamacioni zapisnici slika 20  postupci sastavljanja zahteva za nabavku na osnovu analize zahteva kupca pristupa se zahtevu za nabavku, tehnički direktor pristupa sistemu i kreira zahtev za nabavku tako što klikne na opciju dodaj u gornjem levom uglu, nakon toga se u donjem levom uglu upisuje datum kreiranja zahteva za nabavku, ko kreira zahtev odnosno ko je naručilac, kom sektoru je namenjen zahtev i status zahteva, kako bi sistem sam kreirao šifru zahteva za nabavku.51 identifikovanje rizika u procesu nabavke posledica pojave rizika opis tumačenje opisa posledice pojave rizika 1 u slučaju pojave rizika ,uticaji na poslovne aktivnosti su male ili poslovne aktivnosti nisu narušene pa nema potrebe za dodatnim sredstvima kašnjenja u rokovima kod manje značajnih poslovnih aktivnosti gubitak resursa organizacije male vrednosti niska privremene štetne posledica po životnu sredinu tretman povrede na radu kao prva pomoć usporeno sticanje reputacije i poverenja javnosti i klijenata delimični negativan stav javnosti i akcionara prema direktoru 2 u slučaju pojave rizika , poslovne aktivnosti su značajno narušene s mogućom potrebom za dodatnim sredstvima , kako bi se omogućilo i dalje nesmetano obavljanje poslovnih aktivnosti i ostvarivanje postavljenih ciljeva prekid nekih osnovnih poslovnih aktivnosti gubitak dela resursa organizacije srednja izvesne štetne posledica po životnu sredinu teška povreda na radu delimičan gubitak reputacije i poverenja javnosti i klijenata negativan stav javnosti i akcionara prema direktoru 3 u slučaju pojave rizika, poslovne aktivnosti su značajno narušene i potrebna su znatna dodatna sredstva kako bi se obavljale poslovne aktivnosti i ostvarili postavljeni ciljevi prekid svih osnovnih poslovnih aktivnosti gubitak značajnih resursa organizacije gubitak reputacije i poverenja javnosti i klijenata pritisak javnosti i akcionara za smenu direktora visoka ozbiljna posledica po životnu sredinu smrt na radu tabela 1  identifikacija rizika u procesu nabavke 52 merenje i analiza posledica pojave rizika visoka ( 3 ) 3 6 9 srednja ( 2 ) 2 4 6 niska ( 1 ) 1 2 3 matrica odnosa verovatnoća pojave rizika  posledica pojave rizika niska ( 1 ) srednja ( 2 ) visoka ( 3 ) verovatnoća pojave rizika tabela 2 - matrica za ocenjivanje rizika zeleno  prihvatljiv rizik žuto  potrebna kontrola za rizik crveno  neophodna kontrola za rizik tabela 3  definisanje granica rizika na osnovu matrice verovatnoćaposledica možemo zaključiti da imamo 3 neprihvatljiva uticaja rizika za koje je neophodna kontrola rizika, 3 umerena uticaja za koje je potrebna kontrola i 4 mala uticaja gde možemo da prihvatimo rizik.kada se govori o sigurnosti informacija kao problemu savremenog društva, poseban pažnju treba staviti na sigurnost informacija različitih državnih organa i institucija, koje mogu imati dalekosežne posledice po funkcionisanje i bezbednost država.treba imati u vidu da troškovi materijala po jedinici, posebno u procesnim industrijama, često dostižu visok nivo procentualnog učešća ukupne cene proizvoda.
+PREDICTION
+u radu je opisana analiza i analiza uticaja rizika u
+TARGET
+cilj ovog rada jeste da se pokaže značaj nabavke u jednom preduzeću, da se predstavi složenost ovog procesa, zadaci koji prate taj proces kao pokazatelji pri nabavci, i da se stekne uvid u značaj ove funkcije.
+rouge1: Score(precision=0.3, recall=0.07317073170731707, fmeasure=0.11764705882352941)
+--------------
+
+rouge2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+--------------
+
+rougeL: Score(precision=0.3, recall=0.07317073170731707, fmeasure=0.11764705882352941)
+--------------
+
+INPUT
+investiranje u informacione sisteme postala je strategija svih učesnika savremenog poslovnog okruženja, pre svega, jer na taj način ostaju konkurentni na nacionalnom, regionalnom i svetskom tržištu.danas se pod logistikom podrazumeva: deo procesa lanca snabdevanja koji planira, implementira i kontroliše efekti-van i efikasan tok i skladištenje dobara i usluga, i sa tim povezanih informacija između mesta porekla i mesta potrošnje, da bi se zadovoljili zahtevi kupca.slika 2: išikava dijagram-kvalitet usluge detaljnom analizom svake pojedinačne grupe uzroka utvrđeno je da proces skladištenja koji se nalazi u okviru grupe magacin predstavlja najveći nedostatak preduzeća uniprogres s obzirom da preduzeće koristi tradicionalan način skladištenja.slika 3: pristupne tačke standardni deo opreme su i industrijski termalni štampači (slika:4) na kojima se štampaju različite nalepnice sa bar-kodovima za označavanje robe kod prijema, kao i liste skladištenja i izdavanje robe.najvažnija prednost primene ovog softvera je brzina i efikasnost u radu, što rezultira manjim brojem skladišnih radnika.
+PREDICTION
+u ovom radu je opisana analiza i analiza usluge u
+TARGET
+u ovom radu predstavljeni su osnovni pojmovi vezani za logistiku i skladište. primenom išikava dijagrama identifikovani su svi uzroci koji utiču na kvalitet usluge preduzeća doo uniprogres. proces skladištenja je identifikovan kao najvči uzrok i za njega je dat predlog za unapređenje u vidu magacinskog softvera.
+rouge1: Score(precision=0.7, recall=0.1320754716981132, fmeasure=0.22222222222222224)
+--------------
+
+rouge2: Score(precision=0.2222222222222222, recall=0.038461538461538464, fmeasure=0.0655737704918033)
+--------------
+
+rougeL: Score(precision=0.6, recall=0.11320754716981132, fmeasure=0.1904761904761905)
+--------------
+
+INPUT
+odabrana dela imaju zajedničku karakteristiku da su ih projektovale arhitekte koji počinju da skreću pažnju javnosti zbog kvaliteta njihovog stvaralaštva i njihovog učešća na međunarodnim takmičenjima.nekoliko navedenih primera multifunkcionalne arhitek-ture prikazuju kako su se različite arhitekte iz različitih vremena susretale sa ovim zadatkom i kako su ga rešavale 1,2 osnovna uloga multifunkcionalne arhitekture jeste da na najbolji način poveže prostore različitih namena.na osnovu novog regulacionog plana najlon pijaca je u toku 2003 i 2004 godine znatno proširena i izvedeni su obimni radovi na uređenju platoa, infrastrukture, izgradnji ulazno-izlaznih rampi, sagrađena su dva sanitarna čvora za zakupce i posetioce u planu je i prilagođavanje okolnih ulica potrebama ove pijace, što se pre svega odnosi na znatno povećanje broja parking mesta za posetioce, kojih je danas nedeljom ponekad i više od 50000 hiljada.osnovni zadatak ovog projekta bio je spojiti prostorije u kojima se odvijaju aktivnosti koje zahtevaju provedeno određeno vreme u njima i prostorije u kojima se ljudi zadržavaju jako kratko.istovremeno, trebalo je omogućiti i njihovo kretanje iz jednog prosora u drugi- iz jednog doagađaja u drugi.
+PREDICTION
+u ovom radu je opisana uloga multifunkcionalne arhitekture.
+TARGET
+program rada bavi se projektovanjem multifunkcionalnog objekta na klisi  u novom sadu. projekat se bazira na istraživanju nekoliko projekata multifunkcionalnih objekata. na osnovu sprovedenih istraživanja, rad će se baviti problematikom povezivanja nekoliko namena objekta.
+rouge1: Score(precision=0.125, recall=0.027777777777777776, fmeasure=0.04545454545454545)
+--------------
+
+rouge2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+--------------
+
+rougeL: Score(precision=0.125, recall=0.027777777777777776, fmeasure=0.04545454545454545)
+--------------
+
+INPUT
+istraživanja pokazuju da od ukupno 5 putovanja u evropi, 2 su motivisana velnesom, dok je turizam u srbiji jedan od najneiskorišćenijih potencijala.palić je kvalitetna i poznata turistička destinacija sa autentičnom arhitekturom i tradicijom banjskog lečilišta koje postoji preko 150 godina.na krovu zatvorenog olimpijskog bazena koji se proteže u pravcu sever-jug, postavljeni su solarni kolektori, čija sakupljena energija bi se koristila kao dodatni izvor za zagrevanje prostora sa zatvorenim bazenom u zimskom periodu.predviđene primenjene ekološke tehnologije: o toplotna pumpa (dogrevanje objekta) o kotao za biomasu (dogrevanje objekta) o podzemna cisterna za sakupljanje kišnice o punjači za električne automobile o sistem kućne automatike- pametna zgrada (kontrola osvetljenja i spoljnerasvete, kontrola sistema za dogrevanje, parkinga, upravljanje zalivnim sistemom, kontrola ulaza, elektronski i video nadzor, alarmni sistem, kontrola uređaja, kontrola reflektujućih površina...) o javni displej sa energetskim podacima za javne objekte (merenje u realnom vremenu spoljne i unutrašnje temperature u objektu, potrošnjeenergije za dogrevanje, proizvodnju i potrošnju električne energije...) prilagođenost kompleksa osobama sa posebnim potrebama skica 5  prikaz visinske razlike sprata kroz podužni presek skica 7  materijalizacija fasade skica 6 programski sadržaj sprata objekat se predviđa u okviru bazenskog kompleksa, pored ostalog ima i funkciju lečilišta sa termalnim bazenima, svojom formom i sadržajem treba da se prilagodi osobama sa posebnim potrebama koji se ogleda u: o postavljanju liftova koji svojim dimenzijama zadovoljavaju propise za nesmetano kretanje invalidnih lica, uz svaku stepenišnu vertikalu o označavanju prvog i poslednjeg stepenika, o prilagođavanju dimenzija, položaja i materijalizacije vrata o postavljanju sanitarnih čvorova za osobe sa invaliditetom u sanitarnim blokovima o postavljanju platformedizalice za invalide u bazenima o postavljanje stolice lifta na stepenicama koji spaja relaks zonu centralnog dela (+4,60) i hodnik koji vodi u sobe za odmor i prostorije predviđene za tretmane i masaže (+306) zaštita objekta od požara protivpožarna zaštita objekta je sprovedena na nivou projektovanja.bogatstvo prirodnog i kulturnog nasleđa, palić koristi za izgradnju sopstvenog identiteta za razvoj velnes turizma usmeren da isporuči vrhunski kvalitet proizvoda i usluga.palić obezbeđuje iskustvo kojim se sa strane posetilaca kreira osećaj sreće, kao vrhunskog oblika ispoljavanja zdravlja, a sa druge strane, obezbeđuje održivosti prirodnog i kulturnog nasleđa.
+PREDICTION
+u ovom radu je opisana u ovom radu i 
+TARGET
+obala palićkog jezera je poznata turistička destinacija u prirodnom okruženju sa prepoznatljivom arhitekturom. osnovna ideja projekta je stvoriti prostor za oćuvanje fizičkog i duhovnog zdravlja gde postoje prirodni kontekst kao spoljna i udobnost korisnika kao unutrašnja odrednica kreiranja. analize i potencijali konkretne lokacije su rezultovali velnesspa centar koja pokazuje univerzalnost i vremenske kvalitete arhitekture od koje je potekla. objekat čuva tradiciju ali ide u korak sa vremenom u kom je nastao.
+rouge1: Score(precision=0.4444444444444444, recall=0.05194805194805195, fmeasure=0.09302325581395349)
+--------------
+
+rouge2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+--------------
+
+rougeL: Score(precision=0.3333333333333333, recall=0.03896103896103896, fmeasure=0.06976744186046512)
+--------------
+
+INPUT
+pored ovog, postoje i brojna druga tumačenja prema kojima je kvalitet : - primerenost za upotrebu (j. juran) - rešenje problema (e. deming); - zadovoljstvo kupca (t. wazne); - planetarni i društveni fenomen današnjice (t. conti); - stepen do kojeg skup međusobno zavisnih karak-teristika proizvodausluge zadovoljavaju kupca (iso 9000:2000) prema juranu, kvalitet se zasniva na sledećim karakte-ristikama :  tehnološkim (npr čvrstoća, tvrdoća),  psihološkim (npr ukus, lepota),  vremenski orijentisanim (npr pouzdanost, pogodnost za održavanje),  ugovornim(npr garancija i sl) i  etičkim (ljubaznost, poštenje) aspekt globalizacije igra vanu ulogu u širenju ideje o implementaciji koncepta kvaliteta.postoji sedam principa koji moraju da se poštuju i primenjuju prilikom implementacije qms-a, a to su : princip 1 - usredsređenost na korisnika menadžment kvalitetom je primarno usredsređen na to da se ispune zahtevi korisnika i da se teži tome da se nadmaše očekivanja korisnika.decemb ar 2019 probna primena izrađenih dokumenata i otklanjanje eventualnih nedostataka januar 2020 pauza u većini aktivnosti sp zbog praznika i ispitnog roka februar 2020 uspostavljanje konačnih verzija izrađenih dokumenata smk mart 2020 obuka i osposobljavanje članova tima za kvalitet za internu proveru i održavanje iste april 2020 analiza sprovedene provere, predstavljanje rezultate iste svim članovima u sp i pred-stavljanje daljih koraka za unapređenje smk od strane tima za kvalitet maj i jun 2020 u zavisnosti od rezultata primenjivanja smk, ambicija rukovodstva i želje za unapređenjem smk u preduzeću moguće razmišljanje o sertifikaciji sistema.to podrazumeva uređenje organizacije koja će biti usmerena na kvalitet u svim aspektima poslovanja, a koje će opet biti usmereno ka zadovoljenu svih zainteresovanih strana.koristi koje bi preduzeće steklo unapređenjem sistema menadžmenta kvalitetom bile bi višestruke , a neke od njih mogle bi biti:  smanjenje troškova i rizika poslovanja i povećanje dobiti kroz:  poboljšanje pouzdanosti proizvoda,  bolju kontrolu tokova procesa,  bolju dokumentovanost procesa,  povećanje svesti zaposlenih  smanjenje broja neusaglašenih proizvoda  poboljšanje efikasnosti rada što podrazumeva niže proizvodne troškove zbog manjeg  broja neusaglašenih proizvoda, manje dorade, manji broj grešaka  nedostatke je moguće identifikovati na vreme  bilo bi manje praznog hoda jer su dokumentovane procedure lakše za razumevanje  bolja promocija kod poslovnih partnera  donosi lakše prikupljanje informacija i donošenje odluka na osnovu činjenica  kvalitet sistema u celini je stalno moguće meriti i poboljšati itd poboljšavanje sistema menadžmenta kvalitetom mora da bude permanentna aktivnost svakog poslovanja ukoliko organizacija želi da ostane na tržištu.
+PREDICTION
+u ovom radu je opisana analiza i upotreba i
+TARGET
+u ovom radu dat je kratak opis teorijskih osnova sistema menadžmenta kvalitetom, opis preduzeća i njegova analiza stanja, a potom program unapređenja sistema menadžmenta kvalitetom korišćenjem iso 9001:2015 u udruženju studenata „spins”
+rouge1: Score(precision=0.6666666666666666, recall=0.15384615384615385, fmeasure=0.25)
+--------------
+
+rouge2: Score(precision=0.25, recall=0.05263157894736842, fmeasure=0.08695652173913043)
+--------------
+
+rougeL: Score(precision=0.5555555555555556, recall=0.1282051282051282, fmeasure=0.20833333333333334)
+--------------
+
+INPUT
+u sam hibrid su smeštene tri javne tiplologije: policijska, vatrogasna i zdravstvena stanica.cmg qianhai global trade center koji se nalazi u centralnoj poslovnoj četvrti u šenženu je možda jedan od najboljih reprezenata koncepta hibrida, jer u svojoj programskoj strukturi uvezuje neke od najkompleksnijih funkcija, i stvara mikrograd.posebnu pažnju treba posvetiti koridorima (komunikacija), koji moraju zadovoljiti zahteve nesmetanog kretanja unutar njih, a koji su propisani standardima za projektovanje javnih zgrada.sama parcela je povoljna za izgradnju ovog tipa objekta, ima veliku površinu, nepo-sredan pristup saobraćajnim koridorima, a pored parcele se nalazi i sportski centar koji omogućava radnicima hitnih službi prostor za rekreaciju i fizičke aktivnosti.serijom urbanih hibrida na nivou grada kreirao bi se brži i efikasniji rad hitnih službi, a samim tim povećala bi se i sigurnost građana koji žive u novom sadu.
+PREDICTION
+u ovom radu je opisana i u ovom radu.
+TARGET
+arhitektonski hibrid – centar gradskih hitnih službi, proistekao je iz ideje, da se u novom naselju (novi sad) formira programski hibrid koji će svojom formom i programima komunicirati sa stanovništvom ove lokalne zajednice i na pravi način odgovoriti na senzibilitet mesta. da bi se postiglo navedeno, bilo je potrebno projektovati objekat, koji će preko sistema javnih otvorenih prostora i sadržaja na nivou prizemlja ostvariti primarni kontakt sa korisnicima i okruženjem, a na osnovu čega se formira koncept vertikalnog razvijanja programa povezanih komunikacionim koridorima (horizontalnim i vertikalnim).
+rouge1: Score(precision=0.3333333333333333, recall=0.03333333333333333, fmeasure=0.0606060606060606)
+--------------
+
+rouge2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+--------------
+
+rougeL: Score(precision=0.3333333333333333, recall=0.03333333333333333, fmeasure=0.0606060606060606)
+--------------
+
+INPUT
+analiza logističkih procesa kroz isto-riju daje uvid u razvoj skladišnih procesa i sistema kroz vreme.njima asistira preko 300 visokoobrazovanih i radnika različitih profila, što je garancija kvaliteta svega što institut nudi  semena, tehnologije, obrazovanja i usluga.slično kao i kod prijema robe, viljuškarista, treba da ide od lokacije do lokacije redom kojim su palete sa robom poređane na displeju ručnog računara i izvrši izuzimanje navedene robe iz regala.mogućnost sistema da kontroliše i optimizuje kretanje robe je zasno-vana na logističkim pravilima i sposobnosti sistema da u realnom vremenu obezbedi inofrmacije o statusu i lokaciji robe, popunjenosti skladišta, prijemu i zahtevima za isporuku.fokus ovakvih rešenja je finansijski aspekt poslovanja, što je predstavljalo ograničenje u daljem razvoju i proširenju funkcionalnosti.
+PREDICTION
+u ovom radu je opisana analiza logističkih procesa kroz vreme
+TARGET
+predmet rada jesu osnovni pojmovi logistike, sa naglaskom na značaj skladišnih procesa u logistici. primenom inženjerske metode ishikawa dijagram, identifikovani su glavni uzroci koji utiču na proces skladištenja u institutu za ratarstvo i povrtarstvo. na osnovu rezulata dobijenihi iz ishikawa dijagrama, predloženo je unapređenje skladišnog poslovanja u preduzeću, kupovinom wms i rfid sistema.
+rouge1: Score(precision=0.2727272727272727, recall=0.04838709677419355, fmeasure=0.0821917808219178)
+--------------
+
+rouge2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+--------------
+
+rougeL: Score(precision=0.18181818181818182, recall=0.03225806451612903, fmeasure=0.0547945205479452)
+--------------
+
+INPUT
+12 cilj istraživanja usled velike urbanizacije koja se dešava na prostoru novog sada i konstantnog priliva novih stanovnika, cilj ovog istraživanja je da se kroz studije slučaja i analizom zadate lokacije dodje do najboljeg mogućeg arhitektonskog rešenja osnovne škole, koja će svojim univerzalnim dizajnom, pristupačnošću budućim đacima olakšati učenje i učiniti boravak u njoj prijatnijim.sam prenos znanja mlađoj generaciji može da se izvodi i izvan okruženja škole, tj kod kuće u sopstevnoj režiji, uz pomoć roditelja ili učitelja, što se može nazvati kućna škola ili školovanje od kuće u zavisnosti od vrste usmerenja razlikuju se po sadržajima, metodama i tehnikama rada.betonski kostur zgrade pojavljuje se u učionicama kao vid enterijera, akustična korekcija se odvija zahvaljujući drve-nim materijalima sa kojima je beton obložen.na drugom spratu su smeštene učionice, od kojih su dve učionice sa ostavama namenjene za muzičko i likovno, toaleti, slika 7 slika 7 dijagram programa objekta 32 konstrukcija i materijalizacija nakon završetka forme objekta, na red dolazi kons-trukcija i materijalizacija, slike 8 i 9 konstrukcija je skeletna sa ab stubovima i ab pločama, koje su ukrućena sa vertikalnim i horizontalnim konsturktivnim ab platnima, međuspratnu konstrukciju čine armirano betonske ploče debljine 20cm.projektovanjem osnovne škole koja ima javnu namenu, i kao takvoj bilo je potrebno da se što bolje usklade forma i materijalizacija objekta kao odgovor na zahtevan program i funkciju koju ima škola.
+PREDICTION
+u ovom radu je opisana konstrukcija i materijalizacija objekt
+TARGET
+rad se bavi istraživanjem zadate lokacije i progama osnovne škole u novom sadu. finalno arhitektonsko rešenje nastalo je detaljnom analizom programa objekta, konteksta i lokacije na kojoj se objekat nalazi.
+rouge1: Score(precision=0.3333333333333333, recall=0.09375, fmeasure=0.14634146341463417)
+--------------
+
+rouge2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+--------------
+
+rougeL: Score(precision=0.3333333333333333, recall=0.09375, fmeasure=0.14634146341463417)
+--------------
+
+INPUT
+analitički pristup podrazumeva proračun karakteristika motora putem analitičkih izraza, polazeći od pretpostav-ljene geometrije magnetnog kola, nominalne snage moto-ra, nominalnog napona motora i nominalne frekvencije .u sklopu elektromagnetnog proračuna dimenzioniše se magnetno kolo mašine, proračunavaju se razni parametri kao što su naponi, struje, fluksevi, gustine flukseva u raznim delovima magnetnog kola i još mnoge druge elektromagnetne veličine koje utiču na rad jednog motora .slika 24  2-d model posmatranog modela nakon uspostavljenog modela i definisanja graničnih vrednosti i izvora polja, formira se mreža konačnih elemenata za koju se u svakoj tački proračunavaju maksvelove jednačine elektromagnetnog polja.kada se uporede, vidimo da metoda konačnih elemenata daje mnogo preciznije rezultate kao i mnogo više mogućnosti za uspostavljanje raznih uslova simulacije i praćenja rezultata.poređenjem rezultata ove dve metode sa rezultatima ispitnog protokola može se videti da finalni proizvod, osim same konstrukcije i dizajna zavisi i od tehnoloških procesa, kvaliteta materijala sa kojim se radi, stručnosti radne snage kao i iskustva projektanta.
+PREDICTION
+u ovom radu se prikazava u ovom radu. u
+TARGET
+asinhroni motori važe za najčešće primenjivane električne mašine industriji. razvojem industrije javila se potreba za sve preciznijim i izazovnijim tehničkim zahtevima. cilj ovog istraživanja je poređenje dve metode projektovanja asinhronih motora, analitičke i metode konačnih elemenata. za poređenje je korišćen osmopolni motor, osne visine 500 mm, snage 630 kw. za potrebe proračuna korišćeni su softveri konpro i ansys maxwell. na kraju rada prikazano je poređenje karakteristika dobijenih proračunima i ispitnog protokola pomenutog motora.
+rouge1: Score(precision=0.1111111111111111, recall=0.011235955056179775, fmeasure=0.02040816326530612)
+--------------
+
+rouge2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+--------------
+
+rougeL: Score(precision=0.1111111111111111, recall=0.011235955056179775, fmeasure=0.02040816326530612)
+--------------
+
+INPUT
+hoteli se ubrajaju u neke od najvećih potrošača energije u svijetu i za objekte koji imaju jako veliki uticaj na životnu sredinu iz razloga što uvijek moraju da imaju određenu količinu finalne energije spremene za korištenje, pored toga hoteli su jedan od osnovnih elemenata turizma kao privredne grane.- rezervoar za stpv rezervoar za skumulaciju stpv su izrađeni do nerđajučeg čelika ili običnog čelika, ali su iznutra obloženi staklastim materijalima kako voda ne bi bila u dodiru sa čelikom.primjer proračuna vremena rada cirkulacione pumpe na godišnjem nivou na osnovu isporučene energije:        - energija solara za zagrijavanje stpv na godišnjem nivou;   maseni protok rasoline sa strane kruga solarnih kolektora;  - prosječna temperaturna razlika potisnog i povratnog voda; 54 sistem sa toplotnim pumpama i rekuperacijom toplote iz sivih otpadnih voda - sov na osnovu potrebne količine stpv na 60c i prosječne temperature tople vode pri korištenju od 36,4, prosječnih padavina u novom sadu u periodu od maja do septembra na površinu krova od 700m2, prorčunato je da u sistem svaki dan dolazi 28943,6 kg sov pri popunjenosti kapaciteta 100  i 1240 kg atmosferskih voda.u tabeli 61 su prikazani rezultati finansijske analize: tabela 61: rezultati finansijske analize sistem b pop npv solarni kolektori 32373,1 17 3907,75 toplotne pumpe sa rekuperacijom iz sov 46361,26 4,59 28221,49 b - ukupne uštede u troškovima eksploatacije za eksploatacioni period od 20 god eur; pop - dinamički period povrata novca god; npv - neto sadašnja vrijednost novca eur; dijagram 51: period povrata investicije za sistema sa solarnim kolektorima dijagram 5 period povrata investicije za sistema sa toplotnim pumpama i rekuperacijom toplote iz sovu radu si iznijete teoretske osnove sistema za prpremu stpv uopšteno, sa posebnim osvrtom na sisteme pogodne za primjenu u hotelima, s obzirom da se smatra da troškovi pripreme stpv učestvuju u ukupnim troškovima hotela za eneriju sa 25-50 zavisno od sistema.
+PREDICTION
+u ovom radu su prikazani rezultati finansijske analize sistema za priprem
+TARGET
+u radu su prukazane teorijske osnove sistema za pripremu sanitarne tople potrošne vode (stpv), sa fokusom na sisteme koji su primjenjivi u hotelima. iznijete teorijske osnove su korištene za izradu rješenja sa konvencionalnim i obnovljivim izvorima energije i izvršena je tehnoekonomska analiza gdje jevršeno upoređivanje sistema sa konvencionalnim izvorom energije i sistema sa obnovljivim izvorima energije.
+rouge1: Score(precision=0.45454545454545453, recall=0.08064516129032258, fmeasure=0.136986301369863)
+--------------
+
+rouge2: Score(precision=0.2, recall=0.03278688524590164, fmeasure=0.056338028169014086)
+--------------
+
+rougeL: Score(precision=0.45454545454545453, recall=0.08064516129032258, fmeasure=0.136986301369863)
+--------------
+
+INPUT
+pojavila se digitalna štampa koja je poznata po karakteristikama kao što su jednostavnost korišćenja, praktičnost, brzina, detaljnost štampe, kompaktnost, kvalitet, održavanje.nakon digitali-zacije i razvijanja računara došla je potreba i brze štampe kako u kućnim uslovima tako i u štamparijama.34 skenirani primeri na skeniranom primeru se vidi jasno slaba otpornost trenja na materijal, gde gotovo dolazi do skidanje crne boje na mestu gde je trenje najviše puta izvršeno.ovaj rad pokazuje rezultate razlike boje nakon trljanja između podloga canvas i oneway visiona, kao i izdržljivost boje nakon štampe.iz tabela se vidi da uglavnom oneway vision crna i magenta imaju velika odstupanja u razlici boje, koje iznose preko 5
+PREDICTION
+u ovom radu je opisana i upotreba boje na
+TARGET
+istraživanje je vršeno na dve različite podloge, oneway vision i canvas. mašine koje su korištene za štampanje na ove podloge su mimaki jv 5, ujf 3042 i ucjv 150. svrha rada je istraživanje promene boje nakon trljanja otisaka. da bi se izračunale promene koje su nastale potrebno je uz pomoć denzitometra izmeriti optičku gustinu, spektralnu krivu, cie lab vrednosti i odrediti razliku boje. rezultati su upoređivani pre trenja, nakon prvog trenja i nakon drugog trenja, gde su se na kraju poredile dobijene vrednosti.
+rouge1: Score(precision=0.4444444444444444, recall=0.043478260869565216, fmeasure=0.07920792079207921)
+--------------
+
+rouge2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+--------------
+
+rougeL: Score(precision=0.4444444444444444, recall=0.043478260869565216, fmeasure=0.07920792079207921)
+--------------
+
+INPUT
+od samog početka razvoja računarstva, ideja je bila da računari i softverski alati koji se na njima koriste olakšaju ljudske aktivnosti koje zahtevaju mnogo uloženog vremena ili resursa da bi se izvršile jednom ili više puta.pomoću github akcija, u malopre pomenuti alat se integ-rišu drugi alati, koji služe za vršenje provera ispravnosti nekih od koraka i koji dodatno olakšavaju proces kreiranja zadatka.- assignment-check - za proveru izmena datoteka i proveru ispravnosti primera rešenja - get-template - za pronalaženje naziva testa na osnovu naziva repozitorijuma i proveru ispravnosti naziva repozitorijuma takođe, uvedene su sitne izmene u neke od postojećih funkcionalnosti: - init - dodatno, nakon generisanja datoteka na osnovu izabranog identifikatora testa, kreira se .template datoteka u koju se smešta identifikator za kasniju upotrebu - test-solution - dodato je da pre pokretanja funkcionalnosti zahteva da postoji assignmentsolution.c datoteka - assignment-build - dodato je da pre pokretanja funkcionalnosti zahteva da postoji assignmentsolution.c datoteka - assignment-pack - dodato je da se pre pakovanja, pored provere ispravnosti primera rešenja, proveri da li su izmenjene sve datoteke koje je potrebno menjati i da li su ostale iste sve datoteke koje se ne smeju menjati kao zavisnosti u projektu dodati su pjisp-template-name i pjisp-diff korišćenjem pipenv alata.funkcionalnosti koje ove akcije uvode mogu znatno da smanje učestalost grešaka koje nastavno osoblje pravi prilikom kreiranja zadataka za studente.takođe, zbog brzog razvoja softvera, dokumentacija nije u svakom momentu usklađena sa alatom, pa to nekada može predstavljati problem za programere koji žele da koriste nove funkcionalnosti alata čim se one pojave.
+PREDICTION
+u ovom radu je opisana u ovom radu opisana
+TARGET
+poslednjih godina, na tržištu se pojavljuju mnogi alati za automatizaciju procesa razvoja softvera. ovaj rad opisuje jedan od takvih alata  githab akcije, kao i prednosti i mane njegovog korišćenja. opis je dat kroz primer razvoja dodatnih funkcionalnosti u aplikaciji koja sluiži za automatizaciju procesa kreiranja i ocenjivanja studentskih zadataka.
+rouge1: Score(precision=0.2222222222222222, recall=0.03773584905660377, fmeasure=0.06451612903225806)
+--------------
+
+rouge2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+--------------
+
+rougeL: Score(precision=0.2222222222222222, recall=0.03773584905660377, fmeasure=0.06451612903225806)
+--------------
+
+INPUT
+aplikacija će omogućiti korisniku da napravi svoj nalog, ukoliko ga već ne poseduje, na kojem će imati mogućnost da pogleda knjige koje se trenutno prodaju, da kupi odgovarajuću knjigu tako što će uneti podatke sa kartice, kao i da postavi knjigu koju želi da proda.kupovina preko interneta je u početku ljudima delovala nesigurno, međutim, vremenom je taj strah nestao i sada ljudi koriste veb aplikacije za kupovinu raznih stvari.pored dva publisher-a, books servis ima i dva listener-a koji će osluškivati na promene koje su se desile prilikom kreiranja ili modifikovanja narudžbine.cilj ove aplikacije jeste da se korisnik upozna na koji način se može kreirati aplikacija sa mikroservisnom arhitekturom.najveći fokus je bio na servisima i radom sa mikroservisnom arhitekturom, dok je dosta manji bio na frontend delu aplikacije.
+PREDICTION
+u ovom radu je opisana aplikacija sa mikroservisnom arhitekturom.
+TARGET
+kroz ovaj rad biće opisan način na koji se može kreirati ecommerce aplikacija za prodaju i kupovinu knjiga. krajnje rešenje je veb aplikacija koja je zasnovana na mikroservisnoj arhitekturi. detaljno će biti opisane korišćene tehnologije, kao i sama arhitektura aplikacije.
+rouge1: Score(precision=0.2222222222222222, recall=0.044444444444444446, fmeasure=0.07407407407407407)
+--------------
+
+rouge2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+--------------
+
+rougeL: Score(precision=0.2222222222222222, recall=0.044444444444444446, fmeasure=0.07407407407407407)
+--------------
+
+INPUT
+cilj programa je osigurati da evropa proizvodi nauku svetske klase iznošenjem ideja na tržište i olakša javnom i privatnom sektoru da rade zajedno u pružanju inovacija.eksploatacija podrazumeva korišćenje rezultata za dalje istraživačke aktivnosti osim onih obuhvaćenih navedenom akcijom, ili u razvoju, kreiranju i marketingu proizvoda ili procesa, ili u stvaranju i pružanju usluge ili u aktivnostima standardizacije.identitet je vizuelna manifestacija strategije informisanja javnosti, koja se prenosi kroz boje, logo i bilo koji drugi vizuelni alat.slika 2 diatomic pos metodologija metode i najbolje prakse marketinga su usvojene (slika 2), stavljajući diatomic pred ciljne grupe u trenutku kada oni zapravo traže ono što diatomic nudi  tržišno orijentisan ekosistem za inovacije.to znači da lider radnog paketa za diseminaciju i komunikaciju mora da bude upućen u sve aktivnosti kao što su tehničko razvijanje, implementacija pilota, komercijalizacija i dr, i promoviše ih radi širenja informacija i dešavanja na projektu kako bi se obezbedila zainteresovanost ciljnih grupa za serviseusluge koje isti pruža, a sa duge strane dostigli ključni indikatori performansi i time zadovoljio kriterijum evropske komisije.
+PREDICTION
+u ovom radu je opisana analiza i u ovom radu
+TARGET
+kroz rad su teorijski prikazane osnove projektnog menadžmenta i važnost diseminacije i komunikacije na nivou h2020 evropskih projekata. pregledom literature i praktičnog iskustva iz oblasti projektnog menadžmenta i diseminacije i komunikacije došlo se do nekolicine faktora koji se povezuju sa finansijskim uspesima projektnoorijentisanih organizacija i uspesima u implementaciji projekata. cilj ovog rada je da prikaže uspešno upravljanje i sprovođenje diseminacije i komunikacije na nivou h2020 evropskih projekata (diatomic i beacon) finansiranih od strane evropske komisije.
+rouge1: Score(precision=0.3, recall=0.03614457831325301, fmeasure=0.06451612903225806)
+--------------
+
+rouge2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+--------------
+
+rougeL: Score(precision=0.3, recall=0.03614457831325301, fmeasure=0.06451612903225806)
+--------------
+
+INPUT
+u to doba odvijao se rat struja između edisona sa jedne i tesle i vesting-hausa sa druge strane koji su na kraju dobili tesla i ves-tinghaus otvorivši na taj način put korišćenju naizmje-nične struje (ac) za proizvodnju, prenos i potrošnju električne energije.osnovni elementi sistema su: pretvarači, energetski transformatori, fazne prigušnice, filtri viših harmonika, kondenzatori, vodovi, prekidači i uzemljivači.zatim se nove vrijednosti komponenti modulišućeg signala koriste za upravljanje d i q komponentama napona na izlazu pretvarača, koje, u stvari, predstavljaju upravljačke promjenljive kojima se zadaju nove vrijednosti d i q komponenti struje.vrijednost aktivne snage koja se preko pretvarača broj 2 isporučuje naizmjeničnom sistemu (mreži) broj 2 ima suprotan znak od vrijednosti aktivne snage koju naizmje-nični sistem (mreža) broj 1 isporučuje pretvaraču broj 1, ali je po apsolutnoj vrijednosti manja, što je posljedica gubitaka u pretvaračima i u ostalim komponentama sistema.kao najvažnije prednosti hvdc sistema se mogu navesti jednostavno upravljanje tokovima aktivne i reaktivne snage, pružanje ekonomski isplativih i prostorno prihvatlji-vih rješenja problema vezanih za reaktivnu snagu, održavanje naponske stabilnosti i povezivanje nesinhro-nizovanih sistema.
+PREDICTION
+u ovom radu je opisana uloga u radu pretvar
+TARGET
+u ovom radu su razmatrane najvažnije osobine sistema koji se koriste za jednosmjerni prenos električne energije. naglašene su prednosti, kao i nedostaci u odnosu na naizmjenične sisteme. predstavljene su osnovne komponente sistema. opisano je upravljanje sistemom koristeći strujnu regulaciju. na kraju su dati rezultati simulacije rada sistema u ustaljenom stanju kako bi se potvrdilo njegovo očekivano ponašanje u tom režimu.
+rouge1: Score(precision=0.5555555555555556, recall=0.07352941176470588, fmeasure=0.12987012987012989)
+--------------
+
+rouge2: Score(precision=0.25, recall=0.029850746268656716, fmeasure=0.05333333333333334)
+--------------
+
+rougeL: Score(precision=0.5555555555555556, recall=0.07352941176470588, fmeasure=0.12987012987012989)
+--------------
+
+INPUT
+upravljanje preduzećem podrazumeva znanja o svim aspektima poslovanja kako bi se na adekvatan način vodili materijalni i nematerijalni resursi u smeru efektivnog ostvarivanja ciljeva preduzeća.značaj ove funkcije ogleda se u prioritetu postavljanja čoveka u središte poslovanja.menadžment obuhvata niz poslovnih aktivnosti, koji se najopštije mogu podeliti na planiranje, organizovanje, vođenje i kontrolu.hipotezama smo utvrdili da je ukupno u organizaciji zastupljeno upravljanje ljudskim resursima putem podrške zaposlenima, međutim uvek postoji prostor za poboljšanjem.sprovedeno istraživanje pružilo je uvid u to da li orga-nizacija pruža adekvatnu podršku svojim zaposlenima, odnosno da li oni doživljavaju poslovanje kao podršku njihovom razvoju i dobrobiti.
+PREDICTION
+u ovom radu je opisana istraživanje u ovom 
+TARGET
+u radu su predstavljeni teorijski aspekti upravljanja, upravljanja ljudskim resursima, kao i motivisano organizaciono ponašanje. predstavljeno je i istraživanje subjektivnog doživljaja organizacione podrške koju zaposleni imaju od organizacije u kojoj posluju.
+rouge1: Score(precision=0.6666666666666666, recall=0.17142857142857143, fmeasure=0.27272727272727276)
+--------------
+
+rouge2: Score(precision=0.125, recall=0.029411764705882353, fmeasure=0.047619047619047616)
+--------------
+
+rougeL: Score(precision=0.6666666666666666, recall=0.17142857142857143, fmeasure=0.27272727272727276)
+--------------
+

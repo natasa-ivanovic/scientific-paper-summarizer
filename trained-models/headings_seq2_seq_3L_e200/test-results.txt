@@ -1,0 +1,280 @@
+TARGET
+analiza faktora uspešnosti projekata 
+PREDICTION
+analiza odvođenja električne u elasticsearch razaranja kontekstu mreže aspekta
+rouge1: Score(precision=0.08333333333333333, recall=0.2, fmeasure=0.11764705882352941)
+rouge2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+rougeL: Score(precision=0.08333333333333333, recall=0.2, fmeasure=0.11764705882352941)
+--------------
+TARGET
+analiza i izbor fasadnog sistema za arheološki centar u mainzu 
+PREDICTION
+primena dizajniranog parcela sa područja programa okruženju
+rouge1: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+rouge2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+rougeL: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+--------------
+TARGET
+analiza katastrofalnih događaja u 2017. godini i njihov uticaj na osiguranje 
+PREDICTION
+analizu samoocenjivanja elektroenergetskih tokova na preporuke uspostavljanje u promena ugljevik optimizacija
+rouge1: Score(precision=0.18181818181818182, recall=0.16666666666666666, fmeasure=0.17391304347826086)
+rouge2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+rougeL: Score(precision=0.09090909090909091, recall=0.08333333333333333, fmeasure=0.08695652173913043)
+--------------
+TARGET
+analiza motivacije gledalaca i komunikacije na društvenim medijima na primeru esporta 
+PREDICTION
+implementacija indikatore (studija drveta sa prodavnice bosis u upravljanju d.o.o.) univerziteta
+rouge1: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+rouge2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+rougeL: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+--------------
+TARGET
+analiza postupka programiranja obradnih centara za struganje-glodanje 
+PREDICTION
+analiza preduzeću električna korisnika u solarnom vremenu optimizacija
+rouge1: Score(precision=0.1, recall=0.125, fmeasure=0.11111111111111112)
+rouge2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+rougeL: Score(precision=0.1, recall=0.125, fmeasure=0.11111111111111112)
+--------------
+TARGET
+analiza potrošača u procesu strateškog planiranja 
+PREDICTION
+analiza preduzeću električna korisnika u solarnom vremenu optimizacija
+rouge1: Score(precision=0.2, recall=0.2222222222222222, fmeasure=0.2105263157894737)
+rouge2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+rougeL: Score(precision=0.2, recall=0.2222222222222222, fmeasure=0.2105263157894737)
+--------------
+TARGET
+analiza procene rizika za radno mesto vatrogasac-spasilac i mere za poboljšanje uslova procesa rada 
+PREDICTION
+procena mašine revitalizacija i energetska ispitivanje bezbedonosni mobilne proračunom u državnom
+rouge1: Score(precision=0.07142857142857142, recall=0.0625, fmeasure=0.06666666666666667)
+rouge2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+rougeL: Score(precision=0.07142857142857142, recall=0.0625, fmeasure=0.06666666666666667)
+--------------
+TARGET
+analiza radnih motivatora u organizaciji 
+PREDICTION
+analiza i postrojenja kreiranje za unapređenje programiranje pristupa u uloga procesorske jezgara automatskog podfrekventnog
+rouge1: Score(precision=0.13333333333333333, recall=0.4, fmeasure=0.2)
+rouge2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+rougeL: Score(precision=0.13333333333333333, recall=0.4, fmeasure=0.2)
+--------------
+TARGET
+analiza zastupljenosti i procena performansi veb tehnologija u oblasti školstva republike srbije 
+PREDICTION
+analiza i distributivnoj za unapređenje srbije i upravljanja modeli veb čačku promenom projekta
+rouge1: Score(precision=0.26666666666666666, recall=0.3333333333333333, fmeasure=0.2962962962962963)
+rouge2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+rougeL: Score(precision=0.2, recall=0.25, fmeasure=0.22222222222222224)
+--------------
+TARGET
+arhitektonska studija izgradnje savremenog trgovinskog centra iznad najlon pijace u novom sadu 
+PREDICTION
+analiza ap nelinearna u štampanim fb
+rouge1: Score(precision=0.16666666666666666, recall=0.08333333333333333, fmeasure=0.1111111111111111)
+rouge2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+rougeL: Score(precision=0.16666666666666666, recall=0.08333333333333333, fmeasure=0.1111111111111111)
+--------------
+TARGET
+arhitektonska studija multifunkcionalnog objekta na klisi 
+PREDICTION
+projekat višespratne ab modela tribodijagnostika po blok postizanja blok pepelom prema automatska tehnika
+rouge1: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+rouge2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+rougeL: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+--------------
+TARGET
+arhitektonska studija velnes-spa centra na jezeru palić 
+PREDICTION
+analiza bibliotečkog konstrukcije motivaciju pogona mongolia priključenje biogasnog programiranja ličnih plaćanja – programiranja rashladnog od analizi odmor optimalnog analizi goliji
+rouge1: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+rouge2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+rougeL: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+--------------
+TARGET
+arhitektonski hibrid – centar gradskih hitnih službi 
+PREDICTION
+analiza nabavke algoritma primenom realizacija d.o.o“ vodnom i sremskim procenu realizacija pri muzeja konjičkog „čegar“ napada mreža
+rouge1: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+rouge2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+rougeL: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+--------------
+TARGET
+arhitektonski projekat osnovne škole u novom sadu 
+PREDICTION
+implementacija računovodstvenosoftverskih pomoću revizije u informacioni i sijamske coworking upotreba
+rouge1: Score(precision=0.08333333333333333, recall=0.14285714285714285, fmeasure=0.10526315789473685)
+rouge2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+rougeL: Score(precision=0.08333333333333333, recall=0.14285714285714285, fmeasure=0.10526315789473685)
+--------------
+TARGET
+automatizovano testiranje korisnosti veb aplikacija pomoću jest okvira 
+PREDICTION
+sistem za biblioteke upravljanja rudarenje analitičke
+rouge1: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+rouge2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+rougeL: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+--------------
+TARGET
+automatsko određivanje tema knjiga pomoću tehnika za procesiranje prirodnog jezika 
+PREDICTION
+uticaj brend i kretanja uticaja na prenosnika neokruglim sada koda slika
+rouge1: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+rouge2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+rougeL: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+--------------
+TARGET
+analiza prohodnosti vozila kroz kružnu raskrsnicu 
+PREDICTION
+primena ugljevik" i izradu u samoubistava igrača
+rouge1: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+rouge2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+rougeL: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+--------------
+TARGET
+biomedicinski uložak za cipele za korekciju hoda kod dece 
+PREDICTION
+analiza zvuka zavarivanje analize u objekata model sa ulaganja zaštita na mašina od oflajn
+rouge1: Score(precision=0.0625, recall=0.1, fmeasure=0.07692307692307693)
+rouge2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+rougeL: Score(precision=0.0625, recall=0.1, fmeasure=0.07692307692307693)
+--------------
+TARGET
+digitalni potpisi i njihova uloga u blockchain tehnologiji 
+PREDICTION
+analiza događaja i blokčejn finansijskih kreiranje otpada procesa upravljanja ventilacije zatvorenog u standarda pozicije  kluba fudbalskog demarkacioni lokalizacije
+rouge1: Score(precision=0.1, recall=0.25, fmeasure=0.14285714285714288)
+rouge2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+rougeL: Score(precision=0.1, recall=0.25, fmeasure=0.14285714285714288)
+--------------
+TARGET
+dsl i generator koda za podršku digitalizacije naftnih polja 
+PREDICTION
+analiza aktivnosti zadovoljstva pojedinim državama
+rouge1: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+rouge2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+rougeL: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+--------------
+TARGET
+džentrifikacija kao fenomen društveno-ekonomske i prostorne transformacije 
+PREDICTION
+analiza preduzeću armirano raške u okruženja „novitet’’ u l~2.05km sistemima ambalaže propada
+rouge1: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+rouge2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+rougeL: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+--------------
+TARGET
+ekološki uticaj mangana na grafičko okruženje 
+PREDICTION
+primena "innovate" u rekonstrukcija primerom i audio lokalizacija
+rouge1: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+rouge2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+rougeL: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+--------------
+TARGET
+elektronske finansijske usluge u pošti 
+PREDICTION
+studija restauraciju algoritma u mikromrežama konstrukcije
+rouge1: Score(precision=0.14285714285714285, recall=0.16666666666666666, fmeasure=0.15384615384615383)
+rouge2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+rougeL: Score(precision=0.14285714285714285, recall=0.16666666666666666, fmeasure=0.15384615384615383)
+--------------
+TARGET
+elongacija kablova u naknadno prednapregnutim pločama 
+PREDICTION
+procena konstrukcije i energetska ispitivanje opterećenja modela isa95 u novom sadu
+rouge1: Score(precision=0.08333333333333333, recall=0.14285714285714285, fmeasure=0.10526315789473685)
+rouge2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+rougeL: Score(precision=0.08333333333333333, recall=0.14285714285714285, fmeasure=0.10526315789473685)
+--------------
+TARGET
+enterijer prodavnice satova: prikaz dva različita pristupa 
+PREDICTION
+analiza i distributivnoj za unapređenje srbije i upravljanja modeli veb čačku promenom projekta
+rouge1: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+rouge2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+rougeL: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+--------------
+TARGET
+faze životnog ciklusa projekta 
+PREDICTION
+analiza novog merenja na kampanjama voda informacionih putevima
+rouge1: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+rouge2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+rougeL: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+--------------
+TARGET
+funkcionalno testiranje wifi halow™ mac softver steka koristeći virtual system platform 
+PREDICTION
+primena kontrolu uticaja u postupak za sanacija i centar kvaliteta deformaciona
+rouge1: Score(precision=0.09090909090909091, recall=0.08333333333333333, fmeasure=0.08695652173913043)
+rouge2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+rougeL: Score(precision=0.09090909090909091, recall=0.08333333333333333, fmeasure=0.08695652173913043)
+--------------
+TARGET
+g2c 3g click iot termalna stanica 
+PREDICTION
+analiza novog funkcionalnost adaptacija igrača životnom dscada i igrača porodične na skram razvoj
+rouge1: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+rouge2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+rougeL: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+--------------
+TARGET
+generisanje oštećenja zida u arhitektonskoj vizualizaciji 
+PREDICTION
+analiza preduzeću električna korisnika u solarnom vremenu optimizacija
+rouge1: Score(precision=0.1, recall=0.125, fmeasure=0.11111111111111112)
+rouge2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+rougeL: Score(precision=0.1, recall=0.125, fmeasure=0.11111111111111112)
+--------------
+TARGET
+grype skener za testiranje ranjivosti u kontejnerima 
+PREDICTION
+primena fps u unreal uloga
+rouge1: Score(precision=0.2, recall=0.14285714285714285, fmeasure=0.16666666666666666)
+rouge2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+rougeL: Score(precision=0.2, recall=0.14285714285714285, fmeasure=0.16666666666666666)
+--------------
+TARGET
+hibridni estimator stanja sa strujama u pravougaonim koordinatama za uključivanje fazorskih merenja 
+PREDICTION
+aplikacija za upravljanje projektnim njihove 2 banštad distributivnih
+rouge1: Score(precision=0.1111111111111111, recall=0.07692307692307693, fmeasure=0.09090909090909093)
+rouge2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+rougeL: Score(precision=0.1111111111111111, recall=0.07692307692307693, fmeasure=0.09090909090909093)
+--------------
+TARGET
+idejno arhitektonsko rešenje objekta mešovite namene po principima coworking-coliving tipologije 
+PREDICTION
+ekstrakcija tehnologije položaja korišćenje radu paketa na vodovodne
+rouge1: Score(precision=0.1, recall=0.07692307692307693, fmeasure=0.08695652173913043)
+rouge2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+rougeL: Score(precision=0.1, recall=0.07692307692307693, fmeasure=0.08695652173913043)
+--------------
+TARGET
+idejno rešenje adaptivne fasade radničkog univerziteta u novom sadu 
+PREDICTION
+unapređenje procesa o u uloga robe margetić” komunikacijama
+rouge1: Score(precision=0.2222222222222222, recall=0.18181818181818182, fmeasure=0.19999999999999998)
+rouge2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+rougeL: Score(precision=0.2222222222222222, recall=0.18181818181818182, fmeasure=0.19999999999999998)
+--------------
+TARGET
+idejno rešenje odvođenja atmosferskih voda naselja opovo sistemom otvorenih i zatvorenih kanala 
+PREDICTION
+industrijskom iz capacitya centara – strategijama „elmed“ industrijskom sajta
+rouge1: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+rouge2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+rougeL: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+--------------
+TARGET
+idejno rešenje vodosnabdevanja i odvođenja atmosferskih voda u naselju sefkerin 
+PREDICTION
+analiza novog merenja na kampanjama voda informacionih putevima
+rouge1: Score(precision=0.125, recall=0.08333333333333333, fmeasure=0.1)
+rouge2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+rougeL: Score(precision=0.125, recall=0.08333333333333333, fmeasure=0.1)
+--------------

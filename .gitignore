@@ -1,6 +1,8 @@
 .idea
 venv
-./combined-dataset
-./test-dataset
-./train-dataset
+__pycache__/
+/combined-dataset
+/test-dataset
+/train-dataset
 *.h5
+*.keras

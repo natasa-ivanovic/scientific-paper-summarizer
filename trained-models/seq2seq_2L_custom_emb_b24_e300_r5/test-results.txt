@@ -1,0 +1,280 @@
+TARGET
+Ovaj rad prikazuje kompatibilan izbor opreme za automatizaciju i prilikom ugovaranja radova po sistemu „ključ u ruke“. Ugovaranje, projektovanje, nezaobilazno korišćenje zakonskih okvira, adekvatan izbor i instalaciju automatizovane opreme, za toplotno područje grada Novog Sada, odnosno toplotnih podstanica kod svake grupe potrošača, optimalan izbor i način rada kompletne opreme. 
+PREDICTION
+istraženi i nedostaci zaštite i analiziran je moguće njihov sam cilj ovog istraživanja je da se ispita sve više softvera, može i praktičnu karakteristike karakteristike i faze analize mogu da bi se uspešno što ne mogu rešenje bolji način da bi se uspešno bolji njihov njihov uticaj kako bi se dobila primenu strategije plana i vršiti li su optimizacije tri metode zaštite  mogu da se prikaže konkretan primer zaštite arhitekture i njihove druge. ta veština je komunikacija. istraživanje u novom sadu i projektovanja enterijera timova sa razmatra kompanije u svetu i veliki broj problema. u ovom radu su kompaniji ove tipologije i površina u slučaju datog problema. prikazan je na to da se predlozi mera za poboljšanje i unapređenje procesa u cilju stanje u srbiji sa ciljem da se mogu da ukaže na republici srbiji i skladištenja enterijera i u republici srbiji  odobravanja kredita se analiziraju u ovom radu se analiziraju rezultati ukazuju na to da postoji veza
+rouge1: Score(precision=0.055248618784530384, recall=0.18518518518518517, fmeasure=0.0851063829787234)
+rouge2: Score(precision=0.005555555555555556, recall=0.018867924528301886, fmeasure=0.008583690987124463)
+rougeL: Score(precision=0.04419889502762431, recall=0.14814814814814814, fmeasure=0.06808510638297872)
+--------------
+TARGET
+U radu su prikazane osnove BIM pristupa u građevinarstvu, kroz faze projektovanja, izgradnje i održavanja objekta. Prikazan je i projekat saobraćajnice spreman za dalju BIM analizu, sa primerom 4D analize. 
+PREDICTION
+razmatrana snimak i stanja u radu.
+rouge1: Score(precision=0.5, recall=0.09090909090909091, fmeasure=0.15384615384615385)
+rouge2: Score(precision=0.2, recall=0.03125, fmeasure=0.05405405405405406)
+rougeL: Score(precision=0.3333333333333333, recall=0.06060606060606061, fmeasure=0.10256410256410256)
+--------------
+TARGET
+U radu je analiziran EMBOK model i mogućnost njegove priene u organizovanju sprtskog događaja. Date susugestije, prikazana ograničenja modela iz čega su dobijene i prikazane smernice za prilagođavanje  modela ovoj vrsti događaja. 
+PREDICTION
+što se istražena putem prezentovani
+rouge1: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+rouge2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+rougeL: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+--------------
+TARGET
+Cilj ovog rada jeste analiza upotrebe internet stvari (eng. Internet of Things – IoT)  u različitim životnim okruženjima. Objašnjeno je šta pojam IoT ozna-čava. Pomenute su tehnologije koje su dobar izbor pri kreiranju IoT sistema. Predstavljena je upotreba IoT-a u rudama, gradovima i kućama. 
+PREDICTION
+istraženi i prikazane su mere unapređenja.
+rouge1: Score(precision=0.25, recall=0.04081632653061224, fmeasure=0.07017543859649122)
+rouge2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+rougeL: Score(precision=0.125, recall=0.02040816326530612, fmeasure=0.03508771929824561)
+--------------
+TARGET
+U okviru ovog rada predstavljen je princip optimizacije resursa sa aspekta gubitaka koji se javljaju u toku izvođenja radova. Kao osnova za izradu rada korišćen je „LEAN CONSTRUCTION“ princip, a konkretno na primeru procesa od proizvodnje armirano betonskih elemenata montažne hale, preko procesa transporta elemenata montažne konstrukcije od proizvodnog pogona do gradilišta, do ugradnje elemenata na gradilištu. Svaki od navedenih kriterijuma gubitaka u osnovnom dokumentu „LEAN CONSTRUCTION“ obrađen je u svakoj od faza izvršavanja radnji i na taj način predstavljeni su načini optimizacije svakog od procesa u izvođenju radova. 
+PREDICTION
+slično implementacija tuneli i implementacija postojećih strane uređaja i uvođenje način.
+rouge1: Score(precision=0.1875, recall=0.03, fmeasure=0.05172413793103448)
+rouge2: Score(precision=0.06666666666666667, recall=0.010101010101010102, fmeasure=0.01754385964912281)
+rougeL: Score(precision=0.1875, recall=0.03, fmeasure=0.05172413793103448)
+--------------
+TARGET
+Ovaj rad demonstrira primenu elemenata Lean filozofije na projektovanje modela proizvodnog sistema. Primena Poka - Yoke alata pri sprečavanju najastajanje grešaka pri porudžini u nekom od trgovinskih lanaca. 
+PREDICTION
+što se istražena njihov značaj za demonstraciju i unapređenje aplikacija.
+rouge1: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+rouge2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+rougeL: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+--------------
+TARGET
+U ovom radu, kao prvi korak, opisane su neke od najrelevantnijih teorija za pokretanje i analizu strartup projekata. Nakon teorijskog pregleda, analiziran je startup, koji je u momentu pisanja rada u procesu razvoja.  Cilj ovog rada je primeniti Lin Kanvas Model u kreiranju preciznije vizije smera razvoja obrađenog startup projekta. 
+PREDICTION
+tipovi i opisuju svi usrednjeni svi prilagođeni svim radu.
+rouge1: Score(precision=0.2, recall=0.0392156862745098, fmeasure=0.06557377049180327)
+rouge2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+rougeL: Score(precision=0.1, recall=0.0196078431372549, fmeasure=0.032786885245901634)
+--------------
+TARGET
+okviru ovog rada dat je opis računarstva na ivici (Edge Computing) kod programabilno logičkih kontrolera. Urađeno je poređenje računarstva na ivici sa računarstvom u oblaku (Cloud Computing) u različitim industrijskim primenama. Izvršena je analiza praćenja rada pneumatskog cilindra u cilju predviđanja njegovog otkaza u radu. 
+PREDICTION
+istraženi i obrađeni su predstavljeni su analizirane su opisani su parametri koji su koraci za poboljšanje poslovanja i sistema treba da je predlog rešenja za poboljšanje organizacije i unapređenja.
+rouge1: Score(precision=0.05714285714285714, recall=0.03636363636363636, fmeasure=0.044444444444444446)
+rouge2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+rougeL: Score(precision=0.05714285714285714, recall=0.03636363636363636, fmeasure=0.044444444444444446)
+--------------
+TARGET
+Predmet istraživanja u okviru rada obuhvata primenu softverskih rešenja u proizvodnim preduzećima na teritoriji Republike Srbije, istraživanjem su obuhvaćena 74 preduzeća iz proizvodnog sektora, od konditorske, preko tekstilne i hemijske industrije do industrije metala. Da bi se mogla sprovesti statistička analiza, uzorak je podeljen na 4 subuzorka na osnovu kriterijumskog obeležja povrat od prodaje preduzeća, i to: negativan i od 0 do 2%; od 2 do 5%; od 5 do 10%, i preko 10%. 
+PREDICTION
+obrađeno je i detaljno uz pomoć programskog paketa epa swmm 5.1.
+rouge1: Score(precision=0.23076923076923078, recall=0.03614457831325301, fmeasure=0.0625)
+rouge2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+rougeL: Score(precision=0.23076923076923078, recall=0.03614457831325301, fmeasure=0.0625)
+--------------
+TARGET
+U ovom radu dat je primer primene učenja uslovljavanjem agenta za igranje video igre Road Fighter. Agent je implementiran kao Duboka Q-mreža i obučavan metodom Dubokog Q-Učenja. Obučavanje je vršeno samo na osnovu slika ekrana video igre. Rezultati postignuti nakon 10000 epizoda obučavanja bili su slični rezultatima postignutim u srodnim radovima pod uslovom sličnih hardverskih ograničenja. 
+PREDICTION
+istraženi i nedostaci forenzike usluge. cilj rada jeste da se utvrdi što bolji konačni rezultati.
+rouge1: Score(precision=0.17647058823529413, recall=0.04411764705882353, fmeasure=0.07058823529411765)
+rouge2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+rougeL: Score(precision=0.11764705882352941, recall=0.029411764705882353, fmeasure=0.047058823529411764)
+--------------
+TARGET
+Ovaj rad demonstrira primenu elemenata Lean filozofije na na snimanje i analizu gubitaka u procesu reklamacije proizvoda i otklanjanja kvara, primenom VSM metodologije. Data je mapa tok vrednosti za trenutno i željeno stanje u procesu prijema reklamacija. 
+PREDICTION
+obrađene su predstavljeni su rezultati poslovanja i diskusija podataka sa ciljem na osnovu ovih projekta čime se zaključci mogu da se postoji potreba za oba rizika i predložene su mere poslovanja sa ciljem daljeg potrebe poslovanja i mogućnost daljeg procesa poslovanja i odgovarajućih stanje poslovanja potreba koja bi se posebno usluga na koji uspešno lako je i organizaciju druge. ta veština je date tri vrste elemenata koje je potrebno pratiti proces optimizacije sa ciljem na osnovu dobijenih rezultata za potrebe grada i detaljno je obrađen simulacioni model i model načine na ovaj način napravljen je jedno od metoda za samu svet i prikazan proračun dobijene zaštite i model napravljen je u ovom radu.
+rouge1: Score(precision=0.088, recall=0.2972972972972973, fmeasure=0.13580246913580246)
+rouge2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+rougeL: Score(precision=0.064, recall=0.21621621621621623, fmeasure=0.09876543209876544)
+--------------
+TARGET
+Motivatori su prisutni i neophodni u svakodnevnom životu. Govori se o radnim motivatorima, čije postojanje i pravilna primena dovode do ostvarenja željenih ciljeva. Na početku rada obrađene su osnovne definicije motivatora rada i motivacije. Zatim, analizirane su stimulacije kao motivatori, njihova primena i načini rešavanja problema demotivisanosti i nezadovoljstva.. U praktičnom delu rada sprovedeno je istraživanje na više organizacija različitog tipa, o motivacionom dejstvu određenih motivatora za rad, njihovoj privlačnosti od strane zaposlenih, ponašanje pojedinca i menadžera u situacijama prisutne demotivisanosti, kao i analiza potencijalnih rešenja neželjene situacije. 
+PREDICTION
+što se istražena tokom modularni rad će se deo kompleksa jeste pomoću metodologija koja će se uspešno pozitivno uticati na jednom mestu i njihovoj numerička u ovom delu definisan je plan svoj marketing stambenog korisnika u novom sadu, kako bi se ceo mogao ceo uticaj ali na se što se druga na druge strane marketing što će biti praktični deo radovi u sklopu novog sada, i dobijeni rezultati su pokazali da su potrebni za samom samom dalji plan kroz vizuelni prikaz procesa i kojima se nalazi u pogledu korisnika na bazi kvaliteta u ovom radu, gore of sada se postiže analizi najveći će pristup posvećen je preispituju principa pa među pitanju nastanka softvera, kao i model koraka unapređenja predstavlja u korisnika prostora gde je alat za poboljšanje kvaliteta prostora i ovim okviru detaljnog realizaciji alata, istraživački deo rada jeste osnovu rezultata značaja za dalja istraživanja i rešavanje podataka.
+rouge1: Score(precision=0.18292682926829268, recall=0.29411764705882354, fmeasure=0.22556390977443608)
+rouge2: Score(precision=0.006134969325153374, recall=0.009900990099009901, fmeasure=0.007575757575757575)
+rougeL: Score(precision=0.0975609756097561, recall=0.1568627450980392, fmeasure=0.12030075187969927)
+--------------
+TARGET
+Postupak rada podrazumeva  procenu količine olova, koji je sadržan u otpadnim televizorima sa CRT monitorima, za grad Novi Sad, i u zavisnosti od sadržaja olova, analizu negativnih uticaja na životnu sredinu i zdravlje ljudi. Dat je pregled raspoloživih i najboljih tehnologija, definisan je scenario, a količina olova je određena na osnovu eksperimentalno/ istraživačkog dela rada. 
+PREDICTION
+vođenje utiču na što zaposleni mogu da se analiziraju rezultati da bi se fakultet tehničkih nauka bolje u savremenim radu, pomoću sistema, a samim tim i po metodama po njihovim sredine, mnogo su su iz oblasti staklene gasova i rešavanje vrsta (engl. takođe su predstavljeni u ovom radu, prikazana su tri metode mašinskog učenja  dizajniranja za prikazuju način kako bi se uspešno jedno od strane prethodnih takođe, prikazan i lean enterijera alata za upravljanje inovacijama i postavljanje dobijenih učenja.
+rouge1: Score(precision=0.10989010989010989, recall=0.15873015873015872, fmeasure=0.12987012987012986)
+rouge2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+rougeL: Score(precision=0.06593406593406594, recall=0.09523809523809523, fmeasure=0.07792207792207792)
+--------------
+TARGET
+Rad sadrži definicije osnovnih pojm-ova: bezbedan, obmanjujući, opasan proizvod, opasnost, rizik i slično. S obzirom da procena rizika predstavlja alat koji omogućava identifikaciju opasnih karakteristika proizvoda, veći deo rada posvećen je objašnjenju ovog alata i prikazu koraka postupka procene rizika, kao i analizi dve od mnogobrojnih metoda za procenu rizika. Dat je prikaz studije slučaja procene rizika na konkret-nom primeru produžnog kabla, koji je okarakterisan kao nebezbedan. Pored negativnog primera, prikazuje i kom-panije koje su u 2019. godini nagrađene za visok nivo bezbednosti svojih proizvoda. 
+PREDICTION
+u članak proračuna predstavljaju matematički model relejne zaštite u procesu tačnosti prognoziranja problema.
+rouge1: Score(precision=0.11764705882352941, recall=0.02040816326530612, fmeasure=0.034782608695652174)
+rouge2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+rougeL: Score(precision=0.11764705882352941, recall=0.02040816326530612, fmeasure=0.034782608695652174)
+--------------
+TARGET
+Tema rada je višespratna stambena zgrada u Zrenjaninu. Izvršen je vizuelni makroskopski pregled zgrade, u cilju utvrđivanja postojećeg stanja. Za objekat je urađen proračun energetske efikasnosti. Na osnovu ovog proračuna i vizuelnog pregleda konstrukcije, date su sanacione mere koje povećavaju trajnost objekta, energetsku efikiasnost, kao i njegovu usaglašenost sa Pravilnikom o energetskoj efikasnosti i Pravilnikom o tehničkim zahtevima bezbednosti od požara spoljnih zidova zgrada. 
+PREDICTION
+što se proučavan na značaj rezultate i unapređenje procesa celokupnog sistema. predstavljene su predstavljeni su rezultati ovog rada je izvršen je predlog unapređenja aplikacije, kao i primenu trgovine celokupnog procesa trgovine i njegovo njegovo njegovo visokom sigurnosti zaštite u bazi iskorišćenosti materijala, procesa u ovom radu će biti analiziran je proces rada koja bi se uspešno koristiti u opštini uspešno i u srbiji i uspešno rizicima kroz primena svakog sektora kroz sprovedeno je da se predlože dalja okvir i projektovanja je poseban problem ostvaren.
+rouge1: Score(precision=0.16666666666666666, recall=0.21333333333333335, fmeasure=0.1871345029239766)
+rouge2: Score(precision=0.042105263157894736, recall=0.05405405405405406, fmeasure=0.04733727810650888)
+rougeL: Score(precision=0.10416666666666667, recall=0.13333333333333333, fmeasure=0.11695906432748539)
+--------------
+TARGET
+Rad se sastoji iz teorijskog i praktičnog dela. U teorijskom dijelu su opisana ležišta: vrste, način ugradnje i primjena. U praktičnom delu je urađena procjena stanja AB konstrukcije podvožnjaka u Novom Sadu. Kako bi se utvrdio stepen oštećenja i dao prijedlog sanacionih radova, sproveden je detaljan vizuelni pregled svih dostupnih elemenata konstrukcije. Zaključeno je da na AB elementima postoje brojni defekti i oštećenja. Na osnovu analize registrovanih defekata i oštećenja i rezultata nedestruktivnih metoda dat je prijedlog sanacionih mjera u cilju povećanja trajnosti AB konstrukcije. 
+PREDICTION
+što se istražena putem tehnologije na rad u ovom radu je prikazano istraživanje o izradu društvene mreži sa ciljem ispitivanja .
+rouge1: Score(precision=0.3333333333333333, recall=0.08, fmeasure=0.12903225806451613)
+rouge2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+rougeL: Score(precision=0.25, recall=0.06, fmeasure=0.0967741935483871)
+--------------
+TARGET
+Sadržinu rada čine dve makroceline: teorijski i praktični deo. Prvu celinu čini teorijski deo koji se bavi potpornim zidova, njihovom istorijom, primenom, podelama, principima projektovanja i gradnje. Drugi deo, odnosno praktični deo, prikazuje analizu objekta vila ”Ankica“ kroz sledeće aspekte: 1) Istorijski osvrt na objekat, kao i detaljan tehnički opis objekta 2) Procenu stanja objekta na osnovu detaljnih vizuelnih pregleda 3)Elaborat energetske efikasnosti objekta sa ocenom razreda energetske efikasnosti 4) Mere sanacije objekta, kako konstruktivne tako i nekontruktivne. Predložene mere sanacija imaju za cilj produžetak i očuvanje nosivosti, funkcionalnosti i trajnosti objekta, a predložene su u skladu sa pravilima očuvanja objekata spomenika kulture. 
+PREDICTION
+istraženi i detaljnije su mere unapređenja.
+rouge1: Score(precision=0.375, recall=0.02631578947368421, fmeasure=0.04918032786885246)
+rouge2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+rougeL: Score(precision=0.25, recall=0.017543859649122806, fmeasure=0.03278688524590164)
+--------------
+TARGET
+Tema ovog rada je procena rizika za JKP “Radnik” Sivac koja obuhvata objekte i prostor u vlasništvu pravnog lica (lokacija Sivac), koji mogu biti ugroženi elementarnim nepogodama i drugim nesrećama. Usled elementarnih nepogoda i drugih nesreća moguće su negativne posledice po samo preduzeće, širu zajednicu i okolinu. Negativne posledice se pre svega ogledaju kroz ugroženost života i zdravlja ljudi, ugroženost poslovanja, ugroženost životne sredine i društvene stabilnosti. 
+PREDICTION
+vođenje struktura i održavanja koje je potrebno je moguće rešenje koje bi se uspešno veliki ne bi bi se uspešno bolji način da bi se uspešno značajno bolje bolje i da se saniraju kako bi se produžio životni vijek takvih konstrukcija.
+rouge1: Score(precision=0.11764705882352941, recall=0.07792207792207792, fmeasure=0.09374999999999999)
+rouge2: Score(precision=0.02, recall=0.013157894736842105, fmeasure=0.015873015873015872)
+rougeL: Score(precision=0.09803921568627451, recall=0.06493506493506493, fmeasure=0.07812499999999999)
+--------------
+TARGET
+Rad obuhvata kreiranje primera virtuelnog okruženja obogaćenog prostornim zvukom, primenom Juniti pogona. Kratak uvod o virtuelnoj realnosi i prostornom zvuku daje neku osnovu čitaocu za izradu praktičnog projekta. Na primeru je pokazan jedan od pristupa za kreiranje neimerzivnog virtuelnog okruženja i data su rešenja na potencijalne probleme koji se mogu javiti prilikom izrade projekta. 
+PREDICTION
+istraženi i prikazane su mere za unapređenje kao i ponovljen pomoću prakse sa posebnim akcentom na osnovu tri od tri vrste različitih vrste alata, gde se već koriste u jednom vreme i podrške za drugim metodama u okviru rada uz ovom delu rada je implementirana aplikacije za nazivom varijanti i web web aplikacije.
+rouge1: Score(precision=0.1724137931034483, recall=0.1694915254237288, fmeasure=0.17094017094017094)
+rouge2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+rougeL: Score(precision=0.10344827586206896, recall=0.1016949152542373, fmeasure=0.10256410256410257)
+--------------
+TARGET
+U prvom dijelu rada prikazan je projekat višespratne armiranobetonske zgrade spratnosti PO+PR(+0,90 m)+10 u Budvi, prema Evrokod standar-dima. U drugom dijelu rada prikazana je uporedna analiza usvojene armature karakterističnih ramova prema Evrokodu i domaćim standardima. 
+PREDICTION
+tema rada je takođe i dat uvid u dve dve podataka, za mogućnost potrebe i da li se dobila stvoriti ove ove ove predstavljene su mere upotrebe događaja u pogledu date su dobijeni rezultati mogu da se mogu koristiti u vidu da bi se dobila numerička analiza karakteristike i dalji razvoj razvoj alata uz upotrebu razvoj alata i odnosa svrha je da se odnosi na prezentacijski deo uspešno i budući uspešno dobijenog trgovine i njegove savremenih alata, u radu se takođe istraživanje koje se odnosi na okviru projekta. takođe, urađena je smanjenje sisteme za njihovo određenih aplikacije, kao i objekat da je objekat projektovanje i detaljno će se primenom ove inovacijama i ostalim oblastima  dobija može može ne razlikuje u digitalnom istraživanju i pruža rizike koji se mogu da se koristi za izradu enterijera u scenu.
+rouge1: Score(precision=0.05263157894736842, recall=0.18604651162790697, fmeasure=0.08205128205128205)
+rouge2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+rougeL: Score(precision=0.039473684210526314, recall=0.13953488372093023, fmeasure=0.06153846153846154)
+--------------
+TARGET
+U prvom delu rada prikazan je projekat armiranobetonske višespratne zgrade Po+Pr+5 a u drugom delu je analiziran uticaj torzionih efekata na seizmički odgovor konstrukcije prema evropskim standardima. 
+PREDICTION
+tema rada je bio za slučaj unapređenja upravljanja, dok je sintezu benefite prednosti i mane dve sajtova kao i verifikacija za izradu svih načina za javnom načina u cilju kako bi mikrofluidnih delu rada urađena je simulacija rada sa ciljem da bi se opisuje uticaj određenih funkcija.
+rouge1: Score(precision=0.1320754716981132, recall=0.22580645161290322, fmeasure=0.16666666666666666)
+rouge2: Score(precision=0.019230769230769232, recall=0.03333333333333333, fmeasure=0.024390243902439025)
+rougeL: Score(precision=0.11320754716981132, recall=0.1935483870967742, fmeasure=0.14285714285714285)
+--------------
+TARGET
+U radu je obrađeno projektno rešenje armirano-betonske temeljne ploče zgrade spratnosti Po+P+6 sa posebnim osvrtom na analizu interakcije temeljne ploče i tla. Analiza svih relevantnih opterećenja koja deluju na konstrukciju i dimenzionisanje karakteris-tičnih armiranobetonskih elemenata je razmatrano prema Evrokodovima. Za proračun konstrukcije korišćen je soft-verski paket Tower 8. 
+PREDICTION
+što se razmatraju se javlja u zemljotresa za ograničenje da se bavi problemom kako bi se došlo do najoptimalnijeg istog.
+rouge1: Score(precision=0.13636363636363635, recall=0.04918032786885246, fmeasure=0.07228915662650602)
+rouge2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+rougeL: Score(precision=0.09090909090909091, recall=0.03278688524590164, fmeasure=0.04819277108433735)
+--------------
+TARGET
+Rad se sastoji iz dve celine. Prvi deo se sastoji iz kompletnog projekta konstrukcije u svemu sprovedenog prema „EN 1992“ standardu, a drugi, istraživački deo, sadrži uporednu analizu prslina prema „EN 1992“ i „PBAB '87“. 
+PREDICTION
+obrađene u radu su prikazani razvojni osnove o ovom okruženju čime se koriste u srbiji i pravilno podršku konstrukcije. u radu su opisane dvije aplikacije za bezbedan rad. po uporednu kraju, u ovom radu je opisan postupak izrade konstrukcije trakastog posebno metod tehnički opis upravljanja i planiranje upravljanja kao i upravljanje dizajna. na kraju je predstavljen primer sa ciljem primene učenja.
+rouge1: Score(precision=0.12121212121212122, recall=0.21052631578947367, fmeasure=0.15384615384615385)
+rouge2: Score(precision=0.015384615384615385, recall=0.02702702702702703, fmeasure=0.0196078431372549)
+rougeL: Score(precision=0.09090909090909091, recall=0.15789473684210525, fmeasure=0.11538461538461539)
+--------------
+TARGET
+Projekat turističko-stambenog kom-pleksa na Trebeviću obuhvata različite aspekte projekto-vanja nastalih iz potreba okoline u konkretnom fizičkom i socijalnom kontekstu. Bavi se formiranjem urbanističke cjeline na planinskom području, ispitivanjem funkcija i njihovih odnosa, kao i relacijom između prirode i samih objekata. Programska kompleksnost je uslovljena sav-remenim parametrima u arhitekturi. Sprovedeno je pet studija slučaja u kojima se ispitivao odnos ovih para-metara i kao rezultat, stvoreni su segmenti koncepta za projekat. 
+PREDICTION
+što se istražena njihov značaj za korisnike uspešno kroz model sa ciljem da se bave praktičnu samostalno karakteristike i metodama proširenja rada.
+rouge1: Score(precision=0.14814814814814814, recall=0.04878048780487805, fmeasure=0.07339449541284404)
+rouge2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+rougeL: Score(precision=0.1111111111111111, recall=0.036585365853658534, fmeasure=0.055045871559633024)
+--------------
+TARGET
+Predmet ovog rada jeste ispitivanje parametarskog projektovanja ambalažne kutije. Cilj rada je prikaz, analiza i uticaj parametarskog projektovanja ambalaže u aplikacijama EngView paketa - EngView Synergy i EngView Package Designer. 
+PREDICTION
+istraženi i nedostaci forenzike unapređenja.
+rouge1: Score(precision=0.14285714285714285, recall=0.03225806451612903, fmeasure=0.052631578947368425)
+rouge2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+rougeL: Score(precision=0.14285714285714285, recall=0.03225806451612903, fmeasure=0.052631578947368425)
+--------------
+TARGET
+Tema rada jeste projektovanje tehno-loškog postupka i uređaja termohemijske obrade zupčani-ka. Odabran je tip termohmeijske obrade, kontruisan uređaj i pogon za termičku obradu. Cilj rada jeste da se analiziraju postupci termohemijske obrade, da se odabere proces i oprema za pogon termičke obrade. 
+PREDICTION
+istraženi i obrađeni su uzroci koji su analizirane u ovom radu.
+rouge1: Score(precision=0.07692307692307693, recall=0.02, fmeasure=0.03174603174603175)
+rouge2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+rougeL: Score(precision=0.07692307692307693, recall=0.02, fmeasure=0.03174603174603175)
+--------------
+TARGET
+Zadatak rada jeste projektovanje verifikacione komponente za APB protokol korišćenjem UVM metologije. Programski jezik je SystemVerilog. U radu je dat uvod u SystemVerilog jezik i UVM meto-dologiju. Na kraju su prikazani rezultati testiranja i funk-cionalni coverage. 
+PREDICTION
+istraženi i obrađeni su uzroci koji su analizirane u ovom radu.
+rouge1: Score(precision=0.3076923076923077, recall=0.10256410256410256, fmeasure=0.15384615384615385)
+rouge2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+rougeL: Score(precision=0.15384615384615385, recall=0.05128205128205128, fmeasure=0.07692307692307693)
+--------------
+TARGET
+Tema ovog rada jeste proučavanje požara kao česte pojave u današnjem vremenu moderne tehnologije koji predstavlja jedan od najčešćih hazarda. Cilj rada je da se ukaže na problematiku izrade projekta sprinkler instalacije za hotel u skladu sa zakonskom regulativom. Sekundarni cilj rada je da se obrade i građevinske preventivne mere koje regulišu oblast zaštite od požara. Izrada stacionarnih sistema za gašenje požara kao i poštovanje preventivnih mera, imaju humanu ulogu, kako spašavanje ljudskih života tako i sve popularniju ekonomsku opravdanost izrade sistema. 
+PREDICTION
+što se istražena njihov značaj funkcija koja se korisnicima primeniti na ovu funkcionisanje ovog preduzeća.
+rouge1: Score(precision=0.2222222222222222, recall=0.041666666666666664, fmeasure=0.07017543859649122)
+rouge2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+rougeL: Score(precision=0.1111111111111111, recall=0.020833333333333332, fmeasure=0.03508771929824561)
+--------------
+TARGET
+Ovaj rad obrađuje podelu grafa korišćenjem jednog od algoritama učenja sa podsticajem. Grafovi se često koriste kao apstrakcije prilikom modeliranja problema. Podela grafa na manje delove jedna je od osnovnih algoritamskih operacija. Cilj ovog rada je prikaz implementacije algoritma učenja sa podsticajem za podelu grafa na dve particije. 
+PREDICTION
+najveće osnovni kvalitet poslovanja i uređaja.
+rouge1: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+rouge2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+rougeL: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+--------------
+TARGET
+U ovom radu predstavljen je razvoj aplikacije za testiranje bezbednosti web aplikacija u Python programskom jeziku, kroz prethodno analizirane koncepte bezbednosti i ranjivosti web aplikacija i penetracionog testiranja. 
+PREDICTION
+istraženi i obrađeni su korišćeni su nemaju način u sferi takođe, prikazan je i upravo stavljen na to da se mogu da postoji više povezanost između aplikacije i koje su poboljšanja elemenata koje je optimizacije kako bi se primenom obrade mašinskog učenja primenom velikog alata, u kojima su više potrebe za stambene potrebe preduzeća tako da bi se do 200 pojave velikog strane i da predlog mera za poboljšanje kvaliteta u ovom slučaju to se postiže automatski
+rouge1: Score(precision=0.08695652173913043, recall=0.2857142857142857, fmeasure=0.13333333333333333)
+rouge2: Score(precision=0.01098901098901099, recall=0.037037037037037035, fmeasure=0.01694915254237288)
+rougeL: Score(precision=0.05434782608695652, recall=0.17857142857142858, fmeasure=0.08333333333333333)
+--------------
+TARGET
+U okviru ovog rada je izvršeno projektovanje i razvoj desktop i veb aplikacije koje bi mogle olakšati i ubrzati proces poslovanja kao i doprineti boljoj organizacije rada studentske službe. Prilikom implementacije aplikacija korišćene su tehnologije ASP.NET MVC i WPF koje predstavljaju sastavni deo Microsoft-ovog .NET okruženja. 
+PREDICTION
+istraženi i nedostaci forenzike zaštite u model pravcu i hercegovini, u radu je takođe i detaljan opis implementacije elemenata elemenata je vršena je analiza upravljanja i objašnjenje elemenata i razvoja poštanskog elemenata iz novog sada,
+rouge1: Score(precision=0.1951219512195122, recall=0.1509433962264151, fmeasure=0.1702127659574468)
+rouge2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+rougeL: Score(precision=0.12195121951219512, recall=0.09433962264150944, fmeasure=0.10638297872340426)
+--------------
+TARGET
+U radu je razvijen i uspešno implementiran 3D štampač. Opisan je proces konfigurisanja firmvera, kao i detaljan postupak kalibracije koji je neophodan za dobijanje kvalitetnog otiska. Prikazan je način daljinkog upravljanja 3D štampača. 
+PREDICTION
+istraženi i detaljno su mere za neki od oblika koncepta dok se može da se zbog novi pojave izvođenja ovih problema u polju njihovom u srbiji i na prepreke u srbiji i kako proračuna mogu da ukaže na od požara i potom istraživanje je da ukaže na značaj i njen kako bi se do društvenih karakteristika ili tim u novom sadu, i na osnovu pripreme upravljanja i osnovni rezultati dobijeni rezultati su prikazani u ovom radu zaključuju da bi duboke konvolucione neuronske mreže mogle izvući radiološke vizuelne karakteristike koje su u korelaciji sa biomarkerima koji su povezani u slučajevima covid19 sa velikom tačnošću.
+rouge1: Score(precision=0.08264462809917356, recall=0.2777777777777778, fmeasure=0.12738853503184713)
+rouge2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+rougeL: Score(precision=0.049586776859504134, recall=0.16666666666666666, fmeasure=0.07643312101910829)
+--------------
+TARGET
+U ovom radu opisani su osnovni koncepti distribuiranih sistema, blokčejn tehnologije i programskih jezika za pisanje pametnih ugovora. Razvoj blokčejn tehnologije je podeljen na tri generacije od kojih je svaka donela nove jezike za pisanje pametnih ugovora. Jezici su zasebno analizirani i na kraju je izvršena njiho-va komparativna analiza u cilju određivanja poželjnih osobina programskih jezika za pisanje pametnih ugovora. 
+PREDICTION
+istraženi i nedostaci forenzike usluge. je da se smanjenje kapaciteta za demonstraciju ali i da se dobija ka poboljšanju kvaliteta koje ne bi se analizama što veći sve broj prostora u scenu.
+rouge1: Score(precision=0.14285714285714285, recall=0.07575757575757576, fmeasure=0.09900990099009901)
+rouge2: Score(precision=0.0, recall=0.0, fmeasure=0.0)
+rougeL: Score(precision=0.14285714285714285, recall=0.07575757575757576, fmeasure=0.09900990099009901)
+--------------
+TARGET
+U eri tehnološkog razvoja u kojoj se nalazimo, uviđamo mnoge velike pomake na polju medi-cine. Psihoterapija je dobila novi oblik i biva unapređena tehnološkim dostignućem - virtuelnom realnosti. Kroz ovaj rad je obrađen razvoj usluge i kreiranje aplikacije, koja bi pospešila tretmane lečenja fobija putem VR-a, ubacivanjem personalizovanih avatara. Takođe, razrađen je i biznis plan, putem Canvas alata za izradu biznis modela, a dati su i predlozi za razvoj i sveobuhvatni zaključak. 
+PREDICTION
+slično implementacija vrednosti koje se na kraju rada dati su rezultati o oblasti upravljanja vremenom i na radnim sistemu po kojima su ocenjivane internet prenosa.
+rouge1: Score(precision=0.19230769230769232, recall=0.05952380952380952, fmeasure=0.09090909090909091)
+rouge2: Score(precision=0.04, recall=0.012048192771084338, fmeasure=0.018518518518518517)
+rougeL: Score(precision=0.19230769230769232, recall=0.05952380952380952, fmeasure=0.09090909090909091)
+--------------
+TARGET
+Tema rada jeste izrada sistema za video konferencije. U tu svrhu implementirana je Android aplikacija nalik aplikacijama slične namjene. Za potrebe razmjene audio-video stream-ova učesnika video poziva implementiran je server kao čvor na koji se klijenti kače i preko kojeg se razmjena tih stream-ova i obavlja. Server je razvijen u Java programskom jeziku, verzije 1.8, korišćenjem Spring razvojnog okruženja. Za skladištenje podataka korištene su relacione baze podataka i to MySQL za potrebe skladištenja podataka neophodnih serveru i FireBase realtime baza podataka za potrebe čuvanja podataka neophodnih za funkcionisanje same Android aplikacije. Video-conference Android aplikacija nudi niz funkcionalnosti poput ostvarivanja video poziva, dodavanja novih prijatelja, pruža uvid u pristigle notifikacije i nudi mogućnost ažuriranja ličnih podataka. Pored ovih, tu su i niz funkcionalnosti koji olakšavaju korišćenje same aplikacije, kao što su mijenjanje teme, podešavanje dnevnog i noćnog režima rada aplikacije i podešavanje željenog jezika. 
+PREDICTION
+istraženi i nedostaci forenzike usluge. je dat predlog unapređenja procesa poslovanja sa ciljem da uticaj bude značajno da je da se princip rada bolje bolje i primenu prednosti i ručno primenu na internetu. cilj istraživanja je da se o velikog broja aktivnosti u skladištenje odvija i odgovori kreirana i na osnovu analize analize punjenja: bi se utvrdilo koji će analiziran je analiziran i nova funkcija koja bi se ogleda u ovom slučaju se analiziraju ne samo mišljenja ili razvijaju u prethodno što se mogu što koristi u jednom skram timova i pružanje unapređenja koje li su u ovom slučaju se bile mera za unapređenje mera u svetu da će biti veliki broj elemenata objekta, u svetu i da se prilikom stepen efikasnosti i unapređenje korisnika.
+rouge1: Score(precision=0.2463768115942029, recall=0.20481927710843373, fmeasure=0.22368421052631582)
+rouge2: Score(precision=0.0072992700729927005, recall=0.006060606060606061, fmeasure=0.006622516556291392)
+rougeL: Score(precision=0.13043478260869565, recall=0.10843373493975904, fmeasure=0.11842105263157895)
+--------------
